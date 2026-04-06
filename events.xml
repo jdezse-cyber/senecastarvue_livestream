@@ -4,9 +4,23 @@
         <description><![CDATA[RSS Feed - Seneca Starvue - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 04:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 04:15:15 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[<b>Indianapolis Christmas</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-04-10T10:00:00</pubDate>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Please call 419-448-9774 or come in with any question.]]></description>
+            <link>https://www.facebook.com/events/884413264597777</link>
+            <guid isPermaLink="false">69c9a013acb93b4dbc94a89f</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656705490_1430103052485058_2839901457877387147_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69d0797121a8442256e62eab</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
             <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-04-10T10:00:00</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
@@ -17,21 +31,6 @@
             <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69d0797121a8442256e62eab</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Tiffin moose 846 Spring Craft Show</b> - 04/02/2026 9:00am EDT to 04/05/2026 3:00pm EDT]]></title><pubDate>2026-04-05T15:00:00</pubDate>
-            <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
-
- Spring Craft Show this Saturday 4/5/25 9-3pm]]></description>
-            <link>https://www.facebook.com/events/519279844573398/</link>
-            <guid isPermaLink="false">67ee20513062b0cd3a10e7d7</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <category><![CDATA[Festivals/Fairs]]></category>
-            <category><![CDATA[Lifestyle]]></category>
-            <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F488553379_966355605480200_6008562517744919958_n.png" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -59,70 +58,6 @@
             <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>2026 BUCC Easter Service</b> - 04/05/2026 10:15am EDT to 04/05/2026 11:30am EDT]]></title><pubDate>2026-04-05T11:30:00</pubDate>
-            <description><![CDATA[<b>Location : 33 N Marion St, Bloomville, OH 44818, USA</b> 
-
- Join us as we rejoice in the Easter season together on Sunday, April 5, 2026. Pastor Tom will give an uplifting message and communion will be celebrated.]]></description>
-            <link>https://www.facebook.com/events/1536715794313559</link>
-            <guid isPermaLink="false">693619097795e045ce121f1f</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Bloomville UCC]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F596412160_1313797434114509_35408353504756918_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/05/2026 10:30am EDT to 04/05/2026 11:30am EDT]]></title><pubDate>2026-04-05T11:30:00</pubDate>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042758782821</link>
-            <guid isPermaLink="false">69c305080f2c042b8592ae74</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Easter Sunday Service</b> - 04/05/2026 10:30am EDT to 04/05/2026 11:30am EDT]]></title><pubDate>2026-04-05T11:30:00</pubDate>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Join us Easter Sunday in person at 10:30am for worship followed by Sunday Service. Online, worship at home and join us on Facebook or YouTube at 10:50am live, or watch later at your convenience.]]></description>
-            <link>https://www.facebook.com/events/1413375237196770</link>
-            <guid isPermaLink="false">69bdc26196d092733aa35ae3</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653876412_1404334878400965_5515448455580051810_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Easter Buffet</b> - 04/05/2026 11:00am EDT to 04/05/2026 2:30pm EDT]]></title><pubDate>2026-04-05T14:30:00</pubDate>
-            <description><![CDATA[<b>Location : 4399 OH-231, Tiffin, OH 44883, USA</b> 
-
- Join us for our Easter buffet celebration, featuring an array of breakfast favorites including eggs, bacon, sausage, biscuits, and gravy, alongside lunch options such as ham, chicken, pasta, and potatoes. A selection of assorted salads and desserts will also be available. To secure your reservation, please call 419-447-8325 or book online through OpenTable.]]></description>
-            <link>https://www.facebook.com/events/1284596560247062</link>
-            <guid isPermaLink="false">69be6aaf16ec192653dc5cd7</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Ironwood Steakhouse]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655915638_1509157731213680_6718842979137848655_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Sunday School 9:30am</b> - 04/05/2026 9:30pm EDT to 04/05/2026 10:30pm EDT]]></title><pubDate>2026-04-05T22:30:00</pubDate>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Sunday School classes for Toddlers, Kids, Youth, and Adults on Sunday mornings 9:30am-10:30am. We study the Bible and talk about applying it to our lives.]]></description>
-            <link>https://www.facebook.com/events/2373272679813179</link>
-            <guid isPermaLink="false">69bdc25896d092733aa35ada</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Religious]]></category>
-            <category><![CDATA[School]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655139612_1404325691735217_5329573823625919407_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -331,20 +266,82 @@
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653701084_1404299568404496_3897318044021162972_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>BUCC's Beer, Burgers & Bibles (Monthly Bible Study)</b> - 04/08/2026 6:00pm EDT to 04/08/2026 8:00pm EDT]]></title><pubDate>2026-04-08T20:00:00</pubDate>
+            <description><![CDATA[<b>Location : 33 N Marion St, Bloomville, OH 44818, USA</b> 
+
+ Join us as we take a deep dive on small sections of the bible for our monthly bible study. Location and menu vary month to month. Call or text Audrey at 419-561-0244 if you'd like to join us! We have a very casual, fun, "no stupid questions" atmosphere. It's not hard to jump in - you don't need to have joined a previously. Come and go as you please!]]></description>
+            <link>https://www.facebook.com/events/865090319343004/865090336009669</link>
+            <guid isPermaLink="false">6936195d7795e045ce121f2f</guid>
+            <category><![CDATA[Religious]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Bloomville UCC]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F596470058_1313793204114932_6423188228468428714_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>The Blueprint Series - April Coffee Chat</b> - 04/09/2026 8:30am EDT to 04/09/2026 10:00am EDT]]></title><pubDate>2026-04-09T10:00:00</pubDate>
+            <description><![CDATA[<b>Location : 40 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ We’re excited to invite you to an upcoming Coffee Chat focused on: RMD Strategies & Retirement Income What to Know Before You Are Forced to Withdraw Whether you're approaching retirement or already there, understanding Required Minimum Distributions (RMDs) is key to protecting your income and minimizing taxes.  Thursday, April 9th   8:30 AM – 10:00 AM  40 E Perry St, Tiffin, OH Enjoy a relaxed morning with coffee, conversation, and practical financial insights you can actually use. This event is open to the public.]]></description>
+            <link>https://www.facebook.com/events/920700144284210</link>
+            <guid isPermaLink="false">69cc6fcb9dd0b1cadffb53f6</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Financial Design Agency of Ohio ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657871350_1527740512689093_3933032630069750225_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>ServSafe Manager Class</b> - 04/09/2026 9:00am EDT to 04/09/2026 10:00am EDT]]></title><pubDate>2026-04-09T10:00:00</pubDate>
+            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ 2-day ServSafe Manager Class with Exam]]></description>
+            <link>https://www.facebook.com/events/2431977763925433</link>
+            <guid isPermaLink="false">698ee649f9d4000882258b9c</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F632827767_1242541231337406_6724066545163194224_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>10a | Toddler Tales</b> - 04/09/2026 10:00am EDT to 04/09/2026 11:00am EDT]]></title><pubDate>2026-04-09T11:00:00</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ null]]></description>
+            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
+            <guid isPermaLink="false">69b20554462ba7dee861c80e</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>"Barn on the Hill"  Thursday, April 9, 2026 10am-1pm or 6pm-9pm #04092601 or 04092602</b> - 04/09/2026 10:00am EDT to 04/09/2026 9:00pm EDT]]></title><pubDate>2026-04-09T21:00:00</pubDate>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Pre-registration and payment is required by April 9. Paint "Barn on Hill" in water-mixable oils with Carol Hoffman on Thursday, April 9 from 10am until 1 pm or from 6pm-9pm. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 9"x12" canvas are included in the price of the class. Please bring a large box to take your painting home in. Cost is $50 for TAG members & $60 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
+            <link>https://www.facebook.com/events/798558132867690</link>
+            <guid isPermaLink="false">69be148b07b2e7f4f379402a</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650801252_1562363532562202_8948286066981762436_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>Tiffin moose 846 Spring Craft Show</b> - 04/02/2026 9:00am EDT to 04/05/2026 3:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
- Spring Craft Show this Saturday 4/5/25 9-3pm]]></description>
-            <link>https://www.facebook.com/events/519279844573398/</link>
-            <guid isPermaLink="false">67ee20513062b0cd3a10e7d7</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <category><![CDATA[Festivals/Fairs]]></category>
-            <category><![CDATA[Lifestyle]]></category>
-            <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F488553379_966355605480200_6008562517744919958_n.png" length="0" type="image/jpeg"/>
+ Please call 419-448-9774 or come in with questions or to sign up.]]></description>
+            <link>https://www.facebook.com/events/2944643965742398</link>
+            <guid isPermaLink="false">69c9bea7ce823493e4205edc</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[Allen Eiry Senior Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661081090_1430103425818354_5010377172829651438_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69d0797121a8442256e62eab</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -374,75 +371,6 @@
             <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-prg1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F484390816_1192568326207961_955092278975867574_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>67f0c47430f1f06bcede21e5</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>2026 BUCC Easter Service</b> - 04/05/2026 10:15am EDT to 04/05/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 33 N Marion St, Bloomville, OH 44818, USA</b> 
-
- Join us as we rejoice in the Easter season together on Sunday, April 5, 2026. Pastor Tom will give an uplifting message and communion will be celebrated.]]></description>
-            <link>https://www.facebook.com/events/1536715794313559</link>
-            <guid isPermaLink="false">693619097795e045ce121f1f</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Bloomville UCC]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F596412160_1313797434114509_35408353504756918_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/05/2026 10:30am EDT to 04/05/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042758782821</link>
-            <guid isPermaLink="false">69c305080f2c042b8592ae74</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Easter Sunday Service</b> - 04/05/2026 10:30am EDT to 04/05/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Join us Easter Sunday in person at 10:30am for worship followed by Sunday Service. Online, worship at home and join us on Facebook or YouTube at 10:50am live, or watch later at your convenience.]]></description>
-            <link>https://www.facebook.com/events/1413375237196770</link>
-            <guid isPermaLink="false">69bdc26196d092733aa35ae3</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653876412_1404334878400965_5515448455580051810_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Easter Buffet</b> - 04/05/2026 11:00am EDT to 04/05/2026 2:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 4399 OH-231, Tiffin, OH 44883, USA</b> 
-
- Join us for our Easter buffet celebration, featuring an array of breakfast favorites including eggs, bacon, sausage, biscuits, and gravy, alongside lunch options such as ham, chicken, pasta, and potatoes. A selection of assorted salads and desserts will also be available. To secure your reservation, please call 419-447-8325 or book online through OpenTable.]]></description>
-            <link>https://www.facebook.com/events/1284596560247062</link>
-            <guid isPermaLink="false">69be6aaf16ec192653dc5cd7</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Ironwood Steakhouse]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655915638_1509157731213680_6718842979137848655_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Sunday School 9:30am</b> - 04/05/2026 9:30pm EDT to 04/05/2026 10:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Sunday School classes for Toddlers, Kids, Youth, and Adults on Sunday mornings 9:30am-10:30am. We study the Bible and talk about applying it to our lives.]]></description>
-            <link>https://www.facebook.com/events/2373272679813179</link>
-            <guid isPermaLink="false">69bdc25896d092733aa35ada</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Religious]]></category>
-            <category><![CDATA[School]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655139612_1404325691735217_5329573823625919407_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1341,6 +1269,20 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Adult Craft- DIY Aromatherapy Bracelets</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Registration required. Registration will open two weeks prior to the event. Sign up at the library or by calling 419-426-3825.]]></description>
+            <link>https://www.facebook.com/events/2716675892049193</link>
+            <guid isPermaLink="false">69d20b22a38b0a4eac61bdfb</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661077937_1359515716208745_1064645468452791088_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Glitter & Glue: Book Bedazzling</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -1564,16 +1506,31 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>4:30p | Brick Builders Club</b> - 04/16/2026 4:30pm EDT to 04/16/2026 5:30pm EDT]]></title>
+            <title><![CDATA[<b>Brick Builders Club</b> - 04/16/2026 4:30pm EDT to 04/16/2026 5:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
 
- null]]></description>
-            <link>https://seneca-oh.whofi.com/calendar/event/179506/?method=embed</link>
+ The Brick Builders Club welcomes participants of all ages and encourages families to attend together. No registration is required, and members can join at any meeting without the need to attend them all. Join us at 4:30 PM for a fun and creative building experience!]]></description>
+            <link>https://www.facebook.com/events/1296462575688472/1296462585688471</link>
             <guid isPermaLink="false">687a693ee6d22f94d09aec03</guid>
             <category><![CDATA[Clubs]]></category>
             <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fafdfa503-7ed6-4e69-90b7-67aea20cc8cb.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658930491_1359512676209049_6801573529465883967_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Freedom Rising XII</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ ANNOUNCEMENT: FREEDOM RISING XII   We are thrilled to officially announce Freedom Rising XII, our annual celebration and largest fundraiser of the year benefiting Sisters in Shelter and it’s an evening you won’t want to miss. This powerful night brings our community together in support of survivors of human trafficking through an unforgettable program that includes:   Inspiring program & mission updates   Raffle & Silent Auction (with over 100 incredible items last year!)   Heavy hors d’oeuvres   Cash bar   Keynote Speaker: Brittany Joy Figlar Brittany’s story is one of courage, resilience, and transformation. Each time she speaks, she moves hearts and challenges us to see what’s possible when survivors are empowered to rise from victim to victor.   Get Involved: • Interested in donating a raffle or silent auction item or basket? We would be deeply grateful for your support. • Sponsorship opportunities are available at multiple levels, offering meaningful ways to stand with survivors while showing your commitment to our mission. $1,000 Gold Sponsorship includes: 1 VIP Table (8 seats) 8 Tickets to event 8 Free drink tickets 2 Sisters in Shelter T-Shirts Swag bag Advertising on Social Media, Newspaper, Printed Materials, and Radio! $500 Silver Sponsorship includes: 4 Tickets to event 4 Free drink tickets Swag bag Advertising on Social Media, Newspaper, Printed Materials, and Radio! • And even if sponsorship isn’t the right fit, every donation, at any amount, makes a difference. We truly could not do this without our community. We are so blessed to live in a place that shows up for local businesses, for organizations, and most importantly… for people.   Tickets are now available (https://www.zeffy.com/en-US/ticketing/freedom-rising-xii ) join us for a night of purpose, impact, and hope. This is more than an event. It’s a movement.   We look forward to connecting with you:   Sisters in Shelter  Any Questions or Contact information: 201 S. Washington Street, PO Box 384 Tiffin, Ohio 44883 (567) 205-8771 sistersinshelter@gmail.com]]></description>
+            <link>https://www.facebook.com/events/1639989577033952</link>
+            <guid isPermaLink="false">69a07f198c39db8b3b3f06bb</guid>
+            <category><![CDATA[Causes]]></category>
+            <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1588,20 +1545,6 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656924779_1372293098275327_614357494694165506_n.jpg%3Fstp%3Ddst-jpg_s960x960_tt6%26_nc_cat%3D100%26ccb%3D1-7%26_nc_sid%3D7e0d18%26_nc_ohc%3Db7tijURkvo8Q7kNvwF_0rnu%26_nc_oc%3DAdrvTs3xra9MOAlXGyAqwSKcJQuAnRIuEBRggemhRM8pWCcPo-XiHgy7UoRVHxM-HiA%26_nc_zt%3D23%26_nc_ht%3Dscontent-atl3-2.xx%26_nc_gid%3D2z6sBqJmgye2kh2ckUic6g%26_nc_ss%3D7a389%26oh%3D00_Af2afaUIY_X2o4r7ca2jgzNKGqgqN3ETMnPOhluC9MGEpg%26oe%3D69D66175" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Freedom Rising XII</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
-
- ANNOUNCEMENT: FREEDOM RISING XII   We are thrilled to officially announce Freedom Rising XII, our annual celebration and largest fundraiser of the year benefiting Sisters in Shelter and it’s an evening you won’t want to miss. This powerful night brings our community together in support of survivors of human trafficking through an unforgettable program that includes:   Inspiring program & mission updates   Raffle & Silent Auction (with over 100 incredible items last year!)   Heavy hors d’oeuvres   Cash bar   Keynote Speaker: Brittany Joy Figlar Brittany’s story is one of courage, resilience, and transformation. Each time she speaks, she moves hearts and challenges us to see what’s possible when survivors are empowered to rise from victim to victor.   Get Involved: • Interested in donating a raffle or silent auction item or basket? We would be deeply grateful for your support. • Sponsorship opportunities are available at multiple levels, offering meaningful ways to stand with survivors while showing your commitment to our mission. $1,000 Gold Sponsorship includes: 1 VIP Table (8 seats) 8 Tickets to event 8 Free drink tickets 2 Sisters in Shelter T-Shirts Swag bag Advertising on Social Media, Newspaper, Printed Materials, and Radio! $500 Silver Sponsorship includes: 4 Tickets to event 4 Free drink tickets Swag bag Advertising on Social Media, Newspaper, Printed Materials, and Radio! • And even if sponsorship isn’t the right fit, every donation, at any amount, makes a difference. We truly could not do this without our community. We are so blessed to live in a place that shows up for local businesses, for organizations, and most importantly… for people.   Tickets are now available (https://www.zeffy.com/en-US/ticketing/freedom-rising-xii ) join us for a night of purpose, impact, and hope. This is more than an event. It’s a movement.   We look forward to connecting with you:   Sisters in Shelter  Any Questions or Contact information: 201 S. Washington Street, PO Box 384 Tiffin, Ohio 44883 (567) 205-8771 sistersinshelter@gmail.com]]></description>
-            <link>https://www.facebook.com/events/1639989577033952</link>
-            <guid isPermaLink="false">69a07f198c39db8b3b3f06bb</guid>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-dfw6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -1971,7 +1914,7 @@
             <category><![CDATA[Arts]]></category>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[New Riegel Music ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662515387_1556130486518878_5108964553707744706_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662515387_1556130486518878_5108964553707744706_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -2251,6 +2194,21 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Family Movie Night</b> - 04/23/2026 5:30pm EDT to 04/23/2026 7:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Join us for Family Movie Night! Bring your dinner, favorite blanket or camp chair & get comfy! Folding chair seating and popcorn provided! See what's showing by visiting our website https://www.senecaeastlibrary.org/.../family-movie-night-14.]]></description>
+            <link>https://www.facebook.com/events/1261688269277570/1261688272610903</link>
+            <guid isPermaLink="false">69d20b4321f15cb16f02a6fc</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662370182_1359511062875877_5456758467669536161_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -2596,6 +2554,20 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Stay & Play</b> - 04/27/2026 1:30pm EDT to 04/27/2026 2:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Stay & Play lasts for 30-45 Minutes, includes unstructured creative play, and is best suited for babies thru age 5. No registration required. New friends are always welcome.]]></description>
+            <link>https://www.facebook.com/events/952075280859938/952075287526604</link>
+            <guid isPermaLink="false">69d20b4521f15cb16f02a6fe</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658985441_1359509089542741_341074109734616028_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Celebrate Recovery Bible Study</b> - 04/27/2026 6:00pm EDT to 04/27/2026 7:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
@@ -2606,6 +2578,19 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fc681e3ab-367f-4796-81df-e444047a6062.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Bingo Night at the Library</b> - 04/27/2026 6:30pm EDT to 04/27/2026 7:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Free to play. Compete for prizes! For teens and adults. Refreshments included.]]></description>
+            <link>https://www.facebook.com/events/1465522101950008</link>
+            <guid isPermaLink="false">69d20b20a38b0a4eac61bdf9</guid>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661067912_1359520709541579_4109792842784552984_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3149,6 +3134,78 @@
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>695fd9e1d44e44d869d1887f</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Baby Play Date</b> - 05/06/2026 11:00am EDT to 05/06/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Join the Tiffin-Seneca Public Library for "Baby Play Date" on Wednesday, May 6, from 11:00 a.m. to 12:00 p.m. in the Frost Kalnow Room. This free event invites babies aged birth to 18 months and their caregivers to enjoy a play date filled with toys and books, while also providing a chance for parents and caregivers to connect with one another. No registration is necessary. For more details, visit the Junior Library or call (419) 447-3751.]]></description>
+            <link>https://www.facebook.com/events/1569307371312053</link>
+            <guid isPermaLink="false">69cdbb47cf62f08a8e599492</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F659047582_1378696724301631_4127006370246374999_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Coffee Connect</b> - 05/06/2026 11:00am EDT to 05/06/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
+
+ Come meet with the management of Your Legacy Federal Credit Union every first Wednesday of the month at 11AM. This is a chance for members to have a cup of coffee and come voice their concerns, praises, or just ask questions. Eligible Members of the community are welcome to learn more about the "Credit Union Difference" and find out how our 70+ year Seneca County institution can help you with your current finances and future plans!]]></description>
+            <link>https://www.facebook.com/events/1480200689235221/1816979152224038</link>
+            <guid isPermaLink="false">68958c8614638467a6e914f0</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F494916002_1511660100171152_4967348151098794213_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Teen Art Club</b> - 05/06/2026 3:00pm EDT to 05/06/2026 4:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ The Tiffin-Seneca Public Library invites teens in grades 6 through 12 to join the “Teen Art Club” on Wednesdays, May 6 and 20, from 3:00 to 4:30 p.m. in the Teen Area. This creative gathering encourages participants to bring their own drawings and projects or simply drop by to explore new artistic endeavors. The library will provide craft supplies, facilitating the opportunity to learn new arts and crafts skills in a fun and collaborative environment. For more information, visit www.tiffinsenecalibrary.org or call 419-447-3751.]]></description>
+            <link>https://www.facebook.com/events/1684622589556308/1684622592889641</link>
+            <guid isPermaLink="false">69cdbb3dcf62f08a8e599486</guid>
+            <category><![CDATA[Clubs]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F657347335_1378701774301126_8245612974125338596_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>"Colored Pencil Pear"  Wednesday, May 6, 2026 6pm-9pm #05062602</b> - 05/06/2026 6:00pm EDT to 05/06/2026 9:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ In this class you will use colored pencils to create a 5"x7" drawing of a pear, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Friday, May 1. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
+            <link>https://www.facebook.com/events/4259775110944887</link>
+            <guid isPermaLink="false">69c70f40de9e4806d8327143</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656229432_1571269498338272_4058425583274208860_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Level 2 Pastry Class</b> - 05/06/2026 6:00pm EDT to 05/06/2026 8:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Advance your baking skills with our Level 2 Pastry Class, designed to teach intermediate techniques for crafting delectable pastries. Perfect for those with basic experience looking to expand their culinary repertoire.]]></description>
+            <link>https://www.facebook.com/events/1646289846361635</link>
+            <guid isPermaLink="false">696edb34aa6f4324b45bf2be</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F618785390_1220239820234214_1424094794868015757_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
