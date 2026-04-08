@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - Seneca Starvue - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 04:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 04:15:13 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>Indianapolis Christmas</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title><pubDate>2026-04-10T10:00:00</pubDate>
@@ -16,7 +16,7 @@
             <category><![CDATA[Seasonal & Holiday]]></category>
             <category><![CDATA[Festivals/Fairs]]></category>
             <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656705490_1430103052485058_2839901457877387147_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656705490_1430103052485058_2839901457877387147_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69d0797121a8442256e62eab</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
@@ -47,110 +47,6 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Mobile Mammography</b> - 04/07/2026 12:00am EDT to 04/07/2026 1:00am EDT]]></title><pubDate>2026-04-07T01:00:00</pubDate>
-            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
-
- The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
-            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-7</link>
-            <guid isPermaLink="false">69cf8dd6569ab2f3e042199c</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Science & Tech]]></category>
-            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Laundry Day</b> - 04/07/2026 9:00am EDT to 04/07/2026 3:00pm EDT]]></title><pubDate>2026-04-07T15:00:00</pubDate>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Sign up for our free laundry days this month, Tuesday, April 7th and 21st, 9am-3pm. Each family can wash 1 load per month free, laundry detergent is also provided. You must sign up online for an appointment by clicking the link below, or contact Fostoria Church of the Nazarene or the United Way of Fostoria by phone to help you sign up. The location is 339 Sandusky Street in the FNC Community Center https://www.signupgenius.com/.../10C0548AEAB2FAAFBC25...]]></description>
-            <link>https://www.facebook.com/events/1473364500933840</link>
-            <guid isPermaLink="false">69bdc25d96d092733aa35ae0</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F654398853_1404383138396139_5026967680207762885_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Preschool Storytime</b> - 04/07/2026 10:00am EDT to 04/07/2026 11:00am EDT]]></title><pubDate>2026-04-07T11:00:00</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- The Tiffin-Seneca Public Library will be holding “Preschool Storytime” for children age three to five on Tuesday, April 7 at 10:00 a.m. in the Frost Kalnow Room. Stories, poems, songs, fingerplays, crafts, and much more will entertain and teach preschoolers during this free program. For more information, call the Library at 419-447-3751 or go to the online calendar at www.tiffinsenecalibrary.org.]]></description>
-            <link>https://www.facebook.com/events/26029265973434174</link>
-            <guid isPermaLink="false">69b4ad4547fcf7acf29a6aa5</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650677086_1361914699313167_6874944380594244859_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Storytime</b> - 04/07/2026 10:30am EDT to 04/07/2026 11:30am EDT]]></title><pubDate>2026-04-07T11:30:00</pubDate>
-            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
-
- Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
-            <link>https://www.facebook.com/events/954571976904829/954571986904828</link>
-            <guid isPermaLink="false">69be5f54b12a5af750582c3b</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>3p | Teen Tuesday</b> - 04/07/2026 3:00pm EDT to 04/07/2026 4:30pm EDT]]></title><pubDate>2026-04-07T16:30:00</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
-            <guid isPermaLink="false">695fd9baf19a044cd20503df</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>695fd9e1d44e44d869d1887c</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Teen Tuesday</b> - 04/07/2026 3:00pm EDT to 04/07/2026 4:30pm EDT]]></title><pubDate>2026-04-07T16:30:00</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/1344227140582392/1344227173915722/?active_tab=about</link>
-            <guid isPermaLink="false">689d7478ce8425bd32aadeeb</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>695fd9e1d44e44d869d1887c</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Caregivers Cafe</b> - 04/07/2026 6:00pm EDT to 04/07/2026 8:00pm EDT]]></title><pubDate>2026-04-07T20:00:00</pubDate>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Caregivers, parents, and grandparents, join us at the Caregivers Cafe Tuesday, March 24, March 31, and April 7, 6pm-8pm. Connect with other Caregivers, and learn about resources to help you in the community. A light meal and childcare will be provided, and there will be a drawing for a gift card. Please register ahead of time so that we can plan for food. https://ccrcinc.com/services-to-the.../ccrc-calendar.html]]></description>
-            <link>https://www.facebook.com/events/1351005840122300</link>
-            <guid isPermaLink="false">69bdc25a2e61db87217d8cd5</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F652823945_1402566485244471_8492249761330141439_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>How to Read a Book Like a Professor</b> - 04/07/2026 6:00pm EDT to 04/07/2026 7:00pm EDT]]></title><pubDate>2026-04-07T19:00:00</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- As part of the 2026 Christopher D. English Community Read, Tiffin-Seneca Public Library invites you to "How to Read a Book Like a Professor" on Tuesday, April 7 at 6:00 p.m. in the Frost Kalnow Room. Join Heidelberg professor Dr. Barry Devine for an engaging session where he will share techniques used by literature professors to analyze books, helping readers discover deeper themes and ask insightful questions. This event serves as a precursor to the Community Read book, The Astral Library by Kate Quinn, though prior reading of the book is not necessary. The Community Read initiative promotes reading and discussion in Seneca County through various special programs. Highlighting the event, bestselling author Kate Quinn will speak on Tuesday, April 28 at 6:30 p.m. at the Chandelier Community Event Center, followed by a book signing. Copies of The Astral Library will be available for purchase. Additional information about the Community Read can be found at www.tiffinsenecalibrary.org/community-read.]]></description>
-            <link>https://www.facebook.com/events/1202013695480074</link>
-            <guid isPermaLink="false">69b90d7d2d4027cb89e92ffa</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700213_1366831722154798_8003968271196296285_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
             <title><![CDATA[<b>Bouncing Babies</b> - 04/08/2026 11:00am EDT to 04/08/2026 12:00pm EDT]]></title><pubDate>2026-04-08T12:00:00</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -171,10 +67,8 @@
             <guid isPermaLink="false">69bb17e8cea230eb2b0fe7ac</guid>
             <category><![CDATA[Clubs]]></category>
             <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700455_1366001765571127_8491218905058096713_n.jpg%3Fstp%3Ddst-jpg_s960x960_tt6%26_nc_cat%3D105%26ccb%3D1-7%26_nc_sid%3D7e0d18%26_nc_ohc%3DsX2kW6pmI8AQ7kNvwHNgVFK%26_nc_oc%3DAdpuLtzGXWzeDiTe2DIuTlEij-GpDUoSEYPW-1QGwQMdWyrN5FoP2JOnIL8bmKrMy7Y%26_nc_zt%3D23%26_nc_ht%3Dscontent-lga3-2.xx%26_nc_gid%3D3lxgaG0Dh0KJ3Ykmq7r31w%26_nc_ss%3D7a389%26oh%3D00_Af28MEvpzrcGyfrpILvniI74iK90MQYDeHVEMrIhh215SA%26oe%3D69D66860" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-den2-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700455_1366001765571127_8491218905058096713_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -353,32 +247,6 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[LIFE@TU]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Feafa926b-2506-461b-82ff-6e57e54348bf.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/10/2026 10:00am EDT to 04/10/2026 12:00pm EDT]]></title><pubDate>2026-04-10T12:00:00</pubDate>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237526674327</link>
-            <guid isPermaLink="false">69d0c51e225bf6d6e2af8c17</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/10/2026 10:00am EDT to 04/10/2026 12:00pm EDT]]></title><pubDate>2026-04-10T12:00:00</pubDate>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237526674327</link>
-            <guid isPermaLink="false">69d0cae4598de6db02ff3614</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -735,18 +603,6 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/12/2026 10:30am EDT to 04/12/2026 11:30am EDT]]></title><pubDate>2026-04-12T11:30:00</pubDate>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042762116154</link>
-            <guid isPermaLink="false">69c3050907f8388554c94aa6</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
             <title><![CDATA[<b>Sunday Service</b> - 04/12/2026 10:30am EDT to 04/12/2026 11:30am EDT]]></title><pubDate>2026-04-12T11:30:00</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
@@ -768,6 +624,18 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Historical Octagon House & Farm]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616015523_861303470124712_5681073891502910091_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Family Fun Night!</b> - 04/12/2026 5:00pm EDT to 04/12/2026 7:00pm EDT]]></title><pubDate>2026-04-12T19:00:00</pubDate>
+            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
+
+ Join us for Family Fun Night Sunday, April 12, 5pm-7pm. We will have Breakfast Smorgasbord, so contact Jennifer to sign up to bring something! This will be a time of fun for everyone with basketball, cornhole, board games, cards, crafts, and so much more! Bring a game to share!]]></description>
+            <link>https://www.facebook.com/events/1036970968995216</link>
+            <guid isPermaLink="false">69d51b843bc97191ff7242d9</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F663259288_1420523753448744_5668444806369945304_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -854,6 +722,19 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
+            <title><![CDATA[<b>Glitter & Glue: Book Bedazzling</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title><pubDate>2026-04-13T19:30:00</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ As part of the 2026 Christopher D. English Community Read, Tiffin-Seneca Public Library will host two special adult craft sessions; “Glitter & Glue: Book Bedazzling” on Monday, April 13 at 10:00 a.m. and 6:30 p.m. in the Frost Kalnow Room. Celebrate the wonder and enchantment found within every story by transforming well-loved books into glittering works of art. Bring a favorite book to bedazzle (perhaps pick up a copy of The Astral Library from Pan Yan Bookstore), or choose from a limited selection we’ll have available. Two sessions will be offered. Space and supplies are limited, so please register for one of the offered times by calling 419-447-3751 or by visiting the online calendar at www.tiffinsenecalibrary.org.]]></description>
+            <link>https://www.facebook.com/events/1478570447150863</link>
+            <guid isPermaLink="false">69b358c5c90f8972b9aded72</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650803608_1361376319367005_3596107679711770545_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
             <title><![CDATA[<b>Adult Craft- DIY Aromatherapy Bracelets</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title><pubDate>2026-04-13T19:30:00</pubDate>
             <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
 
@@ -864,19 +745,6 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661077937_1359515716208745_1064645468452791088_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Glitter & Glue: Book Bedazzling</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title><pubDate>2026-04-13T19:30:00</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- As part of the 2026 Christopher D. English Community Read, Tiffin-Seneca Public Library will host two special adult craft sessions; “Glitter & Glue: Book Bedazzling” on Monday, April 13 at 10:00 a.m. and 6:30 p.m. in the Frost Kalnow Room. Celebrate the wonder and enchantment found within every story by transforming well-loved books into glittering works of art. Bring a favorite book to bedazzle (perhaps pick up a copy of The Astral Library from Pan Yan Bookstore), or choose from a limited selection we’ll have available. Two sessions will be offered. Space and supplies are limited, so please register for one of the offered times by calling 419-447-3751 or by visiting the online calendar at www.tiffinsenecalibrary.org.]]></description>
-            <link>https://www.facebook.com/events/1478570447150863</link>
-            <guid isPermaLink="false">69b358c5c90f8972b9aded72</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650803608_1361376319367005_3596107679711770545_n.jpg%3Fstp%3Ddst-jpg_s960x960_tt6%26_nc_cat%3D101%26ccb%3D1-7%26_nc_sid%3D7e0d18%26_nc_ohc%3DAuvHzimoh60Q7kNvwH-GTMA%26_nc_oc%3DAdoCgrtP8oQ5949yvj8n_6mKnpWy_URgJOLj9jexcCWcmp48Vm9InR0dgeEzpYkKksk%26_nc_zt%3D23%26_nc_ht%3Dscontent-atl3-2.xx%26_nc_gid%3DYLkP8HS1pJs_U489FKd3VA%26_nc_ss%3D7a389%26oh%3D00_Af0umQAL55UexM_Pu7fUs9RiAzSu3E0_9FM9rLe-KDpZ-w%26oe%3D69D66FA2" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -1023,15 +891,16 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>6p | Family Chemistry Night</b> - 04/15/2026 6:00pm EDT to 04/15/2026 7:00pm EDT]]></title><pubDate>2026-04-15T19:00:00</pubDate>
+            <title><![CDATA[<b>Family Chemistry Night</b> - 04/15/2026 6:00pm EDT to 04/15/2026 7:00pm EDT]]></title><pubDate>2026-04-15T19:00:00</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
+ Join us for "Family Chemistry Night" at the Tiffin-Seneca Public Library on Wednesday, April 15, at 6:00 p.m. in the Frost Kalnow Room. Hosted by the Heidelberg Chemistry Club, this engaging event invites families of all ages to explore green chemistry through interactive experiments at various stations, where you'll learn about biodegradable materials and other eco-friendly science concepts. For more details, visit www.tiffinsenecalibrary.org or call 419-447-3751.]]></description>
+            <link>https://www.facebook.com/events/1622080002421530</link>
             <guid isPermaLink="false">69d45e1a4449973f742db804</guid>
             <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662114641_1382784593892844_4207839777572868797_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -1100,6 +969,18 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
+            <title><![CDATA[<b>Faux Stained Glass Bookmarks</b> - 04/16/2026 5:00pm EDT to 04/16/2026 6:00pm EDT]]></title><pubDate>2026-04-16T18:00:00</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ The Tiffin-Seneca Public Library will host “Faux Stained-Glass Bookmarks” for teens in grades six through twelve on Thursday, April 16 from 5:00 to 6:00 p.m. in the Junior Home Room. Teens are invited to drop in, unwind, and make a colorful, faux stained-glass bookmark. Registration is required by visiting the online calendar at www.tiffinsenecalibrary.org or by calling (419) 447-3751. For more information, please call (419) 447-3751 or log onto www.tiffinsenecalibrary.org.]]></description>
+            <link>https://www.facebook.com/events/2438333893271869</link>
+            <guid isPermaLink="false">69c310a167eaf793dbd8d58d</guid>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656924779_1372293098275327_614357494694165506_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
             <title><![CDATA[<b>Freedom Rising XII</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title><pubDate>2026-04-16T20:00:00</pubDate>
             <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -1110,19 +991,6 @@
             <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Faux Stained Glass Bookmarks</b> - 04/16/2026 5:00pm EDT to 04/16/2026 6:00pm EDT]]></title><pubDate>2026-04-16T18:00:00</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- The Tiffin-Seneca Public Library will host “Faux Stained-Glass Bookmarks” for teens in grades six through twelve on Thursday, April 16 from 5:00 to 6:00 p.m. in the Junior Home Room. Teens are invited to drop in, unwind, and make a colorful, faux stained-glass bookmark. Registration is required by visiting the online calendar at www.tiffinsenecalibrary.org or by calling (419) 447-3751. For more information, please call (419) 447-3751 or log onto www.tiffinsenecalibrary.org.]]></description>
-            <link>https://www.facebook.com/events/2438333893271869</link>
-            <guid isPermaLink="false">69c310a167eaf793dbd8d58d</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656924779_1372293098275327_614357494694165506_n.jpg%3Fstp%3Ddst-jpg_s960x960_tt6%26_nc_cat%3D100%26ccb%3D1-7%26_nc_sid%3D7e0d18%26_nc_ohc%3Db7tijURkvo8Q7kNvwF_0rnu%26_nc_oc%3DAdrvTs3xra9MOAlXGyAqwSKcJQuAnRIuEBRggemhRM8pWCcPo-XiHgy7UoRVHxM-HiA%26_nc_zt%3D23%26_nc_ht%3Dscontent-atl3-2.xx%26_nc_gid%3D2z6sBqJmgye2kh2ckUic6g%26_nc_ss%3D7a389%26oh%3D00_Af2afaUIY_X2o4r7ca2jgzNKGqgqN3ETMnPOhluC9MGEpg%26oe%3D69D66175" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -1245,34 +1113,6 @@
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/17/2026 10:00am EDT to 04/17/2026 12:00pm EDT]]></title><pubDate>2026-04-17T12:00:00</pubDate>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237530007660</link>
-            <guid isPermaLink="false">69d3eff1723e1735ecb9a316</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d3ff3ff9fd3cdfaa153947</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/17/2026 10:00am EDT to 04/17/2026 12:00pm EDT]]></title><pubDate>2026-04-17T12:00:00</pubDate>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237530007660</link>
-            <guid isPermaLink="false">69d3e960d0f272553341e5fd</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d3ff3ff9fd3cdfaa153947</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
             <title><![CDATA[<b>Playtime at the Library</b> - 04/17/2026 10:00am EDT to 04/17/2026 12:00pm EDT]]></title><pubDate>2026-04-17T12:00:00</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -1324,6 +1164,19 @@
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Seneca County JFS]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_82c5859d-bc1f-4c2f-9e07-729c0eba2557" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet</b> - 04/18/2026 9:00am EDT to 04/18/2026 11:00am EDT]]></title><pubDate>2026-04-18T11:00:00</pubDate>
+            <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
+
+ Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet April 18th 9 a.m. - 11:00 a.m.   Open to the public. The cost is $10 for ages 11 and up. $5 ages 6-10. Kids 5 and under eat free. Menu: Scrambled Eggs Hashbrowns Sausage gravy and biscuits French Toast Sticks, Sausage patties Fruit Cocktail Coffee. The social quarters will be open so that you may purchase other beverage options including Bloody Mary's, Clamdiggers and more. Please help spread the word and share this event.]]></description>
+            <link>https://www.facebook.com/events/943302015073407</link>
+            <guid isPermaLink="false">69d5471a5eb5892b2858ba39</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662711019_1239777038138054_8413454016192845473_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -1463,11 +1316,10 @@
  null]]></description>
             <link>https://www.facebook.com/events/1001100549266008</link>
             <guid isPermaLink="false">69ccad54eb1d4e9de6357e34</guid>
-            <category><![CDATA[Music & Entertainment]]></category>
             <category><![CDATA[School]]></category>
-            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[New Riegel Music ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660428770_1556035486528378_6864671713167999062_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660428770_1556035486528378_6864671713167999062_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -1545,9 +1397,8 @@
             <link>https://www.facebook.com/events/1953575965252000</link>
             <guid isPermaLink="false">69ccad54eb1d4e9de6357e35</guid>
             <category><![CDATA[School]]></category>
-            <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[New Riegel Music ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658786921_1556029189862341_3272400801949654044_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658786921_1556029189862341_3272400801949654044_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -1664,10 +1515,8 @@
             <guid isPermaLink="false">69bb17e8cea230eb2b0fe7ad</guid>
             <category><![CDATA[Clubs]]></category>
             <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700455_1366001765571127_8491218905058096713_n.jpg%3Fstp%3Ddst-jpg_s960x960_tt6%26_nc_cat%3D105%26ccb%3D1-7%26_nc_sid%3D7e0d18%26_nc_ohc%3DsX2kW6pmI8AQ7kNvwHNgVFK%26_nc_oc%3DAdpuLtzGXWzeDiTe2DIuTlEij-GpDUoSEYPW-1QGwQMdWyrN5FoP2JOnIL8bmKrMy7Y%26_nc_zt%3D23%26_nc_ht%3Dscontent-lga3-2.xx%26_nc_gid%3DnVy9tHkYq0DI8bzlzXZDGw%26_nc_ss%3D7a389%26oh%3D00_Af0fQwNpwW-tR8o_lsJvr90GRFQ6iBYWN9Fyin75wL41MA%26oe%3D69D66860" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-den2-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700455_1366001765571127_8491218905058096713_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -1807,34 +1656,6 @@
             <category><![CDATA[School]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/24/2026 10:00am EDT to 04/24/2026 12:00pm EDT]]></title><pubDate>2026-04-24T12:00:00</pubDate>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237533340993</link>
-            <guid isPermaLink="false">69d3eff1723e1735ecb9a317</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d3ff3ff9fd3cdfaa15394a</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/24/2026 10:00am EDT to 04/24/2026 12:00pm EDT]]></title><pubDate>2026-04-24T12:00:00</pubDate>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237533340993</link>
-            <guid isPermaLink="false">69d3e960d0f272553341e5fc</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d3ff3ff9fd3cdfaa15394a</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -1991,18 +1812,6 @@
             <category><![CDATA[Government]]></category>
             <dc:creator><![CDATA[Bee-Safe ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F486621261_1211735184285239_6491966628852626413_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/26/2026 10:30am EDT to 04/26/2026 11:30am EDT]]></title><pubDate>2026-04-26T11:30:00</pubDate>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042772116153</link>
-            <guid isPermaLink="false">69c305087e16e5a3c8e8aee3</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item><item>
@@ -2763,6 +2572,90 @@
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F615863631_1220366790221517_7674039826080910531_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Medicare Fraud Awareness Presentation</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>2026-05-08T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Join us for a Medicare Fraud Awareness Presentation, open to the public. Pre-registration is required. For more information, please call 419-448-9774 or stop by in person.]]></description>
+            <link>https://www.facebook.com/events/1542190516878180</link>
+            <guid isPermaLink="false">69a347e33a0cb6104c176e9f</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Government]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643869495_1405673168261380_3255322595249454795_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69b52842682feef722061073</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>2026-05-08T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
+            <link>https://www.facebook.com/events/941861785191767</link>
+            <guid isPermaLink="false">6953c43b1325dbf1f5ae5ee0</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>2026-05-08T12:00:00</pubDate>
+            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
+            <link>https://www.facebook.com/events/941861785191767</link>
+            <guid isPermaLink="false">6973d8efb3cef381c2261aeb</guid>
+            <category><![CDATA[Causes]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[United Way of North Central Ohio ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Kindergarten Skill Building Stations</b> - 05/08/2026 2:00pm EDT to 05/08/2026 5:00pm EDT]]></title><pubDate>2026-05-08T17:00:00</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Join the Tiffin-Seneca Public Library for "Kindergarten Skill Building Stations" on Friday, May 8, from 2:00 to 5:00 p.m. in the Frost Kalnow Room. This event is designed for preschool-aged children and their parents or guardians to drop in and enhance essential skills needed for kindergarten, such as letter recognition, comparison and contrast, and basic counting. For more information, call (419) 447-3751 or visit www.tiffinsenecalibrary.org.]]></description>
+            <link>https://www.facebook.com/events/2312113019199261</link>
+            <guid isPermaLink="false">69cdbb413fd6705f0ab85c81</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660171538_1378707137633923_5954164163360263741_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Flower Plant Stand(s) Workshop</b> - 05/08/2026 5:30pm EDT to 05/08/2026 8:30pm EDT]]></title><pubDate>2026-05-08T20:30:00</pubDate>
+            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
+
+ Just in time for Mother's Day! Grab your momma, grab some friends and come hang out at the studio; 5:30PM. Choose from Small, Medium or Large. Or do a combo pack!]]></description>
+            <link>https://www.flair37.com/events/flower-plant-stand-s-workshop</link>
+            <guid isPermaLink="false">69a74b9b4286b87b73249c4b</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_a66f4baffd644884b6e77b2f2e72a4cc~mv2.png" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/08/2026 7:30pm EDT to 05/08/2026 8:30pm EDT]]></title><pubDate>2026-05-08T20:30:00</pubDate>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
+            <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-08&amp;time=1778268600</link>
+            <guid isPermaLink="false">691cb5df846e33811e29369d</guid>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
         </item>
         <item>
             <title><![CDATA[<b>Discover Philadelphia</b> - 03/27/2026 10:00am EDT to 04/10/2026 10:00am EDT]]></title>
@@ -2793,118 +2686,6 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>Mobile Mammography</b> - 04/07/2026 12:00am EDT to 04/07/2026 1:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
-
- The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
-            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-7</link>
-            <guid isPermaLink="false">69cf8dd6569ab2f3e042199c</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Science & Tech]]></category>
-            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Laundry Day</b> - 04/07/2026 9:00am EDT to 04/07/2026 3:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Sign up for our free laundry days this month, Tuesday, April 7th and 21st, 9am-3pm. Each family can wash 1 load per month free, laundry detergent is also provided. You must sign up online for an appointment by clicking the link below, or contact Fostoria Church of the Nazarene or the United Way of Fostoria by phone to help you sign up. The location is 339 Sandusky Street in the FNC Community Center https://www.signupgenius.com/.../10C0548AEAB2FAAFBC25...]]></description>
-            <link>https://www.facebook.com/events/1473364500933840</link>
-            <guid isPermaLink="false">69bdc25d96d092733aa35ae0</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F654398853_1404383138396139_5026967680207762885_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Preschool Storytime</b> - 04/07/2026 10:00am EDT to 04/07/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- The Tiffin-Seneca Public Library will be holding “Preschool Storytime” for children age three to five on Tuesday, April 7 at 10:00 a.m. in the Frost Kalnow Room. Stories, poems, songs, fingerplays, crafts, and much more will entertain and teach preschoolers during this free program. For more information, call the Library at 419-447-3751 or go to the online calendar at www.tiffinsenecalibrary.org.]]></description>
-            <link>https://www.facebook.com/events/26029265973434174</link>
-            <guid isPermaLink="false">69b4ad4547fcf7acf29a6aa5</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650677086_1361914699313167_6874944380594244859_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Storytime</b> - 04/07/2026 10:30am EDT to 04/07/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
-
- Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
-            <link>https://www.facebook.com/events/954571976904829/954571986904828</link>
-            <guid isPermaLink="false">69be5f54b12a5af750582c3b</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>3p | Teen Tuesday</b> - 04/07/2026 3:00pm EDT to 04/07/2026 4:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
-            <guid isPermaLink="false">695fd9baf19a044cd20503df</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>695fd9e1d44e44d869d1887c</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Teen Tuesday</b> - 04/07/2026 3:00pm EDT to 04/07/2026 4:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/1344227140582392/1344227173915722/?active_tab=about</link>
-            <guid isPermaLink="false">689d7478ce8425bd32aadeeb</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>695fd9e1d44e44d869d1887c</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Caregivers Cafe</b> - 04/07/2026 6:00pm EDT to 04/07/2026 8:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Caregivers, parents, and grandparents, join us at the Caregivers Cafe Tuesday, March 24, March 31, and April 7, 6pm-8pm. Connect with other Caregivers, and learn about resources to help you in the community. A light meal and childcare will be provided, and there will be a drawing for a gift card. Please register ahead of time so that we can plan for food. https://ccrcinc.com/services-to-the.../ccrc-calendar.html]]></description>
-            <link>https://www.facebook.com/events/1351005840122300</link>
-            <guid isPermaLink="false">69bdc25a2e61db87217d8cd5</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F652823945_1402566485244471_8492249761330141439_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>How to Read a Book Like a Professor</b> - 04/07/2026 6:00pm EDT to 04/07/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- As part of the 2026 Christopher D. English Community Read, Tiffin-Seneca Public Library invites you to "How to Read a Book Like a Professor" on Tuesday, April 7 at 6:00 p.m. in the Frost Kalnow Room. Join Heidelberg professor Dr. Barry Devine for an engaging session where he will share techniques used by literature professors to analyze books, helping readers discover deeper themes and ask insightful questions. This event serves as a precursor to the Community Read book, The Astral Library by Kate Quinn, though prior reading of the book is not necessary. The Community Read initiative promotes reading and discussion in Seneca County through various special programs. Highlighting the event, bestselling author Kate Quinn will speak on Tuesday, April 28 at 6:30 p.m. at the Chandelier Community Event Center, followed by a book signing. Copies of The Astral Library will be available for purchase. Additional information about the Community Read can be found at www.tiffinsenecalibrary.org/community-read.]]></description>
-            <link>https://www.facebook.com/events/1202013695480074</link>
-            <guid isPermaLink="false">69b90d7d2d4027cb89e92ffa</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700213_1366831722154798_8003968271196296285_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
             <title><![CDATA[<b>Bouncing Babies</b> - 04/08/2026 11:00am EDT to 04/08/2026 12:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -2926,10 +2707,8 @@
             <guid isPermaLink="false">69bb17e8cea230eb2b0fe7ac</guid>
             <category><![CDATA[Clubs]]></category>
             <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700455_1366001765571127_8491218905058096713_n.jpg%3Fstp%3Ddst-jpg_s960x960_tt6%26_nc_cat%3D105%26ccb%3D1-7%26_nc_sid%3D7e0d18%26_nc_ohc%3DsX2kW6pmI8AQ7kNvwHNgVFK%26_nc_oc%3DAdpuLtzGXWzeDiTe2DIuTlEij-GpDUoSEYPW-1QGwQMdWyrN5FoP2JOnIL8bmKrMy7Y%26_nc_zt%3D23%26_nc_ht%3Dscontent-lga3-2.xx%26_nc_gid%3D3lxgaG0Dh0KJ3Ykmq7r31w%26_nc_ss%3D7a389%26oh%3D00_Af28MEvpzrcGyfrpILvniI74iK90MQYDeHVEMrIhh215SA%26oe%3D69D66860" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-den2-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700455_1366001765571127_8491218905058096713_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3122,34 +2901,6 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[LIFE@TU]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Feafa926b-2506-461b-82ff-6e57e54348bf.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/10/2026 10:00am EDT to 04/10/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237526674327</link>
-            <guid isPermaLink="false">69d0c51e225bf6d6e2af8c17</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/10/2026 10:00am EDT to 04/10/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237526674327</link>
-            <guid isPermaLink="false">69d0cae4598de6db02ff3614</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3533,19 +3284,6 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/12/2026 10:30am EDT to 04/12/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042762116154</link>
-            <guid isPermaLink="false">69c3050907f8388554c94aa6</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
             <title><![CDATA[<b>Sunday Service</b> - 04/12/2026 10:30am EDT to 04/12/2026 11:30am EDT]]></title>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
@@ -3568,6 +3306,19 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Historical Octagon House & Farm]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F616015523_861303470124712_5681073891502910091_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Family Fun Night!</b> - 04/12/2026 5:00pm EDT to 04/12/2026 7:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
+
+ Join us for Family Fun Night Sunday, April 12, 5pm-7pm. We will have Breakfast Smorgasbord, so contact Jennifer to sign up to bring something! This will be a time of fun for everyone with basketball, cornhole, board games, cards, crafts, and so much more! Bring a game to share!]]></description>
+            <link>https://www.facebook.com/events/1036970968995216</link>
+            <guid isPermaLink="false">69d51b843bc97191ff7242d9</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F663259288_1420523753448744_5668444806369945304_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3661,6 +3412,20 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Glitter & Glue: Book Bedazzling</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ As part of the 2026 Christopher D. English Community Read, Tiffin-Seneca Public Library will host two special adult craft sessions; “Glitter & Glue: Book Bedazzling” on Monday, April 13 at 10:00 a.m. and 6:30 p.m. in the Frost Kalnow Room. Celebrate the wonder and enchantment found within every story by transforming well-loved books into glittering works of art. Bring a favorite book to bedazzle (perhaps pick up a copy of The Astral Library from Pan Yan Bookstore), or choose from a limited selection we’ll have available. Two sessions will be offered. Space and supplies are limited, so please register for one of the offered times by calling 419-447-3751 or by visiting the online calendar at www.tiffinsenecalibrary.org.]]></description>
+            <link>https://www.facebook.com/events/1478570447150863</link>
+            <guid isPermaLink="false">69b358c5c90f8972b9aded72</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650803608_1361376319367005_3596107679711770545_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Adult Craft- DIY Aromatherapy Bracelets</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
 
@@ -3671,20 +3436,6 @@
             <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661077937_1359515716208745_1064645468452791088_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Glitter & Glue: Book Bedazzling</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- As part of the 2026 Christopher D. English Community Read, Tiffin-Seneca Public Library will host two special adult craft sessions; “Glitter & Glue: Book Bedazzling” on Monday, April 13 at 10:00 a.m. and 6:30 p.m. in the Frost Kalnow Room. Celebrate the wonder and enchantment found within every story by transforming well-loved books into glittering works of art. Bring a favorite book to bedazzle (perhaps pick up a copy of The Astral Library from Pan Yan Bookstore), or choose from a limited selection we’ll have available. Two sessions will be offered. Space and supplies are limited, so please register for one of the offered times by calling 419-447-3751 or by visiting the online calendar at www.tiffinsenecalibrary.org.]]></description>
-            <link>https://www.facebook.com/events/1478570447150863</link>
-            <guid isPermaLink="false">69b358c5c90f8972b9aded72</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650803608_1361376319367005_3596107679711770545_n.jpg%3Fstp%3Ddst-jpg_s960x960_tt6%26_nc_cat%3D101%26ccb%3D1-7%26_nc_sid%3D7e0d18%26_nc_ohc%3DAuvHzimoh60Q7kNvwH-GTMA%26_nc_oc%3DAdoCgrtP8oQ5949yvj8n_6mKnpWy_URgJOLj9jexcCWcmp48Vm9InR0dgeEzpYkKksk%26_nc_zt%3D23%26_nc_ht%3Dscontent-atl3-2.xx%26_nc_gid%3DYLkP8HS1pJs_U489FKd3VA%26_nc_ss%3D7a389%26oh%3D00_Af0umQAL55UexM_Pu7fUs9RiAzSu3E0_9FM9rLe-KDpZ-w%26oe%3D69D66FA2" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3843,15 +3594,16 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>6p | Family Chemistry Night</b> - 04/15/2026 6:00pm EDT to 04/15/2026 7:00pm EDT]]></title>
+            <title><![CDATA[<b>Family Chemistry Night</b> - 04/15/2026 6:00pm EDT to 04/15/2026 7:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
+ Join us for "Family Chemistry Night" at the Tiffin-Seneca Public Library on Wednesday, April 15, at 6:00 p.m. in the Frost Kalnow Room. Hosted by the Heidelberg Chemistry Club, this engaging event invites families of all ages to explore green chemistry through interactive experiments at various stations, where you'll learn about biodegradable materials and other eco-friendly science concepts. For more details, visit www.tiffinsenecalibrary.org or call 419-447-3751.]]></description>
+            <link>https://www.facebook.com/events/1622080002421530</link>
             <guid isPermaLink="false">69d45e1a4449973f742db804</guid>
             <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662114641_1382784593892844_4207839777572868797_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -3926,6 +3678,19 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Faux Stained Glass Bookmarks</b> - 04/16/2026 5:00pm EDT to 04/16/2026 6:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ The Tiffin-Seneca Public Library will host “Faux Stained-Glass Bookmarks” for teens in grades six through twelve on Thursday, April 16 from 5:00 to 6:00 p.m. in the Junior Home Room. Teens are invited to drop in, unwind, and make a colorful, faux stained-glass bookmark. Registration is required by visiting the online calendar at www.tiffinsenecalibrary.org or by calling (419) 447-3751. For more information, please call (419) 447-3751 or log onto www.tiffinsenecalibrary.org.]]></description>
+            <link>https://www.facebook.com/events/2438333893271869</link>
+            <guid isPermaLink="false">69c310a167eaf793dbd8d58d</guid>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656924779_1372293098275327_614357494694165506_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>Freedom Rising XII</b> - 04/16/2026 5:00pm EDT to 04/16/2026 8:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -3936,20 +3701,6 @@
             <dc:creator><![CDATA[Sisters in Shelter]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643457947_1351839493638451_3438088168180278424_n.jpg" length="0" type="image/jpeg"/>
             <duplicate_id>69a0802959537bedbad8dd82</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Faux Stained Glass Bookmarks</b> - 04/16/2026 5:00pm EDT to 04/16/2026 6:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- The Tiffin-Seneca Public Library will host “Faux Stained-Glass Bookmarks” for teens in grades six through twelve on Thursday, April 16 from 5:00 to 6:00 p.m. in the Junior Home Room. Teens are invited to drop in, unwind, and make a colorful, faux stained-glass bookmark. Registration is required by visiting the online calendar at www.tiffinsenecalibrary.org or by calling (419) 447-3751. For more information, please call (419) 447-3751 or log onto www.tiffinsenecalibrary.org.]]></description>
-            <link>https://www.facebook.com/events/2438333893271869</link>
-            <guid isPermaLink="false">69c310a167eaf793dbd8d58d</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F656924779_1372293098275327_614357494694165506_n.jpg%3Fstp%3Ddst-jpg_s960x960_tt6%26_nc_cat%3D100%26ccb%3D1-7%26_nc_sid%3D7e0d18%26_nc_ohc%3Db7tijURkvo8Q7kNvwF_0rnu%26_nc_oc%3DAdrvTs3xra9MOAlXGyAqwSKcJQuAnRIuEBRggemhRM8pWCcPo-XiHgy7UoRVHxM-HiA%26_nc_zt%3D23%26_nc_ht%3Dscontent-atl3-2.xx%26_nc_gid%3D2z6sBqJmgye2kh2ckUic6g%26_nc_ss%3D7a389%26oh%3D00_Af2afaUIY_X2o4r7ca2jgzNKGqgqN3ETMnPOhluC9MGEpg%26oe%3D69D66175" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -4082,36 +3833,6 @@
             <paid_boost>false</paid_boost>
         </item>
         <item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/17/2026 10:00am EDT to 04/17/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237530007660</link>
-            <guid isPermaLink="false">69d3eff1723e1735ecb9a316</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d3ff3ff9fd3cdfaa153947</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/17/2026 10:00am EDT to 04/17/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237530007660</link>
-            <guid isPermaLink="false">69d3e960d0f272553341e5fd</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d3ff3ff9fd3cdfaa153947</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
             <title><![CDATA[<b>Playtime at the Library</b> - 04/17/2026 10:00am EDT to 04/17/2026 12:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
@@ -4166,6 +3887,20 @@
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Seneca County JFS]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fevents%2Fevents_82c5859d-bc1f-4c2f-9e07-729c0eba2557" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet</b> - 04/18/2026 9:00am EDT to 04/18/2026 11:00am EDT]]></title>
+            <description><![CDATA[<b>Location : 1146 OH-53, Tiffin, OH 44883, USA</b> 
+
+ Tiffin Moose Lodge Monthly All You Care to Eat Breakfast Buffet April 18th 9 a.m. - 11:00 a.m.   Open to the public. The cost is $10 for ages 11 and up. $5 ages 6-10. Kids 5 and under eat free. Menu: Scrambled Eggs Hashbrowns Sausage gravy and biscuits French Toast Sticks, Sausage patties Fruit Cocktail Coffee. The social quarters will be open so that you may purchase other beverage options including Bloody Mary's, Clamdiggers and more. Please help spread the word and share this event.]]></description>
+            <link>https://www.facebook.com/events/943302015073407</link>
+            <guid isPermaLink="false">69d5471a5eb5892b2858ba39</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[The Tiffin Moose - Lodge 846]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662711019_1239777038138054_8413454016192845473_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -4316,11 +4051,10 @@
  null]]></description>
             <link>https://www.facebook.com/events/1001100549266008</link>
             <guid isPermaLink="false">69ccad54eb1d4e9de6357e34</guid>
-            <category><![CDATA[Music & Entertainment]]></category>
             <category><![CDATA[School]]></category>
-            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[New Riegel Music ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660428770_1556035486528378_6864671713167999062_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660428770_1556035486528378_6864671713167999062_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -4404,9 +4138,8 @@
             <link>https://www.facebook.com/events/1953575965252000</link>
             <guid isPermaLink="false">69ccad54eb1d4e9de6357e35</guid>
             <category><![CDATA[School]]></category>
-            <category><![CDATA[Music & Entertainment]]></category>
             <dc:creator><![CDATA[New Riegel Music ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658786921_1556029189862341_3272400801949654044_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658786921_1556029189862341_3272400801949654044_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -4532,10 +4265,8 @@
             <guid isPermaLink="false">69bb17e8cea230eb2b0fe7ad</guid>
             <category><![CDATA[Clubs]]></category>
             <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Hobbies]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700455_1366001765571127_8491218905058096713_n.jpg%3Fstp%3Ddst-jpg_s960x960_tt6%26_nc_cat%3D105%26ccb%3D1-7%26_nc_sid%3D7e0d18%26_nc_ohc%3DsX2kW6pmI8AQ7kNvwHNgVFK%26_nc_oc%3DAdpuLtzGXWzeDiTe2DIuTlEij-GpDUoSEYPW-1QGwQMdWyrN5FoP2JOnIL8bmKrMy7Y%26_nc_zt%3D23%26_nc_ht%3Dscontent-lga3-2.xx%26_nc_gid%3DnVy9tHkYq0DI8bzlzXZDGw%26_nc_ss%3D7a389%26oh%3D00_Af0fQwNpwW-tR8o_lsJvr90GRFQ6iBYWN9Fyin75wL41MA%26oe%3D69D66860" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-den2-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653700455_1366001765571127_8491218905058096713_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -4686,36 +4417,6 @@
             <category><![CDATA[School]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/24/2026 10:00am EDT to 04/24/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237533340993</link>
-            <guid isPermaLink="false">69d3eff1723e1735ecb9a317</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d3ff3ff9fd3cdfaa15394a</duplicate_id>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Fiber Arts at the Space</b> - 04/24/2026 10:00am EDT to 04/24/2026 12:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 125 S Main St, Fostoria, OH 44830, USA</b> 
-
- Location 2nd floor. At the Space. Social gathering of fiber artist. Needle point, crochet, knit....etc. Bring your project, learn and share ideas]]></description>
-            <link>https://www.facebook.com/events/1065237516674328/1065237533340993</link>
-            <guid isPermaLink="false">69d3e960d0f272553341e5fc</guid>
-            <category><![CDATA[Hobbies]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Fostoria Community Arts Council]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661476219_1406994008136582_746015021871653774_n.jpg" length="0" type="image/jpeg"/>
-            <duplicate_id>69d3ff3ff9fd3cdfaa15394a</duplicate_id>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -4884,19 +4585,6 @@
             <category><![CDATA[Government]]></category>
             <dc:creator><![CDATA[Bee-Safe ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F486621261_1211735184285239_6491966628852626413_n.jpg" length="0" type="image/jpeg"/>
-            <featured>false</featured>
-            <paid_boost>false</paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Service of the Word</b> - 04/26/2026 10:30am EDT to 04/26/2026 11:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us for our traditonal styled worship service, Sunday mornings at 10:30 am. No matter who you are, or where you are on life's journey, you are welcome here.]]></description>
-            <link>https://www.facebook.com/events/1659042752116155/1659042772116153</link>
-            <guid isPermaLink="false">69c305087e16e5a3c8e8aee3</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F655622587_1346540674172416_486535673031522027_n.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
@@ -5712,6 +5400,96 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-nrt1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F615863631_1220366790221517_7674039826080910531_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Medicare Fraud Awareness Presentation</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Join us for a Medicare Fraud Awareness Presentation, open to the public. Pre-registration is required. For more information, please call 419-448-9774 or stop by in person.]]></description>
+            <link>https://www.facebook.com/events/1542190516878180</link>
+            <guid isPermaLink="false">69a347e33a0cb6104c176e9f</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Government]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643869495_1405673168261380_3255322595249454795_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69b52842682feef722061073</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
+            <link>https://www.facebook.com/events/941861785191767</link>
+            <guid isPermaLink="false">6953c43b1325dbf1f5ae5ee0</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
+            <link>https://www.facebook.com/events/941861785191767</link>
+            <guid isPermaLink="false">6973d8efb3cef381c2261aeb</guid>
+            <category><![CDATA[Causes]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[United Way of North Central Ohio ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
+            <duplicate_id>69be6bca079d57aaab69fbca</duplicate_id>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Kindergarten Skill Building Stations</b> - 05/08/2026 2:00pm EDT to 05/08/2026 5:00pm EDT]]></title>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Join the Tiffin-Seneca Public Library for "Kindergarten Skill Building Stations" on Friday, May 8, from 2:00 to 5:00 p.m. in the Frost Kalnow Room. This event is designed for preschool-aged children and their parents or guardians to drop in and enhance essential skills needed for kindergarten, such as letter recognition, comparison and contrast, and basic counting. For more information, call (419) 447-3751 or visit www.tiffinsenecalibrary.org.]]></description>
+            <link>https://www.facebook.com/events/2312113019199261</link>
+            <guid isPermaLink="false">69cdbb413fd6705f0ab85c81</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660171538_1378707137633923_5954164163360263741_n.jpg" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Flower Plant Stand(s) Workshop</b> - 05/08/2026 5:30pm EDT to 05/08/2026 8:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
+
+ Just in time for Mother's Day! Grab your momma, grab some friends and come hang out at the studio; 5:30PM. Choose from Small, Medium or Large. Or do a combo pack!]]></description>
+            <link>https://www.flair37.com/events/flower-plant-stand-s-workshop</link>
+            <guid isPermaLink="false">69a74b9b4286b87b73249c4b</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Lifestyle]]></category>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_a66f4baffd644884b6e77b2f2e72a4cc~mv2.png" length="0" type="image/jpeg"/>
+            <featured>false</featured>
+            <paid_boost>false</paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Out of Sight…Out of Murder</b> - 05/08/2026 7:30pm EDT to 05/08/2026 8:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ A Mystery Comedy by Fred Carmichael A Ritz Players Production [...]]]></description>
+            <link>https://ritztheatre.org/events/out-of-sightout-of-murder/?occurrence=2026-05-08&amp;time=1778268600</link>
+            <guid isPermaLink="false">691cb5df846e33811e29369d</guid>
+            <category><![CDATA[Film]]></category>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Music & Entertainment]]></category>
+            <dc:creator><![CDATA[The Ritz Theatre]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fritztheatre.org%2Fwp-content%2Fuploads%2F2025%2F10%2Foosoom-300x300.jpg" length="0" type="image/jpeg"/>
             <featured>false</featured>
             <paid_boost>false</paid_boost>
         </item>
