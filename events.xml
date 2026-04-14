@@ -4,89 +4,9 @@
         <description><![CDATA[RSS Feed - Seneca Starvue - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 04:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 04:15:18 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[<b>Mobile Mammography</b> - 04/13/2026 12:00am EDT to 04/13/2026 1:00am EDT]]></title><pubDate>Mon, 13 Apr 2026 01:00:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
-
- The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
-            <link>https://www.mercy.com/news-events/events/toledo/2026/april/mobile-mammography-tiffin-community-health-center-april-13</link>
-            <guid isPermaLink="false">69cf8dd7569ab2f3e042199d</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Science & Tech]]></category>
-            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Fused Glass class</b> - 04/13/2026 10:00am EDT to 04/13/2026 11:00am EDT]]></title><pubDate>Mon, 13 Apr 2026 11:00:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Join our Fused Glass class, where creativity meets craftsmanship! Pre-registration is required, so please call 419-448-9774 or stop by for more information. Don't miss this opportunity to explore your artistic side!]]></description>
-            <link>https://www.facebook.com/events/2117270372406052</link>
-            <guid isPermaLink="false">69a347e53a0cb6104c176ea1</guid>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643524431_1405680911593939_4139282088901548468_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69b52840682feef722061062</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item><item>
-            <title><![CDATA[<b>10a | Glitter & Glue: Book Bedazzling</b> - 04/13/2026 10:00am EDT to 04/13/2026 11:00am EDT]]></title><pubDate>Mon, 13 Apr 2026 11:00:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
-            <guid isPermaLink="false">69b358c5c90f8972b9aded70</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item><item>
-            <title><![CDATA[<b>GSE Spring Pizza Fundraiser</b> - 04/13/2026 4:00pm EDT to 04/13/2026 4:00pm EDT]]></title><pubDate>Mon, 13 Apr 2026 16:00:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 200 S Broadway St, Green Springs, OH 44836, USA</b> 
-
- When you place your order be sure you mention the fundraiser, Pizza Rama will then ask the homeroom teachers name in order to give that class credit! The class with the most wins a pizza party. Orders can be placed: April 13 & 14, 4-8pm April 15 & 16, 4-10pm Menu coming soon!! Give them a call at 567-487-0002.]]></description>
-            <link>https://www.facebook.com/events/916680841239876</link>
-            <guid isPermaLink="false">69d3b256a194962bd211036f</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[School]]></category>
-            <dc:creator><![CDATA[Green Springs Elementary Boosters]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F666306789_1547435990417150_1042220748174270769_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Glitter & Glue: Book Bedazzling</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title><pubDate>Mon, 13 Apr 2026 19:30:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- As part of the 2026 Christopher D. English Community Read, Tiffin-Seneca Public Library will host two special adult craft sessions; “Glitter & Glue: Book Bedazzling” on Monday, April 13 at 10:00 a.m. and 6:30 p.m. in the Frost Kalnow Room. Celebrate the wonder and enchantment found within every story by transforming well-loved books into glittering works of art. Bring a favorite book to bedazzle (perhaps pick up a copy of The Astral Library from Pan Yan Bookstore), or choose from a limited selection we’ll have available. Two sessions will be offered. Space and supplies are limited, so please register for one of the offered times by calling 419-447-3751 or by visiting the online calendar at www.tiffinsenecalibrary.org.]]></description>
-            <link>https://www.facebook.com/events/1478570447150863</link>
-            <guid isPermaLink="false">69b358c5c90f8972b9aded72</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650803608_1361376319367005_3596107679711770545_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Adult Craft- DIY Aromatherapy Bracelets</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title><pubDate>Mon, 13 Apr 2026 19:30:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
-
- Registration required. Registration will open two weeks prior to the event. Sign up at the library or by calling 419-426-3825.]]></description>
-            <link>https://www.facebook.com/events/2716675892049193</link>
-            <guid isPermaLink="false">69d20b22a38b0a4eac61bdfb</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661077937_1359515716208745_1064645468452791088_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item><item>
             <title><![CDATA[<b>Allen Bradley PLC 1</b> - 04/14/2026 8:00am UTC to 04/14/2026 4:00pm UTC]]></title><pubDate>Tue, 14 Apr 2026 16:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : 342 Perry St, Fostoria, OH 44830, USA</b> 
 
@@ -133,7 +53,7 @@
             <guid isPermaLink="false">693ab858390adae2c27b8d06</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F595022889_1251834113646604_5748450206823878306_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F595022889_1251834113646604_5748450206823878306_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -784,7 +704,7 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e0d44e44d869d18873</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3baa0a9531e6ba6d31c</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -798,7 +718,7 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e0d44e44d869d18873</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3baa0a9531e6ba6d31c</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -1344,7 +1264,7 @@
             <guid isPermaLink="false">695fd9bb7a1ed58a7b1daf29</guid>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e1d44e44d869d18882</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3baa0a9531e6ba6d31d</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -1358,7 +1278,7 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e1d44e44d869d18882</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3baa0a9531e6ba6d31d</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -1410,18 +1330,6 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item><item>
-            <title><![CDATA[<b>HU vs. JCU Baseball at Progressive Field</b> - 04/30/2026 12:00am EDT to 04/30/2026 1:00am EDT]]></title><pubDate>Thu, 30 Apr 2026 01:00:00 EST</pubDate>
-            <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
-
- null]]></description>
-            <link>https://www.alumni.heidelberg.edu?sid=1897&amp;gid=2&amp;pgid=1372&amp;cid=4136&amp;ecid=4136&amp;crid=0&amp;calpgid=13&amp;calcid=664</link>
-            <guid isPermaLink="false">6986ff396f8cc01191feddbc</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[Heidelberg University Alumni & Friends]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fwww.alumni.heidelberg.edu%2Fs%2F1897%2Fimages%2Fcontent_images%2FH_639059808400125848.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -1843,7 +1751,7 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e1d44e44d869d1887f</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3bba0a9531e6ba6d31e</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -1857,7 +1765,7 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e1d44e44d869d1887f</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3bba0a9531e6ba6d31e</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -2073,6 +1981,20 @@
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
+            <title><![CDATA[<b>Flower Stand Boxes</b> - 05/08/2026 5:30pm EDT to 05/08/2026 6:30pm EDT]]></title><pubDate>Fri, 08 May 2026 18:30:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
+
+ Join us for a special Mother's Day event at the studio! Gather your mom and friends at 5:30 PM for a fun-filled Flower Stand Boxes and Flower Plant Stand(s) Workshop. Choose from Small, Medium, or Large options, or opt for a combo pack to create beautiful floral arrangements together. Don’t miss out on this delightful opportunity to celebrate and craft with loved ones!]]></description>
+            <link>https://events.yodel.today/y/event/Rustic-Flair---Brush/Flower-Stand-Boxes/69a74b9b4286b87b73249c4b</link>
+            <guid isPermaLink="false">69a74b9b4286b87b73249c4b</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F73c37270-b65c-4739-ae94-592021cdd629.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item><item>
             <title><![CDATA[<b>2026 Unity Spring Fling Dinner and Dance</b> - 05/08/2026 5:30pm EDT to 05/08/2026 9:00pm EDT]]></title><pubDate>Fri, 08 May 2026 21:00:00 EST</pubDate>
             <description><![CDATA[<b>Location : E County Rd, Tiffin, OH 44883, USA</b> 
 
@@ -2082,20 +2004,6 @@
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Seneca County Opportunity Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F666604382_1342658014576594_4381591472320436870_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item><item>
-            <title><![CDATA[<b>Flower Plant Stand(s) Workshop</b> - 05/08/2026 5:30pm EDT to 05/08/2026 8:30pm EDT]]></title><pubDate>Fri, 08 May 2026 20:30:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
-
- Just in time for Mother's Day! Grab your momma, grab some friends and come hang out at the studio; 5:30PM. Choose from Small, Medium or Large. Or do a combo pack!]]></description>
-            <link>https://www.flair37.com/events/flower-plant-stand-s-workshop</link>
-            <guid isPermaLink="false">69a74b9b4286b87b73249c4b</guid>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Lifestyle]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_a66f4baffd644884b6e77b2f2e72a4cc~mv2.png" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -2330,7 +2238,7 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e3d44e44d869d1888f</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3bba0a9531e6ba6d31f</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -2344,7 +2252,7 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e3d44e44d869d1888f</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3bba0a9531e6ba6d31f</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item><item>
@@ -2448,91 +2356,43 @@
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F613057048_903614088701191_2294081417820736838_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Fused Glass class</b> - 04/13/2026 10:00am EDT to 04/13/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Join our Fused Glass class, where creativity meets craftsmanship! Pre-registration is required, so please call 419-448-9774 or stop by for more information. Don't miss this opportunity to explore your artistic side!]]></description>
-            <link>https://www.facebook.com/events/2117270372406052</link>
-            <guid isPermaLink="false">69a347e53a0cb6104c176ea1</guid>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F643524431_1405680911593939_4139282088901548468_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69b52840682feef722061062</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>10a | Glitter & Glue: Book Bedazzling</b> - 04/13/2026 10:00am EDT to 04/13/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- null]]></description>
-            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
-            <guid isPermaLink="false">69b358c5c90f8972b9aded70</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>GSE Spring Pizza Fundraiser</b> - 04/13/2026 4:00pm EDT to 04/13/2026 4:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 200 S Broadway St, Green Springs, OH 44836, USA</b> 
-
- When you place your order be sure you mention the fundraiser, Pizza Rama will then ask the homeroom teachers name in order to give that class credit! The class with the most wins a pizza party. Orders can be placed: April 13 & 14, 4-8pm April 15 & 16, 4-10pm Menu coming soon!! Give them a call at 567-487-0002.]]></description>
-            <link>https://www.facebook.com/events/916680841239876</link>
-            <guid isPermaLink="false">69d3b256a194962bd211036f</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[School]]></category>
-            <dc:creator><![CDATA[Green Springs Elementary Boosters]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F666306789_1547435990417150_1042220748174270769_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Glitter & Glue: Book Bedazzling</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- As part of the 2026 Christopher D. English Community Read, Tiffin-Seneca Public Library will host two special adult craft sessions; “Glitter & Glue: Book Bedazzling” on Monday, April 13 at 10:00 a.m. and 6:30 p.m. in the Frost Kalnow Room. Celebrate the wonder and enchantment found within every story by transforming well-loved books into glittering works of art. Bring a favorite book to bedazzle (perhaps pick up a copy of The Astral Library from Pan Yan Bookstore), or choose from a limited selection we’ll have available. Two sessions will be offered. Space and supplies are limited, so please register for one of the offered times by calling 419-447-3751 or by visiting the online calendar at www.tiffinsenecalibrary.org.]]></description>
-            <link>https://www.facebook.com/events/1478570447150863</link>
-            <guid isPermaLink="false">69b358c5c90f8972b9aded72</guid>
-            <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650803608_1361376319367005_3596107679711770545_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Adult Craft- DIY Aromatherapy Bracelets</b> - 04/13/2026 6:30pm EDT to 04/13/2026 7:30pm EDT]]></title>
+        </item><item>
+            <title><![CDATA[<b>Storytime</b> - 05/14/2026 11:45am EDT to 05/14/2026 12:30pm EDT]]></title><pubDate>Thu, 14 May 2026 12:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
 
- Registration required. Registration will open two weeks prior to the event. Sign up at the library or by calling 419-426-3825.]]></description>
-            <link>https://www.facebook.com/events/2716675892049193</link>
-            <guid isPermaLink="false">69d20b22a38b0a4eac61bdfb</guid>
+ Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
+            <link>https://www.facebook.com/events/954571976904829/954572033571490</link>
+            <guid isPermaLink="false">69be5f55c5ccfc5dd1b5bede</guid>
+            <category><![CDATA[Kids & Family]]></category>
             <category><![CDATA[Arts]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
             <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F661077937_1359515716208745_1064645468452791088_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Allen Bradley PLC 1</b> - 04/14/2026 8:00am UTC to 04/14/2026 4:00pm UTC]]></title>
-            <description><![CDATA[<b>Location : 342 Perry St, Fostoria, OH 44830, USA</b> 
+        </item><item>
+            <title><![CDATA[<b>Downtown Trivia Night at the Chandelier</b> - 05/14/2026 7:00pm EDT to 05/14/2026 8:30pm EDT]]></title><pubDate>Thu, 14 May 2026 20:30:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
 
- The course is a study of the installation, programming and troubleshooting of programmable controlled systems currently used in an industrial environment. The focus will be on Installation, Programming, Engineering and Maintenance tasks performed with PLC systems. The primary PLC used for this class will be the Allen Bradley SLC-500 and CompactLogix, using RSLogix 500, RSLogix5000 and RSLinx software. The topics presented will be learned through Online instructional material, and hands on labs.]]></description>
-            <link>https://fostorialearningcenter.org/event/allen-bradley-plc-1/2026-04-14/</link>
-            <guid isPermaLink="false">6926642cf088b8e34df9e1a3</guid>
-            <category><![CDATA[Science & Tech]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Business]]></category>
-            <dc:creator><![CDATA[Fostoria Learning Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fff888179-43b8-48dd-88dc-0627444a93bc.jpg" length="0" type="image/jpeg"/>
+ Groups of all ages are invited to compete in two rounds of general trivia questions plus the final questions of local interest. Answers will be judged by local celebrities. Participants are asked to form teams of 6 or fewer, which can be composed of all ages. Teams will write their answers to be judged by local celebrities. Questions will be geared toward ages 12 and up. No phones, tablets, or electronic devices may be accessed during the contest. A traveling trophy will be awarded to the winning team. **ONE GrowthZone ticket per team. List each of the team members on the ticket.]]></description>
+            <link>https://www.facebook.com/events/934036305959378</link>
+            <guid isPermaLink="false">699578320d21707503a52326</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Carmie's BBQ & Grill]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F637979982_935399742189292_6630462053157159036_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69c6931f95512b52676b51db</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item><item>
+            <title><![CDATA[<b>Downtown Trivia Night at the Chandelier</b> - 05/14/2026 7:00pm EDT to 05/14/2026 8:30pm EDT]]></title><pubDate>Thu, 14 May 2026 20:30:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Groups of all ages are invited to compete in two rounds of general trivia questions plus the final questions of local interest. Answers will be judged by local celebrities. Participants are asked to form teams of 6 or fewer, which can be composed of all ages. Teams will write their answers to be judged by local celebrities. Questions will be geared toward ages 12 and up. No phones, tablets, or electronic devices may be accessed during the contest. A traveling trophy will be awarded to the winning team. **ONE GrowthZone ticket per team. List each of the team members on the ticket.]]></description>
+            <link>https://www.facebook.com/events/934036305959378</link>
+            <guid isPermaLink="false">699620d945ddb46db3f827e1</guid>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F637979982_935399742189292_6630462053157159036_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69c6931f95512b52676b51db</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -2571,7 +2431,7 @@
             <guid isPermaLink="false">693ab858390adae2c27b8d06</guid>
             <category><![CDATA[Business]]></category>
             <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F595022889_1251834113646604_5748450206823878306_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F595022889_1251834113646604_5748450206823878306_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -3272,7 +3132,7 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e0d44e44d869d18873</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3baa0a9531e6ba6d31c</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -3287,7 +3147,7 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e0d44e44d869d18873</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3baa0a9531e6ba6d31c</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -3875,7 +3735,7 @@
             <guid isPermaLink="false">695fd9bb7a1ed58a7b1daf29</guid>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e1d44e44d869d18882</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3baa0a9531e6ba6d31d</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -3890,7 +3750,7 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e1d44e44d869d18882</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3baa0a9531e6ba6d31d</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -3946,19 +3806,6 @@
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F57128131-5015-4534-bedc-1e8ba2c773b6.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>HU vs. JCU Baseball at Progressive Field</b> - 04/30/2026 12:00am EDT to 04/30/2026 1:00am EDT]]></title>
-            <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
-
- null]]></description>
-            <link>https://www.alumni.heidelberg.edu?sid=1897&amp;gid=2&amp;pgid=1372&amp;cid=4136&amp;ecid=4136&amp;crid=0&amp;calpgid=13&amp;calcid=664</link>
-            <guid isPermaLink="false">6986ff396f8cc01191feddbc</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[Heidelberg University Alumni & Friends]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fwww.alumni.heidelberg.edu%2Fs%2F1897%2Fimages%2Fcontent_images%2FH_639059808400125848.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -4412,7 +4259,7 @@
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e1d44e44d869d1887f</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3bba0a9531e6ba6d31e</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -4427,7 +4274,7 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e1d44e44d869d1887f</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3bba0a9531e6ba6d31e</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -4660,6 +4507,21 @@
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
         <item>
+            <title><![CDATA[<b>Flower Stand Boxes</b> - 05/08/2026 5:30pm EDT to 05/08/2026 6:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
+
+ Join us for a special Mother's Day event at the studio! Gather your mom and friends at 5:30 PM for a fun-filled Flower Stand Boxes and Flower Plant Stand(s) Workshop. Choose from Small, Medium, or Large options, or opt for a combo pack to create beautiful floral arrangements together. Don’t miss out on this delightful opportunity to celebrate and craft with loved ones!]]></description>
+            <link>https://events.yodel.today/y/event/Rustic-Flair---Brush/Flower-Stand-Boxes/69a74b9b4286b87b73249c4b</link>
+            <guid isPermaLink="false">69a74b9b4286b87b73249c4b</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F73c37270-b65c-4739-ae94-592021cdd629.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item>
+        <item>
             <title><![CDATA[<b>2026 Unity Spring Fling Dinner and Dance</b> - 05/08/2026 5:30pm EDT to 05/08/2026 9:00pm EDT]]></title>
             <description><![CDATA[<b>Location : E County Rd, Tiffin, OH 44883, USA</b> 
 
@@ -4669,21 +4531,6 @@
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Seneca County Opportunity Center]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F666604382_1342658014576594_4381591472320436870_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-        </item>
-        <item>
-            <title><![CDATA[<b>Flower Plant Stand(s) Workshop</b> - 05/08/2026 5:30pm EDT to 05/08/2026 8:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
-
- Just in time for Mother's Day! Grab your momma, grab some friends and come hang out at the studio; 5:30PM. Choose from Small, Medium or Large. Or do a combo pack!]]></description>
-            <link>https://www.flair37.com/events/flower-plant-stand-s-workshop</link>
-            <guid isPermaLink="false">69a74b9b4286b87b73249c4b</guid>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <category><![CDATA[Lifestyle]]></category>
-            <category><![CDATA[Hobbies]]></category>
-            <dc:creator><![CDATA[Rustic Flair & Brush]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F6ed3dc_a66f4baffd644884b6e77b2f2e72a4cc~mv2.png" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -4936,7 +4783,7 @@
             <category><![CDATA[Lifestyle]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e3d44e44d869d1888f</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3bba0a9531e6ba6d31f</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -4951,7 +4798,7 @@
             <category><![CDATA[Clubs]]></category>
             <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>695fd9e3d44e44d869d1888f</yodel:duplicate_id>
+            <yodel:duplicate_id>69dca3bba0a9531e6ba6d31f</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
@@ -5061,6 +4908,48 @@
             <category><![CDATA[Government]]></category>
             <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F613057048_903614088701191_2294081417820736838_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Storytime</b> - 05/14/2026 11:45am EDT to 05/14/2026 12:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
+            <link>https://www.facebook.com/events/954571976904829/954572033571490</link>
+            <guid isPermaLink="false">69be5f55c5ccfc5dd1b5bede</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Downtown Trivia Night at the Chandelier</b> - 05/14/2026 7:00pm EDT to 05/14/2026 8:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Groups of all ages are invited to compete in two rounds of general trivia questions plus the final questions of local interest. Answers will be judged by local celebrities. Participants are asked to form teams of 6 or fewer, which can be composed of all ages. Teams will write their answers to be judged by local celebrities. Questions will be geared toward ages 12 and up. No phones, tablets, or electronic devices may be accessed during the contest. A traveling trophy will be awarded to the winning team. **ONE GrowthZone ticket per team. List each of the team members on the ticket.]]></description>
+            <link>https://www.facebook.com/events/934036305959378</link>
+            <guid isPermaLink="false">699578320d21707503a52326</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Carmie's BBQ & Grill]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F637979982_935399742189292_6630462053157159036_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69c6931f95512b52676b51db</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+        </item>
+        <item>
+            <title><![CDATA[<b>Downtown Trivia Night at the Chandelier</b> - 05/14/2026 7:00pm EDT to 05/14/2026 8:30pm EDT]]></title>
+            <description><![CDATA[<b>Location : 151 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Groups of all ages are invited to compete in two rounds of general trivia questions plus the final questions of local interest. Answers will be judged by local celebrities. Participants are asked to form teams of 6 or fewer, which can be composed of all ages. Teams will write their answers to be judged by local celebrities. Questions will be geared toward ages 12 and up. No phones, tablets, or electronic devices may be accessed during the contest. A traveling trophy will be awarded to the winning team. **ONE GrowthZone ticket per team. List each of the team members on the ticket.]]></description>
+            <link>https://www.facebook.com/events/934036305959378</link>
+            <guid isPermaLink="false">699620d945ddb46db3f827e1</guid>
+            <category><![CDATA[Clubs]]></category>
+            <dc:creator><![CDATA[Downtown Tiffin]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F637979982_935399742189292_6630462053157159036_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69c6931f95512b52676b51db</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
         </item>
