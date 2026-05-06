@@ -4,92 +4,10 @@
         <description><![CDATA[RSS Feed - Seneca Starvue - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 04:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 04:15:12 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[<b>USPS NON-PERISHABLE FOOD ITEMS</b> - 05/04/2026 8:30am EDT to 05/05/2026 3:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:59:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Please bring Non-parishable food items to Allen Eiry in support of USPS. Thank you!]]></description>
-            <link>https://www.facebook.com/events/2271506466591263</link>
-            <guid isPermaLink="false">69f109e5c446ca0ea9f8df3a</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F686058918_1457731063055590_2998441116606605296_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-        </item><item>
-            <title><![CDATA[<b>Laundry Day</b> - 05/05/2026 9:00am EDT to 05/05/2026 3:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:58:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Sign up for our free laundry days this month, Tuesday, May 5th and 19th, 9am-3pm. Each family can wash 1 load per month free, laundry detergent is also provided. You must sign up online for an appointment by clicking the link below, or contact Fostoria Church of the Nazarene or the United Way of Fostoria by phone to help you sign up. The location is 339 Sandusky Street in the FNC Community Center https://www.signupgenius.com/.../10C0548AEAB2FAAFBC25...]]></description>
-            <link>https://www.facebook.com/events/1479652290282300</link>
-            <guid isPermaLink="false">69eae63c2b5b85de11d76bf5</guid>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F678150247_1432812948886491_1911626946999615446_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-        </item><item>
-            <title><![CDATA[<b>Willows Tiffin - Coming Soon Assisted Living/Indepencent Living Information</b> - 05/05/2026 10:00am EDT to 05/05/2026 11:00am EDT]]></title><pubDate>Thu, 04 Jun 2026 23:57:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- Get information on the New Assisted Living and Independent Living Patio Homes at the Willows at Tiffin.]]></description>
-            <link>https://www.facebook.com/events/1739197990393931</link>
-            <guid isPermaLink="false">69f109e5f1d0de1de7c9e94b</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F678365546_1452605523568144_6716953663114469514_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-        </item><item>
-            <title><![CDATA[<b>Storytime</b> - 05/05/2026 10:30am EDT to 05/05/2026 11:30am EDT]]></title><pubDate>Thu, 04 Jun 2026 23:56:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
-
- Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
-            <link>https://www.facebook.com/events/954571976904829/954572030238157</link>
-            <guid isPermaLink="false">69be5f5489b4dd35c32302df</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Arts]]></category>
-            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-        </item><item>
-            <title><![CDATA[<b>Teen Tuesday</b> - 05/05/2026 3:00pm EDT to 05/05/2026 4:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:55:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/1344227140582392/1344227163915723</link>
-            <guid isPermaLink="false">695fd9baf19a044cd20503e0</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69f408393e3b7678f603fc66</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-        </item><item>
-            <title><![CDATA[<b>Teen Tuesday</b> - 05/05/2026 3:00pm EDT to 05/05/2026 4:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:54:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/1344227140582392/1344227163915723/?active_tab=about</link>
-            <guid isPermaLink="false">689d7474ce8425bd32aadee4</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69f408393e3b7678f603fc66</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-        </item><item>
-            <title><![CDATA[<b>Baby Play Date</b> - 05/06/2026 11:00am EDT to 05/06/2026 12:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:53:00 EST</pubDate>
+            <title><![CDATA[<b>Baby Play Date</b> - 05/06/2026 11:00am EDT to 05/06/2026 12:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:59:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Join the Tiffin-Seneca Public Library for "Baby Play Date" on Wednesday, May 6, from 11:00 a.m. to 12:00 p.m. in the Frost Kalnow Room. This free event invites babies aged birth to 18 months and their caregivers to enjoy a play date filled with toys and books, while also providing a chance for parents and caregivers to connect with one another. No registration is necessary. For more details, visit the Junior Library or call (419) 447-3751.]]></description>
@@ -102,7 +20,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Coffee Connect</b> - 05/06/2026 11:00am EDT to 05/06/2026 12:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:52:00 EST</pubDate>
+            <title><![CDATA[<b>Coffee Connect</b> - 05/06/2026 11:00am EDT to 05/06/2026 12:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:58:00 EST</pubDate>
             <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
 
  Come meet with the management of Your Legacy Federal Credit Union every first Wednesday of the month at 11AM. This is a chance for members to have a cup of coffee and come voice their concerns, praises, or just ask questions. Eligible Members of the community are welcome to learn more about the "Credit Union Difference" and find out how our 70+ year Seneca County institution can help you with your current finances and future plans!]]></description>
@@ -115,7 +33,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Teen Art Club</b> - 05/06/2026 3:00pm EDT to 05/06/2026 4:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:51:00 EST</pubDate>
+            <title><![CDATA[<b>Teen Art Club</b> - 05/06/2026 3:00pm EDT to 05/06/2026 4:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:57:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  The Teen Department at the Tiffin-Seneca Public library will host “Teen Art Club” on Wednesdays, May 6 and 20 from 3:00 to 4:30 p.m. in the Teen Area. Teens in grades 6 through 12 are invited to get creative with other artsy teens. Teens are encouraged to bring their own drawings and projects or just drop by to explore a new project. The Library will provide craft supplies and the opportunity to learn new arts and crafts skills. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
@@ -129,7 +47,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Bible Study in the Book of Acts</b> - 05/06/2026 6:00pm EDT to 05/06/2026 7:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:50:00 EST</pubDate>
+            <title><![CDATA[<b>Bible Study in the Book of Acts</b> - 05/06/2026 6:00pm EDT to 05/06/2026 7:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:56:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  Join us at 6pm Wednesday Nights for Bible Study through the book of Acts. Everyone is welcome. Childcare is not provided. Contact us with any questions.]]></description>
@@ -142,7 +60,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Pioneer Workshops: Natives 101</b> - 05/06/2026 6:00pm EDT to 05/06/2026 7:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:49:00 EST</pubDate>
+            <title><![CDATA[<b>Pioneer Workshops: Natives 101</b> - 05/06/2026 6:00pm EDT to 05/06/2026 7:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:55:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Join us for the "Pioneer Workshop: Natives 101" at the Tiffin-Seneca Public Library on Wednesday, May 6 at 6:00 p.m. in the Frost Kalnow Room. Led by Ashlee Decker, a restoration ecologist and co-owner of Gaia’s Garden, this workshop will explore the beauty and benefits of incorporating native plants into your home landscape. Participants will learn about the landscapes encountered by early settlers and how reintroducing these plants can benefit both people and wildlife. The presentation will include an introduction to native plants, landscape evaluation tips to choose the right plants for your yard, planting techniques, and maintenance recommendations. This event is part of a series of Pioneer Workshops celebrating the self-sufficient lifestyles of early Americans in the 1700s and 1800s as part of the America 250 celebration. For more information, call 419-447-3751 or visit www.tiffinsenecalibrary.org.]]></description>
@@ -158,7 +76,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>"Colored Pencil Pear"  Wednesday, May 6, 2026 6pm-9pm #05062602</b> - 05/06/2026 6:00pm EDT to 05/06/2026 9:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:48:00 EST</pubDate>
+            <title><![CDATA[<b>"Colored Pencil Pear"  Wednesday, May 6, 2026 6pm-9pm #05062602</b> - 05/06/2026 6:00pm EDT to 05/06/2026 9:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:54:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  In this class you will use colored pencils to create a 5"x7" drawing of a pear, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Friday, May 1. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -173,7 +91,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Level 2 Pastry Class</b> - 05/06/2026 6:00pm EDT to 05/06/2026 8:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:47:00 EST</pubDate>
+            <title><![CDATA[<b>Level 2 Pastry Class</b> - 05/06/2026 6:00pm EDT to 05/06/2026 8:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:53:00 EST</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Advance your baking skills with our Level 2 Pastry Class, designed to teach intermediate techniques for crafting delectable pastries. Perfect for those with basic experience looking to expand their culinary repertoire.]]></description>
@@ -188,7 +106,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>"English Cottage"  Thursday, May 7, 2026 9am-12pm or 6pm-9pm #05072601 or #05072602</b> - 05/07/2026 9:00am EDT to 05/07/2026 12:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:46:00 EST</pubDate>
+            <title><![CDATA[<b>"English Cottage"  Thursday, May 7, 2026 9am-12pm or 6pm-9pm #05072601 or #05072602</b> - 05/07/2026 9:00am EDT to 05/07/2026 12:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:52:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by Friday, May 1. Paint "English Cottage" in water mixable oils with Carol Hoffman on Thursday, May 7 from 9am until 12 pm or from 6pm-9pm. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 8"x10" canvas are included in the price of the class. Minimum class size 3 people, maximum of 8. Please bring a large box to take your painting home in. Cost is $50 for TAG members & $60 for non-members. Call Carol with questions. 419 624 7020, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -201,7 +119,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Storytime</b> - 05/07/2026 11:45am EDT to 05/07/2026 12:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:45:00 EST</pubDate>
+            <title><![CDATA[<b>Storytime</b> - 05/07/2026 11:45am EDT to 05/07/2026 12:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:51:00 EST</pubDate>
             <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
 
  Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
@@ -209,12 +127,12 @@
             <guid isPermaLink="false">69be5f55c8b4171b8b31eb6b</guid>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Toddler Trot—Find the Fox</b> - 05/07/2026 12:00pm EDT to 05/07/2026 1:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:44:00 EST</pubDate>
+            <title><![CDATA[<b>Toddler Trot—Find the Fox</b> - 05/07/2026 12:00pm EDT to 05/07/2026 1:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:50:00 EST</pubDate>
             <description><![CDATA[<b>Location : Fort Seneca, OH 44883, USA</b> 
 
  For ages 18 to 36 months.  Join Linda Rose as we walk the trails looking and listening for fox along the way.  Learn about the calls, sizes, habitats and what their favorite food is.  Can you find all of the foxes? Registration is required at least 24 hours in advance of the program.]]></description>
@@ -228,7 +146,20 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Spring Fling Ritz Bingo Special</b> - 05/07/2026 4:00pm EDT to 05/07/2026 5:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:43:00 EST</pubDate>
+            <title><![CDATA[<b>Groundbreaking | The Willows at Tiffin</b> - 05/07/2026 4:00pm EDT to 05/07/2026 5:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:49:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 410 Fair Ln, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development to celebrate the groundbreaking of new patio homes at The Willows at Tiffin, taking place on Thursday, May 7 at 4 PM, located at 410 Fair Lane in Tiffin. This exciting expansion by Trilogy Health Services marks the next phase of growth for The Willows at Tiffin campus and reflects a continued investment in the Tiffin community. The development will include 30 new senior living patio homes situated on an 8.3-acre site adjacent to the existing campus, offering residents a unique blend of independence and access to care. Designed with comfort and convenience in mind, the patio homes will feature single-level layouts, open floor plans, full kitchens, attached garages, in-home laundry, and private outdoor patio spaces. Residents will enjoy maintenance-free living, with services such as lawn care, snow removal, and housekeeping included. In addition to the homes themselves, the development will offer shared amenities such as walking paths, a community clubhouse, and a full calendar of activities led by an onsite Lifestyle Director. Monthly living will also include utilities, cable, internet, and transportation services, all while remaining close to the comprehensive care available at The Willows campus. Since opening in 2019, The Willows at Tiffin has made a meaningful impact on the community through investment and job creation. This latest expansion further reinforces Trilogy Health Services’ confidence in Tiffin as a place where residents can thrive at every stage of life. Join us as we celebrate this exciting milestone and the continued growth of senior living opportunities in our community. To learn more or inquire about the new patio homes, please visit: https://trilogypatiohomes.com/comm.../the-willows-at-tiffin/]]></description>
+            <link>https://www.facebook.com/events/927425356945419</link>
+            <guid isPermaLink="false">69f996cbb58ccf16c40a3126</guid>
+            <category><![CDATA[Lifestyle]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F682956404_1367205452109469_7463670585817207049_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+        </item><item>
+            <title><![CDATA[<b>Spring Fling Ritz Bingo Special</b> - 05/07/2026 4:00pm EDT to 05/07/2026 5:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:48:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Cost to Play $20 Package 1: 1 Early Bird 4-on [...]]]></description>
@@ -241,7 +172,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Groundbreaking Celebration: Patio Homes, Clubhouse & Assisted Living Addition</b> - 05/07/2026 4:00pm EDT to 05/07/2026 5:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:42:00 EST</pubDate>
+            <title><![CDATA[<b>Groundbreaking Celebration: Patio Homes, Clubhouse & Assisted Living Addition</b> - 05/07/2026 4:00pm EDT to 05/07/2026 5:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:47:00 EST</pubDate>
             <description><![CDATA[<b>Location : 348 Ohio Ave, Tiffin, OH 44883, USA</b> 
 
  Groundbreaking Celebration: Patio Homes, Clubhouse & Assisted Living Addition Join us as we celebrate an exciting new chapter and the future growth of our community. We’re breaking ground on our new patio homes, clubhouse, and Assisted Living wing addition — and you’re invited to be part of this special milestone. Be among the first to learn about what’s coming, connect with our team, and experience the vision for this beautiful expansion. Enjoy light refreshments, enter for door prizes, and celebrate alongside community members, families, and guests as we mark the beginning of something new. Event Details   410 Fair Ln. Tiffin, OH 44883  May 7   4:00 PM  Light refreshments provided   Door prizes available We look forward to celebrating this exciting groundbreaking and sharing what’s ahead for patio homes, our new clubhouse, and the Assisted Living wing addition.]]></description>
@@ -254,7 +185,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Pokemon Club</b> - 05/07/2026 4:30pm EDT to 05/07/2026 5:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:41:00 EST</pubDate>
+            <title><![CDATA[<b>Pokemon Club</b> - 05/07/2026 4:30pm EDT to 05/07/2026 5:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:46:00 EST</pubDate>
             <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
 
  Join us for tabletop games, crafts and Pokemon watch parties! Cards for gaming will be provided. Both new and experienced Pokemon gamers are welcome. For kids in grades K-5.]]></description>
@@ -268,7 +199,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Special Member Offer | Golf 101</b> - 05/07/2026 5:30pm EDT to 05/07/2026 7:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:40:00 EST</pubDate>
+            <title><![CDATA[<b>Special Member Offer | Golf 101</b> - 05/07/2026 5:30pm EDT to 05/07/2026 7:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:45:00 EST</pubDate>
             <description><![CDATA[<b>Location : 35 S Monroe St, Tiffin, OH 44883, USA</b> 
 
  null]]></description>
@@ -282,7 +213,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Beyond the Berg 2026 Senior Night</b> - 05/07/2026 5:30pm EDT to 05/07/2026 6:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:39:00 EST</pubDate>
+            <title><![CDATA[<b>Beyond the Berg 2026 Senior Night</b> - 05/07/2026 5:30pm EDT to 05/07/2026 6:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:44:00 EST</pubDate>
             <description><![CDATA[<b>Location : University Hall, 310 E Market St, Tiffin, OH 44883, USA</b> 
 
  null]]></description>
@@ -295,7 +226,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>National Day Of Prayer in Fostoria, Ohio</b> - 05/07/2026 6:30pm EDT to 05/07/2026 7:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:38:00 EST</pubDate>
+            <title><![CDATA[<b>National Day Of Prayer in Fostoria, Ohio</b> - 05/07/2026 6:30pm EDT to 05/07/2026 7:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:43:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  Mark your calendars for the National Day of Prayer! We will be at the 6:30pm Community Prayer Downtown in the Greenspace. There will be Youth and Community Choirs, and then prayers from Pastors and Community Leaders as well as students. Please remember to bring a chair. (In case of rain we will be in the Fostoria Church of God directly across the street.)]]></description>
@@ -308,7 +239,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Taste of Italy</b> - 05/07/2026 6:30pm EDT to 05/07/2026 8:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:37:00 EST</pubDate>
+            <title><![CDATA[<b>Taste of Italy</b> - 05/07/2026 6:30pm EDT to 05/07/2026 8:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:42:00 EST</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Enjoy the flavors of Italy]]></description>
@@ -323,7 +254,22 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Medicare Fraud Awareness Presentation</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:36:00 EST</pubDate>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:41:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
+            <link>https://www.facebook.com/events/941861785191767</link>
+            <guid isPermaLink="false">6953c43b1325dbf1f5ae5ee0</guid>
+            <category><![CDATA[Causes]]></category>
+            <category><![CDATA[Health & Fitness]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>69f5162dddfa527c3a2d2c84</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+        </item><item>
+            <title><![CDATA[<b>Medicare Fraud Awareness Presentation</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:40:00 EST</pubDate>
             <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
 
  OPEN TO THE PUBLIC Pre-registration required. Please call 419-448-9774 or stop in for more information.]]></description>
@@ -337,7 +283,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:35:00 EST</pubDate>
+            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:39:00 EST</pubDate>
             <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
 
  Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
@@ -354,22 +300,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Nonprofit Leadership Alliance | Healthy Teams, Strong Missions</b> - 05/08/2026 11:00am EDT to 05/08/2026 12:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:34:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
-
- Join the Seneca Regional Chamber & Development and United Way of North Central Ohio for the second Nonprofit Leadership Alliance quarterly meeting of 2026 on Friday, May 8 at 11 AM, hosted at North Central Ohio ESC. This session is designed for nonprofit leaders, staff, and board members who want to better support themselves and their teams while sustaining meaningful, mission-driven work. The featured topic, “Healthy Teams, Strong Missions: Preventing Burnout & Supporting Mental Well-Being,” will focus on creating workplace cultures that recognize stress, prioritize well-being, and prevent burnout. Presenters Erin Perry, MA, LPCC-S, owner of Counseling Connections Center, and Kim Radison, owner of KKR Consult, will share practical strategies nonprofit organizations can use to promote mental health, build resilience, and support staff at all levels. Attendees will learn how to recognize common signs of stress and burnout, apply self-care and resilience practices, and foster healthier, more supportive work environments. This session is designed to offer realistic, actionable tools that can be implemented immediately within nonprofit teams. Following the presentation, Erin Perry and Kim Radison will offer attendees the opportunity to schedule a free one-on-one session for additional personalized support or consultation. These meetings are free and open to all nonprofit employees and board members in Seneca County. Chamber & Development membership is not required. Join us for an important conversation about caring for the people behind the mission. Register today to secure your spot.]]></description>
-            <link>https://www.facebook.com/events/941861785191767</link>
-            <guid isPermaLink="false">6953c43b1325dbf1f5ae5ee0</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F626871575_1293145572848791_5973432280227349099_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69f5162dddfa527c3a2d2c84</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-        </item><item>
-            <title><![CDATA[<b>Kindergarten Skill Building Stations</b> - 05/08/2026 2:00pm EDT to 05/08/2026 5:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:33:00 EST</pubDate>
+            <title><![CDATA[<b>Kindergarten Skill Building Stations</b> - 05/08/2026 2:00pm EDT to 05/08/2026 5:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:38:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  The Tiffin-Seneca Public Library will host “Kindergarten Skill Building Stations” for preschool aged students on Friday, May 8 from 2:00 to 5:00 p.m. in the Frost Kalnow Room. Preschool aged children and their parent or guardian can drop in anytime between 2:00 and 5:00 p.m. to prepare for kindergarten by working on skills including letter recognition, compare and contrast, basic counting, and more. For more information, please call (419) 447-3751 or log onto www.tiffinsenecalibrary.org.]]></description>
@@ -383,7 +314,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Corner T Fun</b> - 05/08/2026 4:00pm EDT to 05/08/2026 9:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:32:00 EST</pubDate>
+            <title><![CDATA[<b>Corner T Fun</b> - 05/08/2026 4:00pm EDT to 05/08/2026 9:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:37:00 EST</pubDate>
             <description><![CDATA[<b>Location : 14 N Perry St, New Riegel, OH 44853, USA</b> 
 
  null]]></description>
@@ -396,7 +327,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Flower Stand Boxes</b> - 05/08/2026 5:30pm EDT to 05/08/2026 6:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:31:00 EST</pubDate>
+            <title><![CDATA[<b>Flower Stand Boxes</b> - 05/08/2026 5:30pm EDT to 05/08/2026 6:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:36:00 EST</pubDate>
             <description><![CDATA[<b>Location : 113 Melmore St, Tiffin, OH 44883, USA</b> 
 
  Just in time for Mother's Day! Grab your momma, grab some friends and come hang out at the studio; 5:30PM. Choose from Small, Medium or Large. Or do a combo pack!]]></description>
@@ -409,7 +340,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>2026 Unity Spring Fling Dinner and Dance</b> - 05/08/2026 5:30pm EDT to 05/08/2026 9:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:30:00 EST</pubDate>
+            <title><![CDATA[<b>2026 Unity Spring Fling Dinner and Dance</b> - 05/08/2026 5:30pm EDT to 05/08/2026 9:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:35:00 EST</pubDate>
             <description><![CDATA[<b>Location : E County Rd, Tiffin, OH 44883, USA</b> 
 
  UNITY Spring Fling Dinner and Dance (minimal supervision provided): Location: The Seneca County Opportunity Center (780 E County Rd 20) Time: Dinner at 5:30pm-6:30pm, Dance 6:30pm-9pm Dinner includes spaghetti, garlic bread, salad, cake, and punch Tickets are $10. Call Joan to reserve your meal tickets by MONDAY, May 4th at 419-447-7521, ext. 1134. All proceeds benefit Unity Council. Unity Council is a self-advocacy group at the Seneca County Opportunity Center that plans a yearly conference. Unity is a chance to network and build upon their advocacy and leadership skills.]]></description>
@@ -422,7 +353,7 @@
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Painting Class with Kelly</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:29:00 EST</pubDate>
+            <title><![CDATA[<b>Painting Class with Kelly</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:34:00 EST</pubDate>
             <description><![CDATA[<b>Location : 6029 OH-101, Clyde, OH 43410, USA</b> 
 
  Join Kelly Protzman for a painting class! RSVP required. Cost is $35. Archie’s Pizza will be serving up some delicious slices too! Let us know if you can make it!]]></description>
@@ -436,7 +367,7 @@
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
             <title><![CDATA[<b>Men's Bible Study
-Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:28:00 EST</pubDate>
+Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:33:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  Men's Bible Study Women's Bible Study 2nd & 4th Friday at 6pm May 8th and 22nd No childcare provided]]></description>
@@ -449,7 +380,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Another Spring Wildflower Hike</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:27:00 EST</pubDate>
+            <title><![CDATA[<b>Another Spring Wildflower Hike</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:32:00 EST</pubDate>
             <description><![CDATA[<b>Location : 3362 Infirmary Rd, Tiffin, OH 44883, USA</b> 
 
  Join Linda Rose as we walk the trails searching for the last of the spring wildflowers.   This walk will last about 1 ¼ hour and qualifies for the Walking Stick Program.  Registration is required at least 24 hours in advance of the program.]]></description>
@@ -462,7 +393,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>"Trumpeter Swan"  Saturday, May 9, 2026 9am-1pm #05092601</b> - 05/09/2026 9:00am EDT to 05/09/2026 1:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:26:00 EST</pubDate>
+            <title><![CDATA[<b>"Trumpeter Swan"  Saturday, May 9, 2026 9am-1pm #05092601</b> - 05/09/2026 9:00am EDT to 05/09/2026 1:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:31:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by May 2nd. Paint "Trumpeter Swan" in acrylic with Carol Hoffman on Saturday, May 9 from 9 am until 1 pm. This is a 4 hour class. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 12x16" canvas are included in the price of the class. Please bring a large box to take your painting home in. Cost is $55 for TAG members & $65 for non-members. Call Carol with questions. 419-547-8610, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -476,7 +407,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Mother-Daughter-Granddaughter Outdoor Day</b> - 05/09/2026 9:00am EDT to 05/09/2026 10:00am EDT]]></title><pubDate>Thu, 04 Jun 2026 23:25:00 EST</pubDate>
+            <title><![CDATA[<b>Mother-Daughter-Granddaughter Outdoor Day</b> - 05/09/2026 9:00am EDT to 05/09/2026 10:00am EDT]]></title><pubDate>Fri, 05 Jun 2026 23:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : Garlo Heritage Nature Preserve, S., 6777 OH-19, Bloomville, OH 44818, USA</b> 
 
  Any mother-daughter-grand-daughter combination is welcome to spend the morning hiking, fishing, canoeing/kayaking and journaling.  End the morning with a campfire treat. Registration is required at least 24 hours in advance of the program.   9AM - 12PM.]]></description>
@@ -490,7 +421,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Spring Migration Bird Hike</b> - 05/09/2026 9:00am EDT to 05/09/2026 10:00am EDT]]></title><pubDate>Thu, 04 Jun 2026 23:24:00 EST</pubDate>
+            <title><![CDATA[<b>Spring Migration Bird Hike</b> - 05/09/2026 9:00am EDT to 05/09/2026 10:00am EDT]]></title><pubDate>Fri, 05 Jun 2026 23:29:00 EST</pubDate>
             <description><![CDATA[<b>Location : 1143 Township Rd 243, Fostoria, OH 44830, USA</b> 
 
  Join us for the Spring Migration Bird Hike at Aeraland Recreation Area! This guided hike is a wonderful opportunity to observe many interesting and colorful birds, including Eastern Meadowlark, Orchard Oriole, Indigo Bunting, Red-eyed Vireo, and a variety of vibrant warblers as they journey to their northern breeding grounds. Binoculars will be provided, or you can bring your own. The event starts at 9 AM, is open to all ages, and is free with no registration required. For more information, you can contact Tim Kleman at tkleman@hancockparks.com.]]></description>
@@ -505,7 +436,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/09/2026 9:00am EDT to 05/09/2026 2:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:23:00 EST</pubDate>
+            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/09/2026 9:00am EDT to 05/09/2026 2:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:28:00 EST</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
@@ -519,7 +450,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>830 Market - Touch a Truck</b> - 05/09/2026 10:00am EDT to 05/09/2026 2:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:22:00 EST</pubDate>
+            <title><![CDATA[<b>830 Market - Touch a Truck</b> - 05/09/2026 10:00am EDT to 05/09/2026 2:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:27:00 EST</pubDate>
             <description><![CDATA[<b>Location : 101 N Main St, Fostoria, OH 44830, USA</b> 
 
  BIG TRUCKS. LITTLE KIDS. HUGE FUN.  We’re bringing Touch-a-Truck to the 830 Market!  City of Fostoria Division of Fire truck   City of Fostoria, Ohio Police vehicles   Emergency vehicles   Turco & Sons Garbage Truck   Keller Brothers Enterprise Tow Truck   Clouse Construction vehicles   And more Let your kids climb, explore, and experience it all up close. This alone is worth coming for.  May 9 | 10AM - 2PM Downtown Fostoria Sensory Hour 10-11 AM]]></description>
@@ -533,7 +464,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Puzzle Swap</b> - 05/09/2026 10:00am EDT to 05/09/2026 3:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:21:00 EST</pubDate>
+            <title><![CDATA[<b>Puzzle Swap</b> - 05/09/2026 10:00am EDT to 05/09/2026 3:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:26:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  The Tiffin-Seneca Public Library will host a “Puzzle Swap” on Saturday, May 9 from 10:00 a.m. to 3:00 p.m. in the Frost Kalnow Room. Give the puzzles you love a second life. Drop in anytime between 10:00 a.m. and 3:00 p.m. to leave puzzles, or pick a new one to take home. Please feel welcome to donate puzzles without taking any in exchange, or select a puzzle even if you don't have one to donate. We only ask that participants try to ensure that donated puzzles have all of their pieces. This program is free and open to all adults. For more information, call 419-447-3751, or go online to www.tiffinsenecalibrary.org.]]></description>
@@ -546,7 +477,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Run for HOPE 5K</b> - 05/09/2026 10:00am EDT to 05/09/2026 12:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:20:00 EST</pubDate>
+            <title><![CDATA[<b>Run for HOPE 5K</b> - 05/09/2026 10:00am EDT to 05/09/2026 12:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:25:00 EST</pubDate>
             <description><![CDATA[<b>Location : 491 Coe St, Tiffin, OH 44883, USA</b> 
 
  <p>Join the Suicide Prevention Coalition during Mental Health Awareness Month for a 5K Run/Walk.</p><p>Lace up your shoes and join us on Saturday, May 9, 2026, for a meaningful community event focused on mental health awareness and suicide prevention.</p><p>This 5K brings together runners, walkers, families, and friends to support an important cause. Whether you&#39;re aiming for a personal best or enjoying a casual walk, this event is a great way to get active, connect with others, and show your support for mental health awareness in our community.</p>]]></description>
@@ -559,7 +490,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Class of 1966 Tours</b> - 05/09/2026 11:00am EDT to 05/09/2026 1:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:19:00 EST</pubDate>
+            <title><![CDATA[<b>Class of 1966 Tours</b> - 05/09/2026 11:00am EDT to 05/09/2026 1:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:24:00 EST</pubDate>
             <description><![CDATA[<b>Location : 111 S Kansas St, Green Springs, OH 44836, USA</b> 
 
  Class of 1966 we will be open for tours just for you all! Come browse some artifacts that will for sure bring back some memories.]]></description>
@@ -572,7 +503,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Sisters In Christ</b> - 05/09/2026 12:00pm EDT to 05/09/2026 2:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:18:00 EST</pubDate>
+            <title><![CDATA[<b>Sisters In Christ</b> - 05/09/2026 12:00pm EDT to 05/09/2026 2:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:23:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  Ladies, join us the second Saturday, May 9th 12pm-2pm for Women's Fellowship! Sisters In Christ.]]></description>
@@ -585,7 +516,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Corner T Fun</b> - 05/09/2026 4:00pm EDT to 05/09/2026 9:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:17:00 EST</pubDate>
+            <title><![CDATA[<b>Corner T Fun</b> - 05/09/2026 4:00pm EDT to 05/09/2026 9:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:22:00 EST</pubDate>
             <description><![CDATA[<b>Location : 14 N Perry St, New Riegel, OH 44853, USA</b> 
 
  null]]></description>
@@ -598,7 +529,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>80s Night with No Eileen</b> - 05/09/2026 8:00pm EDT to 05/09/2026 11:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:16:00 EST</pubDate>
+            <title><![CDATA[<b>80s Night with No Eileen</b> - 05/09/2026 8:00pm EDT to 05/09/2026 11:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:21:00 EST</pubDate>
             <description><![CDATA[<b>Location : 129 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Live music is back at The Renaissance for one night only!   Mark your calendars and clear your Saturday night plans—because The Renaissance is the place to be this May 9th!   From 8 to 11 PM, No Eileen takes the stage ready to rock the house with high-energy hits! Whether you’re a longtime fan or love a good night out in Downtown Tiffin, this is your cue to gather your crew, grab a drink, and let the music move you.   Live music.   Electric energy.   Local vibes. Let’s make it a night to remember. See you there!]]></description>
@@ -612,7 +543,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
             <title><![CDATA[<b>9:30am Sunday School 
-10:30am Church</b> - 05/10/2026 9:30am EDT to 05/10/2026 10:30am EDT]]></title><pubDate>Thu, 04 Jun 2026 23:15:00 EST</pubDate>
+10:30am Church</b> - 05/10/2026 9:30am EDT to 05/10/2026 10:30am EDT]]></title><pubDate>Fri, 05 Jun 2026 23:20:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  9:30am-10:30am Sunday School Classes for Toddlers, Kids, Youth, and Adults on Sunday mornings that study the Bible and talk about applying it to our lives. 10:30am Worship followed by Sunday Service. 10:50am Online, worship at home and join us on Facebook or YouTube at 10:50am live, or watch later at your convenience.]]></description>
@@ -625,7 +556,21 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Mother's Day Buffet  | Ironwood Restaurant</b> - 05/10/2026 11:00am EDT to 05/10/2026 2:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:14:00 EST</pubDate>
+            <title><![CDATA[<b>Mother’s Day Buffet</b> - 05/10/2026 11:00am EDT to 05/10/2026 2:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:19:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 2460 OH-231, Tiffin, OH 44883, USA</b> 
+
+ Brooke and her mom Michelle know a thing or two about making memories together - and this Mother's Day, they want to help you make some of your own.  Join us for our Mother's Day Buffet on May 10th from 11am-2:30pm featuring a special menu, sweet treats, and good company. Reservations are on the hour: 11am, 12pm, 1pm and 2pm! Adults $19.95 | Seniors $17.95 | Kids (5-9) $12.95 | 4 & under FREE Spots are limited — call us to reserve yours! 419-448-7699￼ Tuesday - Thursday 4pm-9pm Friday & Saturday 4pm-10pm]]></description>
+            <link>https://www.facebook.com/events/1744361593221896</link>
+            <guid isPermaLink="false">69f98eeeb3b8fcf89dde9fa9</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Carmie's BBQ & Grill]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F686720053_1679592300353764_5487914538653982503_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+        </item><item>
+            <title><![CDATA[<b>Mother's Day Buffet  | Ironwood Restaurant</b> - 05/10/2026 11:00am EDT to 05/10/2026 2:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:18:00 EST</pubDate>
             <description><![CDATA[<b>Location : 4399 OH-231, Tiffin, OH 44883, USA</b> 
 
  Join us at Ironwood for a Mother’s Day she’ll truly feel.  This year, we’re creating something special, an afternoon centered around great food, beautiful views, and meaningful time together. Mother’s Day Buffet at Ironwood Sunday, May 10th 11:00 – 2:00 PM $34.99 plus tax and tip for adults $9.99 kids 4-12 Children 3 and under are free Whether you’re celebrating Mom, Grandma, or someone who’s always shown up for you, this is your moment to slow down and make it count. There will be breakfast items, lunch fare, assorted salads, and desserts. Mark your calendars now and plan to spend your afternoon at Ironwood. Because she deserves more than just a meal, she deserves an experience.]]></description>
@@ -638,7 +583,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>New Digital Banking Lunch & Learn</b> - 05/11/2026 12:00pm EDT to 05/11/2026 12:30pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:13:00 EST</pubDate>
+            <title><![CDATA[<b>New Digital Banking Lunch & Learn</b> - 05/11/2026 12:00pm EDT to 05/11/2026 12:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:17:00 EST</pubDate>
             <description><![CDATA[<b>Location : 300 North St, Bellevue, OH 44811, USA</b> 
 
  Firelands FCU’s new digital banking platform goes live May 11th! Join us for a virtual Lunch & Learn from 12:00–12:30 as we walk through online and mobile banking, explore new tools, and answer any questions you have along the way.   Meeting ID: 225 806 296 847 612 Passcode: 2pL2ES35 Dial in by phone: +1 323-813-7062,,333374284# United States, Los Angeles Phone conference ID: 333 374 284#]]></description>
@@ -651,7 +596,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>"Colored Pencil Mountain Trees"  Monday, May 11, 2026 12pm-3pm #05112601</b> - 05/11/2026 12:00pm EDT to 05/11/2026 3:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:12:00 EST</pubDate>
+            <title><![CDATA[<b>"Colored Pencil Mountain Trees"  Monday, May 11, 2026 12pm-3pm #05112601</b> - 05/11/2026 12:00pm EDT to 05/11/2026 3:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:16:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  In this class you will use colored pencils to create a 5"x7" landscape drawing of mountain trees, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Friday, May 8. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -665,7 +610,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Celebrate Recovery Bible Study</b> - 05/11/2026 6:00pm EDT to 05/11/2026 7:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:11:00 EST</pubDate>
+            <title><![CDATA[<b>Celebrate Recovery Bible Study</b> - 05/11/2026 6:00pm EDT to 05/11/2026 7:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:15:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  Join us for Celebrate Recovery Bible Study Monday nights at 6pm. A group for everyone, as we deal with the hurts, hang ups, and habits in life. Bring your family, friends, and neighbors. A time of Bible Study, sharing life, and fellowship. No childcare is provided.]]></description>
@@ -678,7 +623,7 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
         </item><item>
-            <title><![CDATA[<b>Buckeye Lady Beetle Blitz Community Science Program Training</b> - 05/11/2026 6:00pm EDT to 05/11/2026 7:00pm EDT]]></title><pubDate>Thu, 04 Jun 2026 23:10:00 EST</pubDate>
+            <title><![CDATA[<b>Buckeye Lady Beetle Blitz Community Science Program Training</b> - 05/11/2026 6:00pm EDT to 05/11/2026 7:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:14:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Buckeye Lady Beetle Blitz Community Science Program Training 2026 Lady beetles are important insect predators that feed on landscape and agricultural pests. Unfortunately, some of our native Ohio lady beetles are in decline. YOU can help us track remaining populations! - You must have a home garden- food or flower - You will collect for 1 week in June and 1 week in August - We provide all the materials Interested? Register at go.osu.edu/blbbseneca]]></description>
@@ -687,6 +632,59 @@ Women's Bible Study</b> - 05/08/2026 6:00pm EDT to 05/08/2026 7:00pm EDT]]></tit
             <category><![CDATA[Science & Tech]]></category>
             <dc:creator><![CDATA[Ohio State University Extension - Seneca County]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F651686570_1395329602609393_5955647738007892160_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+        </item><item>
+            <title><![CDATA[<b>Cricut for Beginners</b> - 05/11/2026 6:30pm EDT to 05/11/2026 7:30pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:13:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Registration required. Registration will open two weeks prior to the event. Sign up at the library or by calling 419-426-3825.]]></description>
+            <link>https://www.facebook.com/events/971171688824570</link>
+            <guid isPermaLink="false">69d20b62a38b0a4eac61be1c</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F660296377_1359516759541974_94853018060925812_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+        </item><item>
+            <title><![CDATA[<b>Discovery Series—Soap Carving</b> - 05/11/2026 7:00pm EDT to 05/11/2026 8:00pm EDT]]></title><pubDate>Fri, 05 Jun 2026 23:12:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Fruth Wetland Nature Preserve, 10130 OH-18, Fostoria, OH 44830, USA</b> 
+
+ For youth ages 12 to 17 years and older.  Join Linda Rose as we learn about the lost art of soap carving.  Please bring a bar of soap.  All other supplies provided. Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/05/11/discovery-seriessoap-carving</link>
+            <guid isPermaLink="false">69d681190069f82a6148930a</guid>
+            <category><![CDATA[Hobbies]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+        </item><item>
+            <title><![CDATA[<b>RUMMAGE SALE</b> - 05/12/2026 9:00am EDT to 05/16/2026 11:30am EDT]]></title><pubDate>Fri, 05 Jun 2026 23:11:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Join us for the AEC Rummage Sale! You can drop off items on Tuesday, May 12th, and Wednesday, May 13th, from 9:00 AM to 3:30 PM. The sale will take place on Thursday, May 14th, and Friday, May 15th, from 8:30 AM to 4:00 PM, with an exciting $1 Bag Day on Saturday, May 16th, from 8:30 AM to 11:30 AM. Discover unique treasures while supporting a good cause—don’t miss out!]]></description>
+            <link>https://www.facebook.com/events/1256030210013626</link>
+            <guid isPermaLink="false">69e9e4538e5294e3718effab</guid>
+            <category><![CDATA[Causes]]></category>
+            <category><![CDATA[Festivals/Fairs]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F684129198_1457735703055126_5994645835778366853_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+        </item><item>
+            <title><![CDATA[<b>Storytime</b> - 05/12/2026 10:30am EDT to 05/12/2026 11:30am EDT]]></title><pubDate>Fri, 05 Jun 2026 23:10:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
+            <link>https://www.facebook.com/events/954571976904829/954572003571493</link>
+            <guid isPermaLink="false">69be5f55b12a5af750582c40</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
