@@ -4,10 +4,10 @@
         <description><![CDATA[RSS Feed - Seneca Starvue - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 04:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 04:15:12 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[<b>Simply Susan’s Red Dot Sale</b> - 05/16/2026 5:00pm EDT to 05/29/2026 6:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:59:00 EST</pubDate>
+            <title><![CDATA[<b>Simply Susan’s Red Dot Sale</b> - 05/16/2026 5:00pm EDT to 05/29/2026 6:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:59:00 EST</pubDate>
             <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
 
  This is the BIGGEST sale we have ever had! It’s been almost 11 years in business & we need a fresh start! So we need to clean out space to clean, paint & refresh our space for the holiday season! PLUS! We have some new things in the works
@@ -18,163 +18,14 @@ We are adding items DAILY!]]></description>
             <category><![CDATA[Seasonal & Holiday]]></category>
             <category><![CDATA[Retail]]></category>
             <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F702265470_1490573393083174_1744291746766962995_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F702265470_1490573393083174_1744291746766962995_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>23110</yodel:organizer_id>
-            <yodel:media_alt_text>Simply Susan’s Red Dot Sale on May 16, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Seasonal &amp; Holiday.</yodel:media_alt_text>
+            <yodel:media_alt_text>Simply Susan’s Red Dot Sale on May 16, 2026 in Tiffin, OH. Featured themes include fall items and fresh start.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Mobile Mammography</b> - 05/26/2026 12:00am EDT to 05/26/2026 1:00am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:58:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
-
- The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
-            <link>https://www.mercy.com/news-events/events/toledo/2026/may/mobile-mammography-tiffin-community-health-center-may-26</link>
-            <guid isPermaLink="false">69ec2d364fc46511acfb1e75</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Mercy Health - Springfield]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fwww.mercy.com%2F-%2Fmedia%2Fmercy%2Fnews-and-events%2Fevents%2Fmercy-health-toledo-mobile-mammography-van-1536x642.ashx%3Fas%3D1%26hash%3D30B9B178E6E0B832177E45BB2E8CF13D" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69fa3e197f74c9d4f460fd8e</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>19676</yodel:organizer_id>
-            <yodel:media_alt_text>Mobile Mammography on May 26, 2026 in Tiffin, OH. Featured themes include 3d technology and comfortable experience.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Mobile Mammography</b> - 05/26/2026 12:00am EDT to 05/26/2026 1:00am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:57:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
-
- The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
-            <link>https://www.mercy.com/news-events/events/toledo/2026/may/mobile-mammography-tiffin-community-health-center-may-26</link>
-            <guid isPermaLink="false">6a0221fee0d1857837f96f8a</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <category><![CDATA[Science & Tech]]></category>
-            <dc:creator><![CDATA[Mercy Health]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fwww.mercy.com%2F-%2Fmedia%2Fmercy%2Fnews-and-events%2Fevents%2Fmercy-health-toledo-mobile-mammography-van-1536x642.ashx%3Fas%3D1%26hash%3D30B9B178E6E0B832177E45BB2E8CF13D" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69fa3e197f74c9d4f460fd8e</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>21186</yodel:organizer_id>
-            <yodel:media_alt_text>Mobile Mammography on May 26, 2026 in Tiffin, OH. Featured themes include Science &amp; Tech and 3d technology.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Mobile Mammography</b> - 05/26/2026 12:00am EDT to 05/26/2026 1:00am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:56:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 1344 W Seneca Ave, Tiffin, OH 44883, USA</b> 
-
- The Mercy Health Mobile Mammography Van provides services for easier access to quality care in a safe, convenient environment. The mobile unit uses the same newest high-quality 3D technology, including patient assisted compression, allowing you to control the amount of pressure once in position for your mammogram, allowing for a more comfortable experience.]]></description>
-            <link>https://www.mercy.com/news-events/events/toledo/2026/may/mobile-mammography-tiffin-community-health-center-may-26</link>
-            <guid isPermaLink="false">69fa2df91ec73fec55fdbde0</guid>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Mercy Health - Defiance Hospital]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fwww.mercy.com%2F-%2Fmedia%2Fmercy%2Fnews-and-events%2Fevents%2Fmercy-health-toledo-mobile-mammography-van-1536x642.ashx%3Fas%3D1%26hash%3D30B9B178E6E0B832177E45BB2E8CF13D" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69fa3e197f74c9d4f460fd8e</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>15669</yodel:organizer_id>
-            <yodel:media_alt_text>Mobile Mammography on May 26, 2026 in Tiffin, OH. Featured themes include mobile mammography and patient assisted compression.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>The Tragic End - presented by Mike Gilbert</b> - 05/26/2026 10:30am EDT to 05/26/2026 11:30am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:55:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- The Tragic End: The Assassination of Robert F Kennedy - Mike Gilbert is a very interesting speaker. Please call Allen Eiry Center at (419) 448-9774 to save a seat.]]></description>
-            <link>https://www.facebook.com/events/1685762675761480</link>
-            <guid isPermaLink="false">69f109e969d5afc0c6d4372a</guid>
-            <category><![CDATA[History & Museums]]></category>
-            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F678591763_1452609846901045_8760452055606365628_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22966</yodel:organizer_id>
-            <yodel:media_alt_text>The Tragic End - presented by Mike Gilbert on May 26, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and tragic end.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Storytime</b> - 05/26/2026 10:30am EDT to 05/26/2026 11:30am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:54:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
-
- Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
-            <link>https://www.facebook.com/events/954571976904829/954572013571492</link>
-            <guid isPermaLink="false">69be5f55c3d7ce3e02b13338</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F653048029_1346782194148764_485735699795205344_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22991</yodel:organizer_id>
-            <yodel:media_alt_text>Storytime on May 26, 2026 in Attica, OH. Featured themes include attica, ohio and craft.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Seneca County Safety Council | May Meeting</b> - 05/26/2026 12:00pm EDT to 05/26/2026 1:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:53:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 928 W Market St, Tiffin, OH 44883, USA</b> 
-
- Join us for the Seneca County Safety Council May meeting on May 26, 2026 at 12:00 PM at the North Central Ohio Educational Service Center.
-Ed Scheeter will present "Motorcycle Awareness and Road Safety," in recognition of Motorcycle Awareness Month, focusing on shared road safety and driver awareness.
-If you are bringing a guest, please register them no later than May 19 at http://www.SenecaRegionalChamber.com/guest.]]></description>
-            <link>https://www.facebook.com/events/1034125191399417</link>
-            <guid isPermaLink="false">6883c84d4dcb93f560e0aa56</guid>
-            <category><![CDATA[Government]]></category>
-            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F519481869_1130655485764468_7846531905578529178_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>33792</yodel:organizer_id>
-            <yodel:media_alt_text>Seneca County Safety Council | May Meeting on May 26, 2026 in Tiffin, OH. Featured themes include road safety and safety council.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Teen Tuesday</b> - 05/26/2026 3:00pm EDT to 05/26/2026 4:30pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:52:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2.
-Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more.
-For more information, log onto http://www.tiffinsenecalibrary.org/ or call the library at 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/1344227140582392/1344227143915725</link>
-            <guid isPermaLink="false">695fd9bc7a1ed58a7b1daf2b</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a058114403b5142b7543960</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Teen Tuesday on May 26, 2026 in Tiffin, OH. Featured themes include grades 6 through 12 and teen tuesday.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Teen Tuesday</b> - 05/26/2026 3:00pm EDT to 05/26/2026 4:30pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:51:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- “Teen Tuesdays” will be returning to the Tiffin-Seneca Public Library every Tuesday from 3:00 p.m. to 4:30 p.m. in the Frost Kalnow Room beginning Tuesday, September 2. Teens in grades 6 through 12 are invited to a weekly afterschool hangout for games, snacks, crafts and more. For more information, log onto www.tiffinsenecalibrary.org or call the library at 419-447-3751.]]></description>
-            <link>https://www.facebook.com/events/1344227140582392/1344227143915725/?active_tab=about</link>
-            <guid isPermaLink="false">689d7475ce8425bd32aadee5</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-fra5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F531427029_1183041180533854_4232302330958652779_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a058114403b5142b7543960</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>21528</yodel:organizer_id>
-            <yodel:media_alt_text>Teen Tuesday on May 26, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Kids &amp; Family.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Trivia Tuesday: Music</b> - 05/26/2026 6:00pm EDT to 05/26/2026 7:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:50:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
-
- The Tiffin-Seneca Public Library will host “Trivia Tuesday,” an adult trivia night on Tuesday, May 26 from 6:00 to 8:00 p.m. in the Frost Kalnow Room.
-Join us for an evening of fun, facts, and friendly competition. Teams will battle it out over six exciting rounds designed to test your knowledge about music. Prizes for the winning team include a custom 3D-printed trophy made right here at the Library.
-This free program is open to both adults and teens. Space is limited so registration is required by visiting the online calendar at http://www.tiffinsenecalibrary.org/
-For more information, please call (419) 447-3751 or log onto http://www.tiffinsenecalibrary.org/]]></description>
-            <link>https://www.facebook.com/events/916633681187954</link>
-            <guid isPermaLink="false">69c313d1a298fb34e624bd68</guid>
-            <category><![CDATA[Music & Entertainment]]></category>
-            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F658422742_1373232598181377_2278660495944157692_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22999</yodel:organizer_id>
-            <yodel:media_alt_text>Trivia Tuesday: Music on May 26, 2026 in Tiffin, OH. Featured themes include music trivia and team competition.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Preview Pop-Up Lunch at the Kitchen</b> - 05/27/2026 11:00am EDT to 06/01/2026 1:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:49:00 EST</pubDate>
+            <title><![CDATA[<b>Preview Pop-Up Lunch at the Kitchen</b> - 05/27/2026 11:00am EDT to 06/01/2026 1:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:58:00 EST</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Come out to the Community Kitchen next Wednesday for our Pop-Up Preview Lunch. We will be hosting Pop-Up Lunch every Monday and Wednesday at the Kitchen starting June 1st from 11am-1pm. https://www.facebook.com/hashtag/eatlikethelocals?__eep__=6&__cft__[0]=AZZNN7TDfe6xe_pz0R9ZGhWzHZnFWYZ10gALa7M9Gzz694w0bbCuf8-gwsEOUw5Dq35C8RnaW8L_ZZjERDMOF5cyLFWTe1F4HYW0A4aFt0LMnGuk7xuqIlEgBOodJCfE-0YFrdQJ3YCDxPpWJav9F-3L&__tn__=q]]></description>
@@ -189,7 +40,7 @@ For more information, please call (419) 447-3751 or log onto http://www.tiffinse
             <yodel:organizer_id>30852</yodel:organizer_id>
             <yodel:media_alt_text>Preview Pop-Up Lunch at the Kitchen on May 27, 2026 in Tiffin, OH. Featured themes include pop-up lunch and preview lunch.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Collaborative Luncheon | May</b> - 05/27/2026 11:30am EDT to 05/27/2026 1:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:48:00 EST</pubDate>
+            <title><![CDATA[<b>Collaborative Luncheon | May</b> - 05/27/2026 11:30am EDT to 05/27/2026 1:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:57:00 EST</pubDate>
             <description><![CDATA[<b>Location : 248 Miami St, Tiffin, OH 44883, USA</b> 
 
  Welcome to the Seneca County Collaborative Luncheon series, where you have a seat at the table for a gathering filled with networking, education, promotion, and impact.
@@ -216,7 +67,7 @@ Experience the Collaborative one bite at a time. See you at the luncheon!]]></de
             <yodel:organizer_id>33792</yodel:organizer_id>
             <yodel:media_alt_text>Collaborative Luncheon | May on May 27, 2026 in Tiffin, OH. Featured themes include Business and education.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Craft Creation—Rock Painting</b> - 05/27/2026 2:00pm EDT to 05/27/2026 3:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:47:00 EST</pubDate>
+            <title><![CDATA[<b>Craft Creation—Rock Painting</b> - 05/27/2026 2:00pm EDT to 05/27/2026 3:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:56:00 EST</pubDate>
             <description><![CDATA[<b>Location : 701 E County Rd 6 #6, Tiffin, OH 44883, USA</b> 
 
  Everyone needs a rock—a special rock.  Join Linda Rose as we pick and choose a favorite rock and then paint it to your liking, Registration is required at least 24 hours in advance of the program.]]></description>
@@ -231,7 +82,7 @@ Experience the Collaborative one bite at a time. See you at the luncheon!]]></de
             <yodel:organizer_id>22992</yodel:organizer_id>
             <yodel:media_alt_text>Craft Creation—Rock Painting on May 27, 2026 in Tiffin, OH. Featured themes include rock painting and special rock.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Permanent Jewelry Pop Up</b> - 05/27/2026 5:00pm EDT to 05/27/2026 8:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:46:00 EST</pubDate>
+            <title><![CDATA[<b>Permanent Jewelry Pop Up</b> - 05/27/2026 5:00pm EDT to 05/27/2026 8:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:55:00 EST</pubDate>
             <description><![CDATA[<b>Location : 138 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Join us at Empire for a special Permanent Jewelry Pop-Up with Linked by Savannah.
@@ -250,7 +101,7 @@ Grab your friends, sip some wine, and treat yourself to something permanent.]]><
             <yodel:organizer_id>172374</yodel:organizer_id>
             <yodel:media_alt_text>Permanent Jewelry Pop Up on May 27, 2026 in Tiffin, OH. Featured themes include custom-fit piece and Fashion.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Bible Study in Acts</b> - 05/27/2026 6:00pm EDT to 05/27/2026 7:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:45:00 EST</pubDate>
+            <title><![CDATA[<b>Bible Study in Acts</b> - 05/27/2026 6:00pm EDT to 05/27/2026 7:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:54:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  Join us at 6pm Wednesday Nights for Bible Study through the book of Acts. Everyone is welcome. Childcare is not provided. Contact us with any questions.]]></description>
@@ -266,7 +117,7 @@ Grab your friends, sip some wine, and treat yourself to something permanent.]]><
             <yodel:organizer_id>26867</yodel:organizer_id>
             <yodel:media_alt_text>Bible Study in Acts on May 27, 2026 in Fostoria, OH. Featured themes include fellowship and fostoria, ohio.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>CANCELED - Wetland Walkers</b> - 05/28/2026 8:30am EDT to 05/28/2026 9:30am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:44:00 EST</pubDate>
+            <title><![CDATA[<b>CANCELED - Wetland Walkers</b> - 05/28/2026 8:30am EDT to 05/28/2026 9:30am EDT]]></title><pubDate>Fri, 26 Jun 2026 23:53:00 EST</pubDate>
             <description><![CDATA[<b>Location : Fruth Wetland Nature Preserve, 10130 OH-18, Fostoria, OH 44830, USA</b> 
 
  The Wetland Walkers program scheduled for 5/28 at Fruth Wetland Nature Preserve has been canceled.]]></description>
@@ -281,7 +132,7 @@ Grab your friends, sip some wine, and treat yourself to something permanent.]]><
             <yodel:organizer_id>22992</yodel:organizer_id>
             <yodel:media_alt_text>CANCELED - Wetland Walkers on May 28, 2026 in Fostoria, OH. Featured themes include Parks &amp; Rec and cancellation.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Storytime</b> - 05/28/2026 11:45am EDT to 05/28/2026 12:30pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:43:00 EST</pubDate>
+            <title><![CDATA[<b>Storytime</b> - 05/28/2026 11:45am EDT to 05/28/2026 12:30pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:52:00 EST</pubDate>
             <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
 
  Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
@@ -296,7 +147,7 @@ Grab your friends, sip some wine, and treat yourself to something permanent.]]><
             <yodel:organizer_id>22991</yodel:organizer_id>
             <yodel:media_alt_text>Storytime on May 28, 2026 in Attica, OH. Featured themes include storytime and Kids &amp; Family.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Cinema & Slice</b> - 05/28/2026 5:00pm EDT to 05/28/2026 7:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:42:00 EST</pubDate>
+            <title><![CDATA[<b>Cinema & Slice</b> - 05/28/2026 5:00pm EDT to 05/28/2026 7:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:51:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  The Tiffin-Seneca Public Library will host “Cinema & Slice” for teens in grades six through twelve on Thursday, May 28 from 5:00 to 7:00 p.m. in the Frost Kalnow Room.
@@ -313,7 +164,7 @@ For more information, please visit the online calendar at http://www.tiffinsenec
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Cinema &amp; Slice on May 28, 2026 in Tiffin, OH. Featured themes include tiffin-seneca public library and Film.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Family Movie Night</b> - 05/28/2026 5:30pm EDT to 05/28/2026 7:30pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:41:00 EST</pubDate>
+            <title><![CDATA[<b>Family Movie Night</b> - 05/28/2026 5:30pm EDT to 05/28/2026 7:30pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:50:00 EST</pubDate>
             <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
 
  Join us for Family Movie Night! Bring your dinner, favorite blanket or camp chair & get comfy! Folding chair seating and popcorn provided! See what's showing by visiting our website https://www.senecaeastlibrary.org/.../family-movie-night-14.]]></description>
@@ -321,14 +172,14 @@ For more information, please visit the online calendar at http://www.tiffinsenec
             <guid isPermaLink="false">69d20b43a38b0a4eac61be04</guid>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662370182_1359511062875877_5456758467669536161_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F662370182_1359511062875877_5456758467669536161_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22991</yodel:organizer_id>
-            <yodel:media_alt_text>Family Movie Night on May 28, 2026 in Attica, OH. Featured themes include dinner and family movie night.</yodel:media_alt_text>
+            <yodel:media_alt_text>Family Movie Night on May 28, 2026 in Attica, OH. Featured themes include popcorn and Kids &amp; Family.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>How to Read a Book Like a Professor: Follow-Up Discussion</b> - 05/28/2026 6:00pm EDT to 05/28/2026 7:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:40:00 EST</pubDate>
+            <title><![CDATA[<b>How to Read a Book Like a Professor: Follow-Up Discussion</b> - 05/28/2026 6:00pm EDT to 05/28/2026 7:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:49:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  **PLEASE NOTE THE DATE AND LOCATION CHANGE
@@ -347,7 +198,7 @@ Information about additional programs and the 2026 Community Read can be found a
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>How to Read a Book Like a Professor: Follow-Up Discussion on May 28, 2026 in Tiffin, OH. Featured themes include community read and discussion.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Seneca Proud Book Club</b> - 05/28/2026 6:30pm EDT to 05/28/2026 8:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:39:00 EST</pubDate>
+            <title><![CDATA[<b>Seneca Proud Book Club</b> - 05/28/2026 6:30pm EDT to 05/28/2026 8:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:48:00 EST</pubDate>
             <description><![CDATA[<b>Location : 137 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Book club is open to everyone, even if you haven't finished reading the book yet.
@@ -363,7 +214,7 @@ Books are available at Pan Yan Bookstore in downtown Tiffin and also through the
             <yodel:organizer_id>23109</yodel:organizer_id>
             <yodel:media_alt_text>Seneca Proud Book Club on May 28, 2026 in Tiffin, OH. Featured themes include public library and seneca proud.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>"Birch Trees and Path"  Thursday, May 28, 2026 9am-12pm or 6pm-9pm #05282601 or #05282602</b> - 05/28/2026 9:00pm EDT to 05/29/2026 12:00am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:38:00 EST</pubDate>
+            <title><![CDATA[<b>"Birch Trees and Path"  Thursday, May 28, 2026 9am-12pm or 6pm-9pm #05282601 or #05282602</b> - 05/28/2026 9:00pm EDT to 05/29/2026 12:00am EDT]]></title><pubDate>Fri, 26 Jun 2026 23:47:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by Friday, May 22. Paint "Birch Trees and Path" in water mixable oils with Carol Hoffman on Thursday, May 28 from 9am until 12 pm or from 6pm-9pm. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 11"x14" canvas are included in the price of the class. Minimum class size 3 people, maximum of 8. Please bring a large box to take your painting home in. Cost is $50 for TAG members & $60 for non-members. Call Carol with questions. 419 624 7020, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -379,7 +230,7 @@ Books are available at Pan Yan Bookstore in downtown Tiffin and also through the
             <yodel:organizer_id>22997</yodel:organizer_id>
             <yodel:media_alt_text>&quot;Birch Trees and Path&quot; Thursday, May 28, 2026 9am-12pm or 6pm-9pm #05282601 or #05282602 on May 28, 2026 in Tiffin, OH. Featured themes include water mixable oils and Arts.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Ohio Rural Business Initiative</b> - 05/29/2026 10:00am EDT to 05/29/2026 12:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:37:00 EST</pubDate>
+            <title><![CDATA[<b>Ohio Rural Business Initiative</b> - 05/29/2026 10:00am EDT to 05/29/2026 12:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:46:00 EST</pubDate>
             <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Join the U.S. Small Business Administration for the Ohio Rural Business Initiative, an in person event designed to support rural based small businesses across all industries. This session will focus on helping businesses understand available resources, access capital, and connect directly with agencies and partners working to support rural economic growth. Is your rural business ready for the next level? The Ohio Rural Business Initiative brings together the SBA and partner organizations to share tools, funding opportunities, and guidance tailored specifically for rural businesses. Attendees will learn what programs are available, how to navigate funding options step by step, and how different agencies are working together to support business growth in rural communities. This is also a great opportunity to connect with officials, resource providers, and fellow rural business owners who are navigating similar challenges and opportunities.]]></description>
@@ -394,7 +245,7 @@ Books are available at Pan Yan Bookstore in downtown Tiffin and also through the
             <yodel:organizer_id>33792</yodel:organizer_id>
             <yodel:media_alt_text>Ohio Rural Business Initiative on May 29, 2026 in Tiffin, OH. Featured themes include funding opportunities and rural business.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Veterans, Active Military, and First Responders Resource Fair</b> - 05/29/2026 11:30am EDT to 05/29/2026 3:30pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:36:00 EST</pubDate>
+            <title><![CDATA[<b>Veterans, Active Military, and First Responders Resource Fair</b> - 05/29/2026 11:30am EDT to 05/29/2026 3:30pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:45:00 EST</pubDate>
             <description><![CDATA[<b>Location : 342 Perry St, Fostoria, OH 44830, USA</b> 
 
  Veterans, Active Military, First Responders, bring your family and come to our resource fair on Friday, May 29, 2026 and receive a meal, participate in our raffle, and walk through the fair among resources and vendors! We are here to help you and want to thank you! We will be at the Fostoria Learning Center.
@@ -411,7 +262,7 @@ Fostoria, Ohio]]></description>
             <yodel:organizer_id>26867</yodel:organizer_id>
             <yodel:media_alt_text>Veterans, Active Military, and First Responders Resource Fair on May 29, 2026 in Fostoria, OH. Featured themes include first responders and fostoria, ohio.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Corner T Fun</b> - 05/29/2026 4:00pm EDT to 05/29/2026 9:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:35:00 EST</pubDate>
+            <title><![CDATA[<b>Corner T Fun</b> - 05/29/2026 4:00pm EDT to 05/29/2026 9:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:44:00 EST</pubDate>
             <description><![CDATA[<b>Location : 14 N Perry St, New Riegel, OH 44853, USA</b> 
 
  null]]></description>
@@ -426,7 +277,7 @@ Fostoria, Ohio]]></description>
             <yodel:organizer_id>23049</yodel:organizer_id>
             <yodel:media_alt_text>Corner T Fun on May 29, 2026 in New Riegel, OH. This is a recurring event with themes including fun and new.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Summer Reading Kick-Off with Whiz Bang Science</b> - 05/29/2026 5:00pm EDT to 05/29/2026 7:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:34:00 EST</pubDate>
+            <title><![CDATA[<b>Summer Reading Kick-Off with Whiz Bang Science</b> - 05/29/2026 5:00pm EDT to 05/29/2026 7:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:43:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  The Tiffin-Seneca Public Library will kick off the 2026 Summer Reading Program with a kickoff party on Friday, May 29 from 5:00 to 7:00 p.m. at the East Green Amphitheater
@@ -444,7 +295,7 @@ For more information, call 419-447-3751 or log on to http://www.tiffinsenecalibr
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Summer Reading Kick-Off with Whiz Bang Science on May 29, 2026 in Tiffin, OH. Featured themes include dr. dave and interactive science show.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin-Seneca Public Library</b> - 05/29/2026 6:00pm EDT to 05/29/2026 7:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:33:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin-Seneca Public Library</b> - 05/29/2026 6:00pm EDT to 05/29/2026 7:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:42:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  We will kick off the Summer Reading Program with a brand new show. Dr. Dave is developing a show with the theme of dinosaurs. Make sure you come to see this wonderful, exciting new show!]]></description>
@@ -460,7 +311,7 @@ For more information, call 419-447-3751 or log on to http://www.tiffinsenecalibr
             <yodel:organizer_id>175014</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin-Seneca Public Library on May 29, 2026 in Tiffin, OH. Featured themes include library and science show.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>"Quiet Pond" Saturday, May 30, 2026 9am-12pm #05302601</b> - 05/30/2026 9:00am EDT to 05/30/2026 12:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:32:00 EST</pubDate>
+            <title><![CDATA[<b>"Quiet Pond" Saturday, May 30, 2026 9am-12pm #05302601</b> - 05/30/2026 9:00am EDT to 05/30/2026 12:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:41:00 EST</pubDate>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Pre-registration and payment is required by Saturday, May 23. Paint "Quiet Pond" in acrylics with Carol Hoffman on Saturday, May 30 from 9am until 12 pm. Please arrive at least 15 minutes before class time. Carol will guide you through the process of creating this painting whether you are a beginner or more advanced painter. All of the materials including the 12"x16" canvas are included in the price of the class. Minimum class size 3 people, maximum of 8. Please bring a large box to take your painting home in. Cost is $50 for TAG members & $60 for non-members. Call Carol with questions. 419 624 7020, Tiffin Art Guild at 419-443-0478 (tiffinartguild@att.net), or stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
@@ -468,14 +319,14 @@ For more information, call 419-447-3751 or log on to http://www.tiffinsenecalibr
             <guid isPermaLink="false">6a0d94085096a50ba0a5ba7c</guid>
             <category><![CDATA[Arts]]></category>
             <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F701465552_1619020196896535_3206626263920238650_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F701465552_1619020196896535_3206626263920238650_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22997</yodel:organizer_id>
-            <yodel:media_alt_text>&quot;Quiet Pond&quot; Saturday, May 30, 2026 9am-12pm #05302601 on May 30, 2026 in Tiffin, OH. Featured themes include Arts and acrylics.</yodel:media_alt_text>
+            <yodel:media_alt_text>&quot;Quiet Pond&quot; Saturday, May 30, 2026 9am-12pm #05302601 on May 30, 2026 in Tiffin, OH. Featured themes include advanced painter and beginner.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 05/30/2026 9:00am EDT to 05/30/2026 12:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:31:00 EST</pubDate>
+            <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 05/30/2026 9:00am EDT to 05/30/2026 12:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:40:00 EST</pubDate>
             <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Chocolate covered strawberry cups are returning! $5 each until sold old!
@@ -495,7 +346,7 @@ Tiffin Ohio 44883]]></description>
             <yodel:organizer_id>23110</yodel:organizer_id>
             <yodel:media_alt_text>Simply Susan’s Strawberry Saturdays! on May 30, 2026 in Tiffin, OH. Featured themes include affordable treats and chocolate covered strawberry cups.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Farmers Market</b> - 05/30/2026 9:00am EDT to 05/30/2026 1:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:30:00 EST</pubDate>
+            <title><![CDATA[<b>Farmers Market</b> - 05/30/2026 9:00am EDT to 05/30/2026 1:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:39:00 EST</pubDate>
             <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
@@ -512,7 +363,7 @@ Tiffin Ohio 44883]]></description>
             <yodel:organizer_id>28779</yodel:organizer_id>
             <yodel:media_alt_text>Farmers Market on May 30, 2026 in Tiffin, OH. Featured themes include community and flowers.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>20-HR OPOTA Security Firearm Certification (10 hr classroom & 10 hr range)</b> - 05/30/2026 9:00am EDT to 05/31/2026 8:30pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:29:00 EST</pubDate>
+            <title><![CDATA[<b>20-HR OPOTA Security Firearm Certification (10 hr classroom & 10 hr range)</b> - 05/30/2026 9:00am EDT to 05/31/2026 8:30pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:38:00 EST</pubDate>
             <description><![CDATA[<b>Location : 17 Findlay St, New Riegel, OH 44853, USA</b> 
 
  20-Hour Ohio Peace Officer Training Commission (OPOTC) firearm certification course fulfills all state requirements to obtain your OPOTC.]]></description>
@@ -527,7 +378,7 @@ Tiffin Ohio 44883]]></description>
             <yodel:organizer_id>132230</yodel:organizer_id>
             <yodel:media_alt_text>20-HR OPOTA Security Firearm Certification (10 hr classroom &amp; 10 hr range) on May 30, 2026 in New Riegel, OH. Featured themes include firearm certification and ohio peace officer training commission.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/30/2026 9:00am EDT to 05/30/2026 2:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:28:00 EST</pubDate>
+            <title><![CDATA[<b>Breakfast at JAM’s Markets SATURDAYS 9-2pm</b> - 05/30/2026 9:00am EDT to 05/30/2026 2:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:37:00 EST</pubDate>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Enjoy from scratch made breakfast and lunch items featuring buzzworthy sourdough artisan breads]]></description>
@@ -543,7 +394,7 @@ Tiffin Ohio 44883]]></description>
             <yodel:organizer_id>21530</yodel:organizer_id>
             <yodel:media_alt_text>Breakfast at JAM’s Markets SATURDAYS 9-2pm on May 30, 2026 in Tiffin, OH. Featured themes include Food &amp; Drink and artisan breads.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Celebrate 30 Years—Park Scrabble</b> - 05/30/2026 10:00am EDT to 05/30/2026 11:00am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:27:00 EST</pubDate>
+            <title><![CDATA[<b>Celebrate 30 Years—Park Scrabble</b> - 05/30/2026 10:00am EDT to 05/30/2026 11:00am EDT]]></title><pubDate>Fri, 26 Jun 2026 23:36:00 EST</pubDate>
             <description><![CDATA[<b>Location : 155 Miami St, Tiffin, OH 44883, USA</b> 
 
  To help celebrate 30 years, the Seneca County Park District will host a “park scrabble” game  Hike the trail looking for letters to then place on the giant scrabble board.  How many “park” words can you create? Registration is required at least 24 hours in advance of the program.]]></description>
@@ -558,7 +409,7 @@ Tiffin Ohio 44883]]></description>
             <yodel:organizer_id>22992</yodel:organizer_id>
             <yodel:media_alt_text>Celebrate 30 Years—Park Scrabble on May 30, 2026 in Tiffin, OH. Featured themes include park scrabble and Parks &amp; Rec.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>History Comes Alive: Charles Foster</b> - 05/30/2026 11:00am EDT to 05/30/2026 12:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:26:00 EST</pubDate>
+            <title><![CDATA[<b>History Comes Alive: Charles Foster</b> - 05/30/2026 11:00am EDT to 05/30/2026 12:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:35:00 EST</pubDate>
             <description><![CDATA[<b>Location : 206 S Main St, Fostoria, OH 44830, USA</b> 
 
  FREE EVENT. No RSVP required]]></description>
@@ -566,14 +417,14 @@ Tiffin Ohio 44883]]></description>
             <guid isPermaLink="false">69f8c60458379dff6c7b2e86</guid>
             <category><![CDATA[History & Museums]]></category>
             <dc:creator><![CDATA[Fostoria Area Historical Society]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F686948032_1287463616869435_8650738538890047823_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F686948032_1287463616869435_8650738538890047823_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22983</yodel:organizer_id>
-            <yodel:media_alt_text>History Comes Alive: Charles Foster on May 30, 2026 in Fostoria, OH. Featured themes include History &amp; Museums and charles foster.</yodel:media_alt_text>
+            <yodel:media_alt_text>History Comes Alive: Charles Foster on May 30, 2026 in Fostoria, OH. Featured themes include charles foster and fostoria area historical society.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Autumnwood Care Center 2nd Annual Motorcycle and Car show</b> - 05/30/2026 11:00am EDT to 05/30/2026 1:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:25:00 EST</pubDate>
+            <title><![CDATA[<b>Autumnwood Care Center 2nd Annual Motorcycle and Car show</b> - 05/30/2026 11:00am EDT to 05/30/2026 1:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:34:00 EST</pubDate>
             <description><![CDATA[<b>Location : 670 OH-18, Tiffin, OH 44883, USA</b> 
 
  Autumnwood Care Center’s 2nd Annual Motorcycle & Car Show
@@ -599,42 +450,14 @@ Bring your friends, family, and your favorite ride and help us support our veter
             <category><![CDATA[Sports, Adult]]></category>
             <category><![CDATA[Causes]]></category>
             <dc:creator><![CDATA[Autumnwood Care Center ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650103705_1353593663468448_1901174906857647514_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F650103705_1353593663468448_1901174906857647514_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>25223</yodel:organizer_id>
-            <yodel:media_alt_text>Autumnwood Care Center 2nd Annual Motorcycle and Car show on May 30, 2026 in Tiffin, OH. Featured themes include Sports, Adult and Causes.</yodel:media_alt_text>
+            <yodel:media_alt_text>Autumnwood Care Center 2nd Annual Motorcycle and Car show on May 30, 2026 in Tiffin, OH. Featured themes include fundraising and motorcycle and car show.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Grow With Me Planting Class - Kids Event</b> - 05/30/2026 12:00pm EDT to 05/30/2026 1:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:24:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Grow With Me Event
-Saturday May 30th, 2026 12:00pm
-Thanks to our amazing sponsor this event series will be admission free for the kids!
-Planting Words of Hope – Grow with Me Event
-Join us for a fun, creative, and meaningful hands‑on activity where kids will plant more than just seeds—they’ll plant hope!
-During this uplifting event, children will write their positive hopes, dreams, and encouraging words on special plant-able seed paper. Together, we’ll tuck those words into soil, symbolizing how positive thoughts can take root and grow over time.
-Kids will also decorate their own plant pots with affirmations and kind words about themselves, celebrating self‑confidence, creativity, and self‑love. As the seeds grow into plants, they’ll serve as a reminder that with patience, kindness, and care, great things can grow.
-This activity blends creativity, mindfulness, and nature in a joyful way that encourages kids to believe in themselves and their hopes for the future.
-Write it. Plant it. Watch it grow!
-Come create something beautiful today—and help it grow tomorrow.
-Ages 9 and up welcome! Follow this link to reserve your spot!
-https://www.zeffy.com/en-US/ticketing/grow-with-me-kids-event
-Space is limited so don't wait!]]></description>
-            <link>https://www.facebook.com/events/1953141592007871</link>
-            <guid isPermaLink="false">69e20ea28803401c5845bc8c</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Classes/Workshops]]></category>
-            <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F673470044_1531271009000769_334460857859433352_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>21530</yodel:organizer_id>
-            <yodel:media_alt_text>Grow With Me Planting Class - Kids Event on May 30, 2026 in Tiffin, OH. Featured themes include kids event and mindfulness.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Volunteer Orientation Seminar</b> - 05/30/2026 1:00pm EDT to 05/30/2026 3:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:23:00 EST</pubDate>
+            <title><![CDATA[<b>2026 Volunteer Orientation Seminar</b> - 05/30/2026 1:00pm EDT to 05/30/2026 3:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:33:00 EST</pubDate>
             <description><![CDATA[<b>Location : 253 Southwest St, Bellevue, OH 44811, USA</b> 
 
  Have you ever wanted to get more active with our museum but just didn’t know where to start? Do you have any friends that have expressed an interest in becoming an active member? On Saturday May 30th, we can help you do just that. An introductory seminar will be held in the Freight House at 1 pm to welcome new members and introduce participants to the tasks required to keep the museum functioning.
@@ -661,7 +484,7 @@ Our insurance provider and bylaws requires all our volunteers to be current memb
             <yodel:organizer_id>26537</yodel:organizer_id>
             <yodel:media_alt_text>2026 Volunteer Orientation Seminar on May 30, 2026 in Bellevue, OH. Featured themes include Causes and History &amp; Museums.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin Butterflies</b> - 05/30/2026 1:30pm EDT to 05/30/2026 2:30pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:22:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin Butterflies</b> - 05/30/2026 1:30pm EDT to 05/30/2026 2:30pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:32:00 EST</pubDate>
             <description><![CDATA[<b>Location : 194 St Francis Ave, Tiffin, OH 44883, USA</b> 
 
  Join us for an introduction to 12-15 colorful butterfly species that are common locally during the summer, followed by a short walk looking for a few of them.
@@ -671,14 +494,14 @@ Program led by Leonard Weber.]]></description>
             <category><![CDATA[Seasonal & Holiday]]></category>
             <category><![CDATA[Outdoors]]></category>
             <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F670197703_1368899878610414_6476856543466073278_n.jpg%3F_nc_cat%3D107%26ccb%3D1-7%26_nc_sid%3D75d36f%26_nc_ohc%3DSiJfsNO0rzcQ7kNvwHw-2vX%26_nc_oc%3DAdomSZYgaVXRbwIg0QgQFGq17xJkHU8xDpVVZHnx55Avx4S6rC8xMVykdp8K4E5utC0%26_nc_zt%3D23%26_nc_ht%3Dscontent-ord5-3.xx%26_nc_gid%3DglcpZaMADhkpaIy0TxrJMg%26_nc_ss%3D7b289%26oh%3D00_Af5L7261gw5jiww92eN5bxILO-7paRGH6PDBzBi_Si-Ycw%26oe%3D6A198819" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F670197703_1368899878610414_6476856543466073278_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>23025</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin Butterflies on May 30, 2026 in Tiffin, OH. Featured themes include butterfly species and education.</yodel:media_alt_text>
+            <yodel:media_alt_text>Tiffin Butterflies on May 30, 2026 in Tiffin, OH. Featured themes include introduction and nature walk.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Corner T Fun</b> - 05/30/2026 4:00pm EDT to 05/30/2026 9:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:21:00 EST</pubDate>
+            <title><![CDATA[<b>Corner T Fun</b> - 05/30/2026 4:00pm EDT to 05/30/2026 9:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:31:00 EST</pubDate>
             <description><![CDATA[<b>Location : 14 N Perry St, New Riegel, OH 44853, USA</b> 
 
  null]]></description>
@@ -693,7 +516,7 @@ Program led by Leonard Weber.]]></description>
             <yodel:organizer_id>23049</yodel:organizer_id>
             <yodel:media_alt_text>Corner T Fun on May 30, 2026 in New Riegel, OH. This is a recurring event with themes including corner and dining.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>9:30am Sunday School 10:30am Church</b> - 05/31/2026 9:30am EDT to 05/31/2026 10:30am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:20:00 EST</pubDate>
+            <title><![CDATA[<b>9:30am Sunday School 10:30am Church</b> - 05/31/2026 9:30am EDT to 05/31/2026 10:30am EDT]]></title><pubDate>Fri, 26 Jun 2026 23:30:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  9:30am-10:30am Sunday School
@@ -705,14 +528,14 @@ Classes for Toddlers, Kids, Youth, and Adults on Sunday mornings that study the 
             <category><![CDATA[Religious]]></category>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F677117000_1432509958916790_2276027354526375044_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F677117000_1432509958916790_2276027354526375044_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>9:30am Sunday School 10:30am Church on May 31, 2026 in Fostoria, OH. Featured themes include toddlers and youth.</yodel:media_alt_text>
+            <yodel:media_alt_text>9:30am Sunday School 10:30am Church on May 31, 2026 in Fostoria, OH. Featured themes include Kids &amp; Family and adults.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Pride-Month Kickoff Picnic</b> - 05/31/2026 12:00pm EDT to 05/31/2026 3:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:19:00 EST</pubDate>
+            <title><![CDATA[<b>Pride-Month Kickoff Picnic</b> - 05/31/2026 12:00pm EDT to 05/31/2026 3:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:29:00 EST</pubDate>
             <description><![CDATA[<b>Location : 491 Coe St, Tiffin, OH 44883, USA</b> 
 
  We've reserved the AMVETS Shelter in Hedges-Boyer Park, across from the YMCA for a Big Gay family-reunion-style picnic
@@ -723,14 +546,14 @@ We'll have games and activities for all ages, including a community art project 
             <category><![CDATA[Causes]]></category>
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Seneca Proud]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F671834457_967898065610262_3268418942313263668_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F671834457_967898065610262_3268418942313263668_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>23109</yodel:organizer_id>
-            <yodel:media_alt_text>Pride-Month Kickoff Picnic on May 31, 2026 in Tiffin, OH. Featured themes include games and activities and pride month.</yodel:media_alt_text>
+            <yodel:media_alt_text>Pride-Month Kickoff Picnic on May 31, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Causes.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>12a | Make it at Home: Folded Book Vase</b> - 06/01/2026 12:00am EDT to 06/01/2026 11:59pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:18:00 EST</pubDate>
+            <title><![CDATA[<b>12a | Make it at Home: Folded Book Vase</b> - 06/01/2026 12:00am EDT to 06/01/2026 11:59pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:28:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  null]]></description>
@@ -745,7 +568,7 @@ We'll have games and activities for all ages, including a community art project 
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>12a | Make it at Home: Folded Book Vase on Jun 1, 2026 in Tiffin, OH. Featured themes include tiffin-seneca public library and Kids &amp; Family.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Make it at Home: Folded Book Vase</b> - 06/01/2026 9:30am EDT to 06/01/2026 10:30am EDT]]></title><pubDate>Thu, 25 Jun 2026 23:17:00 EST</pubDate>
+            <title><![CDATA[<b>Make it at Home: Folded Book Vase</b> - 06/01/2026 9:30am EDT to 06/01/2026 10:30am EDT]]></title><pubDate>Fri, 26 Jun 2026 23:27:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  The Tiffin-Seneca Public Library’s virtual craft series for adults, “Make It At Home,” will offer free supply kits and an instructional video on how to make a folded book vase beginning Monday, June 1.
@@ -763,8 +586,8 @@ This program is free for adults. If all kits are gone, the instruction video and
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Make it at Home: Folded Book Vase on Jun 1, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and virtual craft series.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/01/2026 1:00pm EDT to 06/01/2026 2:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:16:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/01/2026 1:00pm EDT to 06/01/2026 2:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:26:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
 
@@ -785,18 +608,18 @@ Want to be part of the fun? Message us or tag a business that should join the ch
 Stay Tuned:
 More details—including how to play, prizes, and participating locations—will be announced soon!]]></description>
             <link>https://www.facebook.com/events/2524463298010298</link>
-            <guid isPermaLink="false">69e0047677ef4d04adc1172b</guid>
+            <guid isPermaLink="false">69fef2192362857a25be6a69</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F671252966_122197345292439962_6729734756936256623_n.jpg" length="0" type="image/jpeg"/>
+            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F671252966_122197345292439962_6729734756936256623_n.jpg" length="0" type="image/jpeg"/>
             <yodel:duplicate_id>69feffb928fc4f9d239c3e3b</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>142321</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 1, 2026 in Tiffin, OH. Featured themes include interactive experience and local businesses.</yodel:media_alt_text>
+            <yodel:organizer_id>169475</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 1, 2026 in Tiffin, OH. Featured themes include families friends and interactive experience.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/01/2026 1:00pm EDT to 06/01/2026 2:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:15:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/01/2026 1:00pm EDT to 06/01/2026 2:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:25:00 EST</pubDate>
             <description><![CDATA[<b>Location : 96 S Washington St b, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -829,7 +652,7 @@ More details—including how to play, prizes, and participating locations—will
             <yodel:organizer_id>23135</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 1, 2026 in Tiffin, OH. Featured themes include interactive experience and local businesses.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/01/2026 1:00pm EDT to 06/01/2026 2:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:14:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/01/2026 1:00pm EDT to 06/01/2026 2:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:24:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -863,23 +686,40 @@ More details—including how to play, prizes, and participating locations—will
             <yodel:organizer_id>26442</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 1, 2026 in Tiffin, OH. Featured themes include local businesses and porch geese.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/01/2026 1:00pm EDT to 06/01/2026 2:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:13:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 96 S Washington St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 06/01/2026 1:00pm EDT to 06/01/2026 2:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:23:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
 
- Tiffin’s Wild Goose Chase   All Summer Long MEMORIAL DAY THRU LABOR DAY Location: The City of Tiffin   Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local! Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family. How It Works: • Visit participating businesses around Tiffin • Find the porch goose at each location • Track your progress along the way (details coming soon!) • Explore, shop, and enjoy the journey all summer long Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer. Local Businesses: Want to be part of the fun? Message us or tag a business that should join the chase! https://forms.gle/w9RFF2Hy6xC51W657 Stay Tuned: More details—including how to play, prizes, and participating locations—will be announced soon!]]></description>
+ Tiffin’s Wild Goose Chase
+
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location:
+The City of Tiffin
+
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Track your progress along the way (details coming soon!)
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.
+Local Businesses:
+Want to be part of the fun? Message us or tag a business that should join the chase! https://forms.gle/w9RFF2Hy6xC51W657
+Stay Tuned:
+More details—including how to play, prizes, and participating locations—will be announced soon!]]></description>
             <link>https://www.facebook.com/events/2524463298010298</link>
-            <guid isPermaLink="false">69fef2192362857a25be6a69</guid>
+            <guid isPermaLink="false">69e0047677ef4d04adc1172b</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F671252966_122197345292439962_6729734756936256623_n.jpg" length="0" type="image/jpeg"/>
+            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F671252966_122197345292439962_6729734756936256623_n.jpg" length="0" type="image/jpeg"/>
             <yodel:duplicate_id>69feffb928fc4f9d239c3e3b</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>169475</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 1, 2026 in Tiffin, OH. Featured themes include local businesses and seasonal.</yodel:media_alt_text>
+            <yodel:organizer_id>142321</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jun 1, 2026 in Tiffin, OH. Featured themes include interactive experience and local businesses.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Backpackin’ Babies—Turtles</b> - 06/01/2026 4:00pm EDT to 06/01/2026 5:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:12:00 EST</pubDate>
+            <title><![CDATA[<b>Backpackin’ Babies—Turtles</b> - 06/01/2026 4:00pm EDT to 06/01/2026 5:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:22:00 EST</pubDate>
             <description><![CDATA[<b>Location : 155 Miami St, Tiffin, OH 44883, USA</b> 
 
  For ages birth to 18 months.  Babies need the great outdoors as much as older youth and adults do.  They need the exposure to fresh air, new environments and learn more than we think.  Spend some time on the trail as we learn about the turtles found in this area.  Come in a front pack, backpack, stroller or just walk.  Bring a blanket to sit on. Registration is required at least 24 hours in advance of the program.]]></description>
@@ -895,7 +735,7 @@ More details—including how to play, prizes, and participating locations—will
             <yodel:organizer_id>22992</yodel:organizer_id>
             <yodel:media_alt_text>Backpackin’ Babies—Turtles on Jun 1, 2026 in Tiffin, OH. Featured themes include backpackin’ babies and birth to 18 months.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Class I: Growing Basil</b> - 06/01/2026 6:00pm EDT to 06/01/2026 7:30pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:11:00 EST</pubDate>
+            <title><![CDATA[<b>Class I: Growing Basil</b> - 06/01/2026 6:00pm EDT to 06/01/2026 7:30pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:21:00 EST</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  Learn how to successfully grow basil from plant to thriving herb garden.
@@ -914,7 +754,7 @@ How to keep basil full, healthy & productive]]></description>
             <yodel:organizer_id>30852</yodel:organizer_id>
             <yodel:media_alt_text>Class I: Growing Basil on Jun 1, 2026 in Tiffin, OH. Featured themes include indoor gardening and outdoor gardening.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Laundry Day</b> - 06/02/2026 9:00am EDT to 06/02/2026 3:00pm EDT]]></title><pubDate>Thu, 25 Jun 2026 23:10:00 EST</pubDate>
+            <title><![CDATA[<b>Laundry Day</b> - 06/02/2026 9:00am EDT to 06/02/2026 3:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:20:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  Sign up for our free laundry days this month at FNC Hope Community Center.
@@ -926,11 +766,179 @@ https://www.signupgenius.com/go/10C0548AEAB2FAAFBC25-60083268-laundry]]></descri
             <guid isPermaLink="false">6a0e1ea00375bb76204f8ec2</guid>
             <category><![CDATA[Health & Fitness]]></category>
             <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F702291744_1458158573018595_5710750615197979318_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F702291744_1458158573018595_5710750615197979318_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>Laundry Day on Jun 2, 2026 in Fostoria, OH. Featured themes include fostoria, ohio and free laundry.</yodel:media_alt_text>
+            <yodel:media_alt_text>Laundry Day on Jun 2, 2026 in Fostoria, OH. Featured themes include Health &amp; Fitness and families.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Family Storytime</b> - 06/02/2026 10:30am EDT to 06/02/2026 11:30am EDT]]></title><pubDate>Fri, 26 Jun 2026 23:19:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ The Youth Services Department at the Tiffin-Seneca Public Library will offer “Family Storytime” on Tuesdays, June 2, 9, 16, 23, and 30 at 10:30 a.m. in the Frost Kalnow Room.
+“Family Storytime” features stories, songs, rhymes, games, and more for the entire family. All ages are welcome and registration is not required. This program is part of the 2026 Summer Reading Program, “Unearth a Story.”
+For more information, stop by the Junior Library, call 419-447-3751, or log on to http://www.tiffinsenecalibrary.org/]]></description>
+            <link>https://www.facebook.com/events/2211485509592543/2211485526259208</link>
+            <guid isPermaLink="false">6a07539ab5c2dc379c952eb2</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F701312352_1416983350472968_371350402494264455_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Family Storytime on Jun 2, 2026 in Tiffin, OH. Featured themes include summer reading program and tiffin, ohio.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Teen Tuesday: Summer Edition!</b> - 06/02/2026 2:00pm EDT to 06/02/2026 3:30pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:18:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin-Seneca Public Library will offer a special summer edition of “Teen Tuesday” on Tuesdays, June 2, 9, 16, 23, and 30 from 2:00 p.m. to 3:30 p.m. in the Frost Kalnow Room.
+Teens entering grades 6 through 12 are invited to a weekly hangout featuring games, snacks, crafts and more. Part of the 2026 Summer Reading Program “Unearth a Story.”
+For more information, log onto http://www.tiffinsenecalibrary.org/ or call the library at 419-447-3751.]]></description>
+            <link>https://www.facebook.com/events/1607198393713201/1607198403713200</link>
+            <guid isPermaLink="false">6a0c9fb6180617fdb19d35f0</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lhr6-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F701385738_1419787523525884_1658898361567203938_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Teen Tuesday: Summer Edition! on Jun 2, 2026 in Tiffin, OH. Featured themes include summer edition and summer reading program.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Rubber Ducky Wednesday</b> - 06/03/2026 11:00am EDT to 06/03/2026 12:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:17:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ The Youth Services Department at the Tiffin-Seneca Public Library will host “Rubber Ducky Wednesday” on Wednesdays, June 3, 10, 17, and 24 at 11:00 a.m. in the Frost Kalnow Room.
+Babies age birth to 35 months and their caregivers are invited to a story time on June 3, June 10, and June 17 with books, songs and lap bounces. On June 24, join the Library for a play date with toys and books for the babies to enjoy together. This program is part of the 2026 Summer Reading Program, “Unearth a Story.”
+For more information, stop by the Junior Library, call 419-447-3751, or log on to http://www.tiffinsenecalibrary.org/]]></description>
+            <link>https://www.facebook.com/events/1709259500255712/1709259503589045</link>
+            <guid isPermaLink="false">6a020a7fd4e36f05b04730be</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F693022032_1413416944162942_4791543763132106502_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Rubber Ducky Wednesday on Jun 3, 2026 in Tiffin, OH. Featured themes include summer reading program and tiffin, ohio.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Coffee Connect</b> - 06/03/2026 11:00am EDT to 06/03/2026 12:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:16:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 25 Shaffer Park Dr, Tiffin, OH 44883, USA</b> 
+
+ Come meet with the management of Your Legacy Federal Credit Union every first Wednesday of the month at 11AM. This is a chance for members to have a cup of coffee and come voice their concerns, praises, or just ask questions. Eligible Members of the community are welcome to learn more about the "Credit Union Difference" and find out how our 70+ year Seneca County institution can help you with your current finances and future plans!]]></description>
+            <link>https://www.facebook.com/events/1480200689235221/1816979145557372</link>
+            <guid isPermaLink="false">68958c8914638467a6e914f3</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Your Legacy Federal Credit Union]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F494916002_1511660100171152_4967348151098794213_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23132</yodel:organizer_id>
+            <yodel:media_alt_text>Coffee Connect on Jun 3, 2026 in Tiffin, OH. Featured themes include Business and community.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Intro to Junk Journaling</b> - 06/03/2026 2:00pm EDT to 06/03/2026 3:30pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:15:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Join us at the Tiffin-Seneca Public Library for "Intro to Junk Journaling," a creative workshop for teens entering grades six through twelve on Wednesday, June 3 from 2:00 to 3:30 p.m. in the Frost Kalnow Room. Dive into the art of junk journaling by crafting aesthetic pages, memory spreads, and collages, while learning beginner techniques and creative ideas. Teens are encouraged to bring their own journals, although a limited number will be available on-site. All necessary craft supplies will be provided. This event is part of the 2026 Summer Reading Program, “Unearth a Story.” For more details, call 419-447-3751 or visit http://www.tiffinsenecalibrary.org/.]]></description>
+            <link>https://www.facebook.com/events/1493074045538327</link>
+            <guid isPermaLink="false">6a0e5e179ef38a133aa2e6c5</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F702545580_1420588433445793_3932174974118979258_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Intro to Junk Journaling on Jun 3, 2026 in Tiffin, OH. Featured themes include junk journaling and seasonal.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Bible Study in Acts</b> - 06/03/2026 6:00pm EDT to 06/03/2026 7:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:14:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
+
+ Join us at 6pm Wednesday Nights for Bible Study through the book of Acts. Everyone is welcome. Childcare is not provided. Contact us with any questions.]]></description>
+            <link>https://www.facebook.com/events/2118563072041144</link>
+            <guid isPermaLink="false">6a0e1e9ee61b84b0ae108d5b</guid>
+            <category><![CDATA[Religious]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-iad3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F704048812_1458288766338909_4275575289614125819_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26867</yodel:organizer_id>
+            <yodel:media_alt_text>Bible Study in Acts on Jun 3, 2026 in Fostoria, OH. Featured themes include Religious and Kids &amp; Family.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Farm to Table Baking</b> - 06/03/2026 6:00pm EDT to 06/03/2026 8:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:13:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Join us on June 3rd for the Farm to Table Baking class, where you'll craft artisan herb rolls and a delightful stonefruit galette using fresh, seasonal ingredients. Perfect for bakers of all levels, this hands-on experience brings flavor and creativity to your kitchen!]]></description>
+            <link>https://www.facebook.com/events/25949528721347474</link>
+            <guid isPermaLink="false">696edb26aa6f4324b45bf2a7</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Tiffin Community Kitchen]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F618087942_1220240790234117_4185323483334461621_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>30852</yodel:organizer_id>
+            <yodel:media_alt_text>Farm to Table Baking on Jun 3, 2026 in Tiffin, OH. Featured themes include farm to table baking and hands-on experience.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Plant Swap</b> - 06/04/2026 10:00am EDT to 06/09/2026 8:30pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:12:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Community Plant Swap at the Library
+Calling all plant lovers, gardeners, and curious beginners! Join us for our upcoming Plant Swap at the library—a fun and welcoming way to share the joy of growing.
+ June 4 – June 9; During regular library hours.
+Trade plants, cuttings, and seeds with fellow community members.
+
+No need to bring anything to participate.
+
+All ages welcome!
+If you plan to contribute, you’re welcome to bring your plants or seeds anytime during the event dates—earlier in the week means more people can browse and enjoy them! Seeds should be in an envelope or Ziploc bag. Cuttings should be in a container that can go home with the plant. And don’t forget to label everything clearly so fellow gardeners know what they’re taking home!
+No registration required—just stop by and dig in!]]></description>
+            <link>https://www.facebook.com/events/963404613170086</link>
+            <guid isPermaLink="false">69f9ead459187073d3018d01</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F686470996_1385209473639369_8863445338056289732_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22991</yodel:organizer_id>
+            <yodel:media_alt_text>Plant Swap on Jun 4, 2026 in Attica, OH. Featured themes include plant swap and plants seeds cuttings.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Roar & Explore: Dinosaur Adventures</b> - 06/04/2026 2:00pm EDT to 06/04/2026 4:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:11:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Join the Tiffin-Seneca Public Library on Thursday, June 4, from 2:00 to 4:00 p.m. in the Frost Kalnow Room for "Roar & Explore: Dinosaur Adventures." This exciting event invites all ages to participate in various dinosaur-themed activities and games. Whether you drop in for a short visit or stay for the entire duration, there's fun for everyone! This program is part of the 2026 Summer Reading Program, "Unearth a Story." For more details, visit the Junior Library, call 419-447-3751, or check out http://www.tiffinsenecalibrary.org/.]]></description>
+            <link>https://www.facebook.com/events/1669270930669149</link>
+            <guid isPermaLink="false">6a0e5e14b4e1b93df92f55cd</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F704348023_1420619876775982_3396873657739851197_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Roar &amp; Explore: Dinosaur Adventures on Jun 4, 2026 in Tiffin, OH. Featured themes include activities and games and all ages.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Toddler Trot—Fishing Fun</b> - 06/04/2026 2:00pm EDT to 06/04/2026 3:00pm EDT]]></title><pubDate>Fri, 26 Jun 2026 23:10:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Garlo Heritage Nature Preserve, S., 6777 OH-19, Bloomville, OH 44818, USA</b> 
+
+ For ages 18 to 36 months.  Join Linda Rose as we try to catch some fish in the pond.  Fishing poles and bait provided or bring your own. Registration is required at least 24 hours in advance of the program.]]></description>
+            <link>https://www.senecacountyparks.com/calendar/2026/06/04/toddler-trotfishing-fun</link>
+            <guid isPermaLink="false">69fd9cf91c79aeb2fcaa8914</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22992</yodel:organizer_id>
+            <yodel:media_alt_text>Toddler Trot—Fishing Fun on Jun 4, 2026 in Bloomville, OH. Featured themes include toddler trot and Kids &amp; Family.</yodel:media_alt_text>
         </item></channel>
 </rss>
