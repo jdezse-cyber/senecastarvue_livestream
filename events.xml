@@ -4,10 +4,10 @@
         <description><![CDATA[RSS Feed - Seneca Starvue - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 04:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 04:15:08 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[<b>The 2026-2027 Season of Events</b> - 05/01/2026 12:00am EDT to 09/08/2026 11:59pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:59:00 EST</pubDate>
+            <title><![CDATA[<b>The 2026-2027 Season of Events</b> - 05/01/2026 12:00am EDT to 09/08/2026 11:59pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:59:00 EST</pubDate>
             <description><![CDATA[<b>Location : 30 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Here it is, folks! There are still a couple of [...]]]></description>
@@ -22,7 +22,7 @@
             <yodel:organizer_id>22996</yodel:organizer_id>
             <yodel:media_alt_text>The 2026-2027 Season of Events on May 1, 2026 in Tiffin, OH. Featured themes include season of events and Seasonal &amp; Holiday.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:58:00 EST</pubDate>
+            <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:58:00 EST</pubDate>
             <description><![CDATA[<b>Location : 89 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  The ServSafe Manager course will be offered on July 10th and 17th. This class will consist of an instructor-led class with a 9th edition ServSafe manager textbook and online exam voucher included.]]></description>
@@ -37,570 +37,7 @@
             <yodel:organizer_id>30852</yodel:organizer_id>
             <yodel:media_alt_text>ServSafe Manager Class on Jul 10, 2026 in Tiffin, OH. Featured themes include 9th edition textbook and online exam voucher.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Marseilles Recycling Drop Off collection weekend</b> - 07/11/2026 12:00am EDT to 07/11/2026 11:59pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:57:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 11385 Co Hwy 4, Carey, OH 43316, USA</b> 
-
- You can drop off your recyclables every month on the 2nd weekend from Friday 4pm through Monday 8am here.  We will take aluminum cans, steel cans, #1 and #2 plastics, any color of glass, newspaper, office paper, cardboard, chipboard and books. We ask that shredded paper be bagged.  We also ask that your food and drink containers are rinsed clean.  You can leave the caps on your items.  https://www.co.wyandot.oh.us/calendar.aspx?EID=2420]]></description>
-            <link>https://www.co.wyandot.oh.us/236/Recycling-Center</link>
-            <guid isPermaLink="false">68376f021c65d11e52efa799</guid>
-            <category><![CDATA[Causes]]></category>
-            <category><![CDATA[Health & Fitness]]></category>
-            <dc:creator><![CDATA[Wyandot County Recycling Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelbucket.s3.us-east-2.amazonaws.com%2Fothers%2F1700055161283.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>19670</yodel:organizer_id>
-            <yodel:media_alt_text>Marseilles Recycling Drop Off collection weekend on Jul 11, 2026 in Carey, OH. This is an all-day event with themes including plastic and recycling.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Nature Walk Bird Talk</b> - 07/11/2026 8:00am EDT to 07/11/2026 9:00am EDT]]></title><pubDate>Mon, 10 Aug 2026 23:56:00 EST</pubDate>
-            <description><![CDATA[<b>Location : Garlo Heritage Nature Preserve, S., 6777 OH-19, Bloomville, OH 44818, USA</b> 
-
- Spend the morning looking and listening to the sights and sounds of nature in the preserve as you walk the trails with Linda Rose.  Binoculars helpful.  This walk qualifies for the Walking Stick Program and lasts about 1 ¼ hour.  Registration is required at least 24 hours in advance of the program.]]></description>
-            <link>https://www.senecacountyparks.com/calendar/2026/07/11/nature-walk-bird-talk</link>
-            <guid isPermaLink="false">6a2a0cc86139ed317a356b0e</guid>
-            <category><![CDATA[Outdoors]]></category>
-            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22992</yodel:organizer_id>
-            <yodel:media_alt_text>Nature Walk Bird Talk on Jul 11, 2026 in Bloomville, OH. Featured themes include nature walk bird talk and Outdoors.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Simply Susan’s Strawberry Saturdays!</b> - 07/11/2026 9:00am EDT to 07/11/2026 12:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:55:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 70 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Chocolate covered strawberry cups are returning! $5 each until sold old!
-Come see us every Saturday during the farmers market!
-70 s Washington. St
-Tiffin Ohio 44883]]></description>
-            <link>https://www.facebook.com/events/975102355101819/977536188191769</link>
-            <guid isPermaLink="false">6a0ee4a3eb88800e88e951b3</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Festivals/Fairs]]></category>
-            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F702232119_1490482476425599_7776531371405123729_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23110</yodel:organizer_id>
-            <yodel:media_alt_text>Simply Susan’s Strawberry Saturdays! on Jul 11, 2026 in Tiffin, OH. Featured themes include affordable treats and chocolate covered strawberry cups.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>BREAKFAST & PIEROGI @ JAM’s Markets Saturdays 9a-1p</b> - 07/11/2026 9:00am EDT to 07/11/2026 1:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:54:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Join us at JAM’s Markets every Saturday from 9 AM to 2 PM for a delightful breakfast experience! Stop by 145 Madison St, Tiffin, Ohio, and enjoy a variety of freshly made breakfast and lunch items, including delicious pierogi and artisanal sourdough breads. Our offerings are available while supplies last, so come early to savor these buzzworthy bites!]]></description>
-            <link>https://www.facebook.com/events/2552806448507241/2552806475173905</link>
-            <guid isPermaLink="false">6880457f89cbcda9534a918a</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[JAM's Monthly Markets]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F724369285_122218816982310372_3488769939439324188_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>21530</yodel:organizer_id>
-            <yodel:media_alt_text>BREAKFAST &amp; PIEROGI @ JAM’s Markets Saturdays 9a-1p on Jul 11, 2026 in Tiffin, OH. Featured themes include artisan sourdough and breakfast.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Farmers Market</b> - 07/11/2026 9:00am EDT to 07/11/2026 1:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:53:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
-            <link>https://www.facebook.com/events/2509497022777520/2509497089444180</link>
-            <guid isPermaLink="false">695354acc4ecec9e67cc2ff2</guid>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F606414894_1440752718052592_185570869643367986_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69fd6bf3082fa29447fb9d74</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>28779</yodel:organizer_id>
-            <yodel:media_alt_text>Farmers Market on Jul 11, 2026 in Tiffin, OH. Featured themes include fresh produce and sustainability.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Farmers Market</b> - 07/11/2026 9:00am EDT to 07/11/2026 1:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:52:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 195 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Discover the joy of fresh produce, delightful baked goods, and stunning flowers, all waiting for you every Saturday morning!]]></description>
-            <link>https://www.facebook.com/events/2509497022777520/2509497089444180</link>
-            <guid isPermaLink="false">69c793715b656aaf2b81f270</guid>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F606414894_1440752718052592_185570869643367986_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>69fd6bf3082fa29447fb9d74</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>147339</yodel:organizer_id>
-            <yodel:media_alt_text>Farmers Market on Jul 11, 2026 in Tiffin, OH. Featured themes include sustainability and tiffin, ohio.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Scoops & Slices Trail Launch Day</b> - 07/11/2026 9:00am EDT to 07/11/2026 1:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:51:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 137 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us as we officially launch the new Scoops & Slices Trail on Saturday, July 11!
-The kickoff begins with a Scoops & Slices Geocaching Trail Information Event from 10:30 AM to 11:30 AM at the Tiffin-Seneca Public Library, hosted in partnership with Cachers Anonymous. Whether you're an experienced geocacher or have never found a cache before, you'll learn how the trail works, how to use the free digital pass, where to find the official geocaches, and how to earn the exclusive Scoops & Slices trackable geocoin.
-Destination Seneca County staff will also be available at the Tiffin-Seneca Farmers Market from 9:00 AM to 1:00 PM to answer questions, help participants register for the free digital trail, and get you started on your Scoops & Slices adventure.
-The Scoops & Slices Trail is our largest interactive tourism experience yet, featuring 27 local pizza and ice cream destinations and 30 geocaches located throughout Seneca County. Complete five qualifying foodie stops to earn the official Scoops & Slices Skippy Hat, find 25 of the 30 official geocaches to earn the collectible trackable geocoin, or complete both adventures for the full experience.
-Whether you're looking to try a new pizza shop, cool off with some ice cream, discover a new hobby, or simply explore more of Seneca County, the Scoops & Slices Trail offers a fun way to experience everything our community has to offer.
-Visit http://SkippySeneca.com/ to register for your free digital pass and start your adventure.]]></description>
-            <link>https://www.facebook.com/events/1025889587036439</link>
-            <guid isPermaLink="false">6a5007853b60ae24ca83f813</guid>
-            <category><![CDATA[Travel]]></category>
-            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F742416987_1654081026723353_5053179124341892458_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a50384458fd58ecedb025d7</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23135</yodel:organizer_id>
-            <yodel:media_alt_text>Scoops &amp; Slices Trail Launch Day on Jul 11, 2026 in Tiffin, OH. Featured themes include collectible geocoin and Travel.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Scoops & Slices Trail Launch Day</b> - 07/11/2026 9:00am EDT to 07/11/2026 1:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:50:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 137 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Join us as we officially launch the new Scoops & Slices Trail on Saturday, July 11!
-The kickoff begins with a Scoops & Slices Geocaching Trail Information Event from 10:30 AM to 11:30 AM at the Tiffin-Seneca Public Library, hosted in partnership with Cachers Anonymous. Whether you're an experienced geocacher or have never found a cache before, you'll learn how the trail works, how to use the free digital pass, where to find the official geocaches, and how to earn the exclusive Scoops & Slices trackable geocoin.
-Destination Seneca County staff will also be available at the Tiffin-Seneca Farmers Market from 9:00 AM to 1:00 PM to answer questions, help participants register for the free digital trail, and get you started on your Scoops & Slices adventure.
-The Scoops & Slices Trail is our largest interactive tourism experience yet, featuring 27 local pizza and ice cream destinations and 30 geocaches located throughout Seneca County. Complete five qualifying foodie stops to earn the official Scoops & Slices Skippy Hat, find 25 of the 30 official geocaches to earn the collectible trackable geocoin, or complete both adventures for the full experience.
-Whether you're looking to try a new pizza shop, cool off with some ice cream, discover a new hobby, or simply explore more of Seneca County, the Scoops & Slices Trail offers a fun way to experience everything our community has to offer.
-Visit http://SkippySeneca.com/ to register for your free digital pass and start your adventure.]]></description>
-            <link>https://www.facebook.com/events/1025889587036439</link>
-            <guid isPermaLink="false">6a502903deea824b98f73a4e</guid>
-            <category><![CDATA[Travel]]></category>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F742416987_1654081026723353_5053179124341892458_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a50384458fd58ecedb025d7</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>169475</yodel:organizer_id>
-            <yodel:media_alt_text>Scoops &amp; Slices Trail Launch Day on Jul 11, 2026 in Tiffin, OH. Featured themes include Travel and Food &amp; Drink.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Breakfast & Bling w/ Linked by Savannah</b> - 07/11/2026 10:00am EDT to 07/11/2026 1:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:49:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 105 E Tiffin St, Fostoria, OH 44830, USA</b> 
-
- Join us on Saturday, July 11 during the Fostoria Farmers Market for a special morning at The UrbanWoody Brewery!
- Linked by Savannah will be on-site offering her beautiful permanent jewelry, making it the perfect time to treat yourself or create a lasting memory with a friend.
- We’ll also be serving up breakfast specials from the Brewtis Kitchen along with morning drink specials to help you kick off your Farmers Market adventure.
-Shop local, enjoy great food and drinks, and get linked while you’re downtown. We can’t wait to see you there!]]></description>
-            <link>https://www.facebook.com/events/1928471941185565</link>
-            <guid isPermaLink="false">6a34c37eee97d6dfa522c899</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <category><![CDATA[Markets]]></category>
-            <category><![CDATA[Retail]]></category>
-            <dc:creator><![CDATA[The UrbanWoody Brewery & The HoneyBee Winery ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F724560314_1618701986927519_7680318380980608396_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23121</yodel:organizer_id>
-            <yodel:media_alt_text>Breakfast &amp; Bling w/ Linked by Savannah on Jul 11, 2026 in Fostoria, OH. Featured themes include local shopping and permanent jewelry.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Clyde Farmer's Market</b> - 07/11/2026 10:00am EDT to 07/11/2026 2:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:48:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 126 Railroad St, Clyde, OH 43410, USA</b> 
-
- We will be a vendor at the Clyde Farmer's Market on the second Saturday of the Month through October.]]></description>
-            <link>https://www.facebook.com/events/1279928963911967/1279928970578633</link>
-            <guid isPermaLink="false">6a3f878990f05bbd6803b054</guid>
-            <category><![CDATA[Markets]]></category>
-            <dc:creator><![CDATA[Homestead 6:33]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc3-1.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F721089590_1316808176673385_5356322716307583110_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>193973</yodel:organizer_id>
-            <yodel:media_alt_text>Clyde Farmer&apos;s Market on Jul 11, 2026 in Clyde, OH. Featured themes include vendor and Markets.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Freshly Baked at The Farmhouse</b> - 07/11/2026 10:00am EDT to 07/11/2026 2:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:47:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 11351 E Township Rd 44, Attica, OH 44807, USA</b> 
-
- Join us for a gathering of our best bakers around!! Grab some samples or take some home!]]></description>
-            <link>https://www.facebook.com/events/26838921685714141</link>
-            <guid isPermaLink="false">69c1a53fd9c6e86a85c37006</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[The Farmhouse Collection LLC]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F654997030_122267306144221179_7159013570169017959_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>25248</yodel:organizer_id>
-            <yodel:media_alt_text>Freshly Baked at The Farmhouse on Jul 11, 2026 in Attica, OH. Featured themes include best bakers and chatfield, ohio.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Family Fun Event—Insect Safari</b> - 07/11/2026 11:00am EDT to 07/11/2026 12:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:46:00 EST</pubDate>
-            <description><![CDATA[<b>Location : Garlo Heritage Nature Preserve, S., 6777 OH-19, Bloomville, OH 44818, USA</b> 
-
- Join Linda Rose from 11AM to 2PM in the grasslands and trails as we look for insects along the ways.  Learn what makes an insect and insect and more.    Nets provided or bring your own. Registration is required at least 24 hours in advance of the program.]]></description>
-            <link>https://www.senecacountyparks.com/calendar/2026/07/11/family-fun-eventinsect-safari</link>
-            <guid isPermaLink="false">6a2a0cc9bbd0912e869ec551</guid>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Outdoors]]></category>
-            <dc:creator><![CDATA[Seneca Parks]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F899602f0-7ddc-4ed0-a2fa-c24859c8554f.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22992</yodel:organizer_id>
-            <yodel:media_alt_text>Family Fun Event—Insect Safari on Jul 11, 2026 in Bloomville, OH. Featured themes include Outdoors and children.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:45:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">69f1efad8dc656201625e677</guid>
-            <category><![CDATA[Sports, Adult]]></category>
-            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>31330</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include family event and happy gilmore theme.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:44:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">69ed11c8a6d38d037b50251a</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[Simply Susan's]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23110</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Sports, Youth.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:43:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a0a5a43b59fb0374259dd9f</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[Bailiwicks Coffee Company]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23014</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include seasonal and sports.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:42:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a07bd3505a00a484265a0b0</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Washington Street Outfitters]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23130</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include seasonal and sports.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:41:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a082ffc66f5c680a65410a7</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[The Poignon Project]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23117</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include family and gift baskets.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:40:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a500729b4335b3e6158d890</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Clover Club]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23016</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include trophies and Sports, Youth.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:39:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a0831223dc0451ac00e2d38</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[Pan Yan Bookstore]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23002</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include 2026 downtown tiffin mini golf outing and gift baskets.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:38:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a09b5dfbfcbf92dc6807194</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26442</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include 2026 downtown tiffin mini golf outing and downtown tiffin.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:37:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a0a0550a08eb868fcfa1871</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>142321</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include mini golf outing and seasonal.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:36:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a4eea47b57c9730addc3bd6</guid>
-            <category><![CDATA[Sports, Adult]]></category>
-            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>28779</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include Sports, Adult and 2026 downtown tiffin mini golf outing.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:35:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a4eea1db57c9730addc3bae</guid>
-            <category><![CDATA[Sports, Youth]]></category>
-            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27898</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include mini golf outing and seasonal.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>2026 Downtown Tiffin Mini Golf Outing</b> - 07/11/2026 11:00am EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:34:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 112 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tickets are on sale NOW for the Second Annual Downtown Tiffin Mini Golf Outing
-The Downtown Tiffin Mini Golf Outing is BACK — and bigger than ever!!
-Join us on Saturday, July 11, 2026 from 11 AM – 4 PM for a one-of-a-kind, Happy Gilmore-themed mini golf experience right through the heart of Downtown Tiffin, Ohio.
-Putt your way through 18 holes hosted by participating local businesses, explore everything downtown has to offer, and compete for trophies, gift baskets, gift cards, door prizes, and bragging rights — all in one unforgettable summer day.
-Tickets are $20 per golfer and going fast.
-Order online here:
-https://ssgink.com/shop/ols/products/2026-summer-downtown-mini-golf-outing-tickets
-Or purchase in person at SSG Ink or Simply Susan’s while supplies last.
-Online orders will be pulled the next business day, and you’ll be notified by text with pickup hours once your tickets are ready.
-Grab your friends, family, coworkers, or golf crew and come spend one happy day downtown.
-18 holes. 18 businesses. 1 happy day.]]></description>
-            <link>https://www.facebook.com/events/4312430362310732</link>
-            <guid isPermaLink="false">6a4f04208a5634164009c19f</guid>
-            <category><![CDATA[Sports, Adult]]></category>
-            <dc:creator><![CDATA[Tiffin Seneca Farmers Market]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F738843080_122179913924908092_1050686446907251564_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a4f14877070644e2a5188e5</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>147339</yodel:organizer_id>
-            <yodel:media_alt_text>2026 Downtown Tiffin Mini Golf Outing on Jul 11, 2026 in Tiffin, OH. Featured themes include tickets and tiffin, ohio.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Get out of the heat and join Landmark Seekers at Seneca Caverns July 11, 2026</b> - 07/11/2026 12:00pm EDT to 07/11/2026 1:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:33:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 15248 E Township Rd 178, Bellevue, OH 44811, USA</b> 
-
- Quest Announcement: Journey Into the Depths!
-See more. Stress less.
-Are you ready to trade the surface world for an underground adventure? Landmark Seekers is heading to Seneca Caverns—Ohio’s own Registered Natural Landmark and "The Caviest Cave in the U.S.A."!
-Join us as we explore the limestone passages, walk the legendary "Earth Crack," and witness the crystal-clear waters of the Ole Mist’ry River. Whether you're a geology enthusiast or just looking for a cool, subterranean escape, this is a quest you won't want to miss.
-
- The Details:
-When: Saturday, July 11, 2026
-Where: 15248 E. Township Rd. 178, Bellevue, OH 44811
-The Quest: A one-hour guided tour through seven levels of geological history.
-Travel Style: Drive-yourself (Meet us there!)
-Looking at 12-1pm or 1-2pm tour !
- Pro-Tips for Seekers:
-Dress the Part: The cave stays a cool 54°F year-round, so bring a light jacket.
-Footwear: Wear sturdy, closed-toe shoes with good traction. We’ll be navigating natural stone steps and pathways!
-Memories: Still photography is welcome! (Please leave the tripods and selfie sticks at home to keep the tour moving smoothly).
-
- Membership Perks:
-As part of our commitment to "collective perks," your ticket purchase includes your official Landmark Seekers Membership ID. Don't forget to grab some gear or try your hand at gem mining while we're on-site!
-Ready to descend?
-[Link to Registration/Tickets]
-Note: Due to the natural terrain, this tour is not stroller or wheelchair accessible. Let’s make some memories underground!]]></description>
-            <link>https://www.facebook.com/events/1419898839894526</link>
-            <guid isPermaLink="false">6a2f186e3ae080892b0b9cee</guid>
-            <category><![CDATA[Travel]]></category>
-            <dc:creator><![CDATA[Landmark Seekers]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F705567809_122112006044882503_420816197278966449_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>185184</yodel:organizer_id>
-            <yodel:media_alt_text>Get out of the heat and join Landmark Seekers at Seneca Caverns July 11, 2026 on Jul 11, 2026 in Bellevue, OH. Featured themes include bellevue, ohio and exploration.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>St. Joseph Festival</b> - 07/11/2026 12:00pm EDT to 07/12/2026 9:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:32:00 EST</pubDate>
+            <title><![CDATA[<b>St. Joseph Festival</b> - 07/11/2026 12:00pm EDT to 07/12/2026 9:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:57:00 EST</pubDate>
             <description><![CDATA[<b>Location : 36 Melmore St, Tiffin, OH 44883, USA</b> 
 
  Join us for a weekend full of family fun at the St. Joseph Festival!
@@ -648,152 +85,7 @@ We can't wait to welcome you for another unforgettable St. Joseph Festival weeke
             <yodel:organizer_id>22994</yodel:organizer_id>
             <yodel:media_alt_text>St. Joseph Festival on Jul 11, 2026 in Tiffin, OH. Featured themes include family fun and games.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/11/2026 1:00pm EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:31:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871400611370</link>
-            <guid isPermaLink="false">6a4f1b8ab9508c2e1fef92b1</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27898</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 11, 2026 in Tiffin, OH. Featured themes include interactive experience and porch geese.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/11/2026 1:00pm EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:30:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871400611370</link>
-            <guid isPermaLink="false">6a26d6d4861aa79c76c92335</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a27923a062b20720e71fda9</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>142321</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 11, 2026 in Tiffin, OH. Featured themes include local businesses and seasonal.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/11/2026 1:00pm EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:29:00 EST</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871400611370</link>
-            <guid isPermaLink="false">6a26523f641c68dc5a8b1270</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a27923a062b20720e71fda9</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26442</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 11, 2026 in Tiffin, OH. Featured themes include seasonal and summer activities.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/11/2026 1:00pm EDT to 07/11/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:28:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871400611370</link>
-            <guid isPermaLink="false">6a278218dee30bbd9fa5d7b6</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Parks & Rec]]></category>
-            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a27923a062b20720e71fda9</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>31330</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 11, 2026 in Tiffin, OH. Featured themes include interactive experience and seasonal.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Corner T Fun</b> - 07/11/2026 4:00pm EDT to 07/11/2026 9:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:27:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 14 N Perry St, New Riegel, OH 44853, USA</b> 
-
- null]]></description>
-            <link>https://newriegelcafe.com/</link>
-            <guid isPermaLink="false">69e0fc9564652c0799c02c13_20260711</guid>
-            <category><![CDATA[Food & Drink]]></category>
-            <dc:creator><![CDATA[New Riegel Cafe]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2F2d5f430a-1120-4993-a131-e23d61947300.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>23049</yodel:organizer_id>
-            <yodel:media_alt_text>Corner T Fun on Jul 11, 2026 in New Riegel, OH. This is a recurring event with themes including dining and new.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Seventy80 live at St. Joseph Festival</b> - 07/11/2026 6:00pm EDT to 07/11/2026 7:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:26:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 36 Melmore St, Tiffin, OH 44883, USA</b> 
-
- Seventy80 returns to the St. Joseph Festival for a night of classic rock featuring the music of Journey, Styx, Foreigner, Pat Benatar and many more!]]></description>
-            <link>https://www.facebook.com/events/2103890720486188</link>
-            <guid isPermaLink="false">6a5071fe9753147078bf0452</guid>
-            <category><![CDATA[Music & Entertainment]]></category>
-            <category><![CDATA[Festivals/Fairs]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[St. Joseph Catholic Church]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F739355508_1019057584057685_8168507348085816012_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22994</yodel:organizer_id>
-            <yodel:media_alt_text>Seventy80 live at St. Joseph Festival on Jul 11, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and seventy80 live at st. joseph festival.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Christmas in July</b> - 07/11/2026 6:00pm EDT to 07/12/2026 2:30am EDT]]></title><pubDate>Mon, 10 Aug 2026 23:25:00 EST</pubDate>
+            <title><![CDATA[<b>Christmas in July</b> - 07/11/2026 6:00pm EDT to 07/12/2026 2:30am EDT]]></title><pubDate>Tue, 11 Aug 2026 23:56:00 EST</pubDate>
             <description><![CDATA[<b>Location : 1700 Duchess Ln, Tiffin, OH 44883, USA</b> 
 
  DJ Biscuit is back for another round of awesomeness for a Christmas in July themed party!8p-12a!]]></description>
@@ -808,7 +100,7 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>25224</yodel:organizer_id>
             <yodel:media_alt_text>Christmas in July on Jul 11, 2026 in Tiffin, OH. Featured themes include dj biscuit and Seasonal &amp; Holiday.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Daybreak Service</b> - 07/12/2026 8:30am EDT to 07/12/2026 9:00am EDT]]></title><pubDate>Mon, 10 Aug 2026 23:24:00 EST</pubDate>
+            <title><![CDATA[<b>Daybreak Service</b> - 07/12/2026 8:30am EDT to 07/12/2026 9:00am EDT]]></title><pubDate>Tue, 11 Aug 2026 23:55:00 EST</pubDate>
             <description><![CDATA[<b>Location : 131 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Join us for Daybreak Service at Trinity United Church of Christ — a peaceful 30-minute morning gathering to start your day with reflection and community.
@@ -827,7 +119,7 @@ All are welcome.
             <yodel:organizer_id>27449</yodel:organizer_id>
             <yodel:media_alt_text>Daybreak Service on Jul 12, 2026 in Tiffin, OH. Featured themes include daybreak service and live video.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Sunday School and Church Service</b> - 07/12/2026 9:30am EDT to 07/12/2026 10:30am EDT]]></title><pubDate>Mon, 10 Aug 2026 23:23:00 EST</pubDate>
+            <title><![CDATA[<b>Sunday School and Church Service</b> - 07/12/2026 9:30am EDT to 07/12/2026 10:30am EDT]]></title><pubDate>Tue, 11 Aug 2026 23:54:00 EST</pubDate>
             <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
 
  9:30am-10:30am Sunday School
@@ -845,7 +137,7 @@ Classes for Toddlers, Kids, Youth, and Adults on Sunday mornings that study the 
             <yodel:organizer_id>26867</yodel:organizer_id>
             <yodel:media_alt_text>Sunday School and Church Service on Jul 12, 2026 in Fostoria, OH. Featured themes include sunday school and church service and Religious.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Service of the Word</b> - 07/12/2026 10:00am EDT to 07/12/2026 11:00am EDT]]></title><pubDate>Mon, 10 Aug 2026 23:22:00 EST</pubDate>
+            <title><![CDATA[<b>Service of the Word</b> - 07/12/2026 10:00am EDT to 07/12/2026 11:00am EDT]]></title><pubDate>Tue, 11 Aug 2026 23:53:00 EST</pubDate>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
  Join us for worship, Sunday mornings at 10:00 am. In person or online via Facebook and Youtube. (search: Trinity UCC Tiffin)]]></description>
@@ -853,14 +145,14 @@ Classes for Toddlers, Kids, Youth, and Adults on Sunday mornings that study the 
             <guid isPermaLink="false">6a1cd85b9714040ea6862fcd</guid>
             <category><![CDATA[Religious]]></category>
             <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713805076_1406093188217164_3166402453979638270_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713805076_1406093188217164_3166402453979638270_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>27449</yodel:organizer_id>
-            <yodel:media_alt_text>Service of the Word on Jul 12, 2026 in Tiffin, OH. Featured themes include service of the word and spirituality.</yodel:media_alt_text>
+            <yodel:media_alt_text>Service of the Word on Jul 12, 2026 in Tiffin, OH. Featured themes include community and live video.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>26th Annual SCPD Photo Contest Public Viewing</b> - 07/12/2026 1:00pm EDT to 07/12/2026 2:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:21:00 EST</pubDate>
+            <title><![CDATA[<b>26th Annual SCPD Photo Contest Public Viewing</b> - 07/12/2026 1:00pm EDT to 07/12/2026 2:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:52:00 EST</pubDate>
             <description><![CDATA[<b>Location : Garlo Heritage Nature Preserve, S., 6777 OH-19, Bloomville, OH 44818, USA</b> 
 
  Spend the afternoon looking at the photo entries for the 26th Annual SCPD Photo Contest and then enjoy a walk in the park from 1pm to 4pm.]]></description>
@@ -876,7 +168,35 @@ Classes for Toddlers, Kids, Youth, and Adults on Sunday mornings that study the 
             <yodel:organizer_id>22992</yodel:organizer_id>
             <yodel:media_alt_text>26th Annual SCPD Photo Contest Public Viewing on Jul 12, 2026 in Bloomville, OH. Featured themes include Arts and Parks &amp; Rec.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/12/2026 1:00pm EDT to 07/12/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:20:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/12/2026 1:00pm EDT to 07/12/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:51:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871403944703</link>
+            <guid isPermaLink="false">6a4f1b8b28b86643e6a56d97</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a52147f5058d8f125b39ed2</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>27898</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 12, 2026 in Tiffin, OH. Featured themes include porch geese and seasonal.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/12/2026 1:00pm EDT to 07/12/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:50:00 EST</pubDate>
             <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -898,14 +218,42 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <category><![CDATA[Kids & Family]]></category>
             <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a516bb091ca62a296c6f898</yodel:duplicate_id>
+            <yodel:duplicate_id>6a52147f5058d8f125b39ed2</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>142321</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 12, 2026 in Tiffin, OH. Featured themes include tiffin wild goose chase and tiffin&apos;s wild goose chase.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/12/2026 1:00pm EDT to 07/12/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:19:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/12/2026 1:00pm EDT to 07/12/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:49:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871403944703</link>
+            <guid isPermaLink="false">6a26523e641c68dc5a8b126c</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a52147f5058d8f125b39ed2</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26442</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 12, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and wild goose chase.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/12/2026 1:00pm EDT to 07/12/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:48:00 EST</pubDate>
             <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -927,70 +275,14 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a516bb091ca62a296c6f898</yodel:duplicate_id>
+            <yodel:duplicate_id>6a52147f5058d8f125b39ed2</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>31330</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 12, 2026 in Tiffin, OH. Featured themes include summer fun and support local.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/12/2026 1:00pm EDT to 07/12/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:18:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871403944703</link>
-            <guid isPermaLink="false">6a4f1b8b28b86643e6a56d97</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a516bb091ca62a296c6f898</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27898</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 12, 2026 in Tiffin, OH. Featured themes include porch geese and seasonal.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/12/2026 1:00pm EDT to 07/12/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:17:00 EST</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871403944703</link>
-            <guid isPermaLink="false">6a26523e641c68dc5a8b126c</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a516bb091ca62a296c6f898</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26442</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 12, 2026 in Tiffin, OH. Featured themes include tiffin&apos;s wild goose chase and wild goose chase.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Middle School Robotics Summer Camp</b> - 07/13/2026 8:00am EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:16:00 EST</pubDate>
+            <title><![CDATA[<b>Middle School Robotics Summer Camp</b> - 07/13/2026 8:00am EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:47:00 EST</pubDate>
             <description><![CDATA[<b>Location : 155 Miami St, Tiffin, OH 44883, USA</b> 
 
  Get ready for an exciting day of robotics at Tiffin University! You’ll learn the basics, write simple code and work with a team to complete fun robot missions in a real university lab. No experience needed – just bring your curiosity.
@@ -1010,8 +302,8 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:organizer_id>36602</yodel:organizer_id>
             <yodel:media_alt_text>Middle School Robotics Summer Camp on Jul 13, 2026 in Tiffin, OH. Featured themes include School and coding experience.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/13/2026 1:00pm EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:15:00 EST</pubDate>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/13/2026 1:00pm EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:46:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
 All Summer Long MEMORIAL DAY THRU LABOR DAY
@@ -1027,47 +319,18 @@ How It Works:
 • Explore, shop, and enjoy the journey all summer long
 Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
             <link>https://www.facebook.com/events/2531871347278042/2531871370611373</link>
-            <guid isPermaLink="false">6a26523f47cbad027275277f</guid>
+            <guid isPermaLink="false">6a4f1b8eb9508c2e1fef92b4</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a27927f062b20720e720007</yodel:duplicate_id>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26442</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 13, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and interactive experience.</yodel:media_alt_text>
-        </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/13/2026 1:00pm EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:14:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
-
- Tiffin’s Wild Goose Chase
-All Summer Long MEMORIAL DAY THRU LABOR DAY
-Location: The City of Tiffin
-Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
-Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
-How It Works:
-1. Pick up a paper passport at any participating business OR
-2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
-• Visit participating businesses around Tiffin
-• Find the porch goose at each location
-• Locate & record the 4 digit code for each goose.
-• Explore, shop, and enjoy the journey all summer long
-Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
-            <link>https://www.facebook.com/events/2531871347278042/2531871370611373</link>
-            <guid isPermaLink="false">6a26d6d42e8bf41ad89ed217</guid>
-            <category><![CDATA[Seasonal & Holiday]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
+            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a27927f062b20720e720007</yodel:duplicate_id>
+            <yodel:duplicate_id>6a5214845058d8f125b39ed9</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>142321</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 13, 2026 in Tiffin, OH. Featured themes include summer fun and tiffin wild goose chase.</yodel:media_alt_text>
+            <yodel:organizer_id>27898</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 13, 2026 in Tiffin, OH. Featured themes include tiffin wild goose chase and tiffin&apos;s wild goose chase.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/13/2026 1:00pm EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:13:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/13/2026 1:00pm EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:45:00 EST</pubDate>
             <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
@@ -1089,15 +352,15 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <category><![CDATA[Parks & Rec]]></category>
             <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:duplicate_id>6a27927f062b20720e720007</yodel:duplicate_id>
+            <yodel:duplicate_id>6a5214845058d8f125b39ed9</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>31330</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 13, 2026 in Tiffin, OH. Featured themes include tiffin wild goose chase and tiffin&apos;s wild goose chase.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/13/2026 1:00pm EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:12:00 EST</pubDate>
-            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/13/2026 1:00pm EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:44:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
 
  Tiffin’s Wild Goose Chase
 All Summer Long MEMORIAL DAY THRU LABOR DAY
@@ -1113,17 +376,47 @@ How It Works:
 • Explore, shop, and enjoy the journey all summer long
 Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
             <link>https://www.facebook.com/events/2531871347278042/2531871370611373</link>
-            <guid isPermaLink="false">6a4f1b8eb9508c2e1fef92b4</guid>
+            <guid isPermaLink="false">6a26d6d42e8bf41ad89ed217</guid>
             <category><![CDATA[Seasonal & Holiday]]></category>
-            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
             <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a5214845058d8f125b39ed9</yodel:duplicate_id>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27898</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 13, 2026 in Tiffin, OH. Featured themes include tiffin wild goose chase and tiffin&apos;s wild goose chase.</yodel:media_alt_text>
+            <yodel:organizer_id>142321</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 13, 2026 in Tiffin, OH. Featured themes include summer fun and tiffin wild goose chase.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>Special Hours   7.13 and 7.14</b> - 07/13/2026 5:00pm EDT to 07/14/2026 7:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:11:00 EST</pubDate>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/13/2026 1:00pm EDT to 07/13/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:43:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871370611373</link>
+            <guid isPermaLink="false">6a26523f47cbad027275277f</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a5214845058d8f125b39ed9</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26442</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 13, 2026 in Tiffin, OH. Featured themes include support local and tiffin.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Special Hours   7.13 and 7.14</b> - 07/13/2026 5:00pm EDT to 07/14/2026 7:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:42:00 EST</pubDate>
             <description><![CDATA[<b>Location : 105 E Tiffin St, Fostoria, OH 44830, USA</b> 
 
  We are excited to offer special hours for UP Big Boy 4014’s return to Fostoria.
@@ -1141,7 +434,7 @@ Stop in and see us!]]></description>
             <yodel:organizer_id>23121</yodel:organizer_id>
             <yodel:media_alt_text>Special Hours 7.13 and 7.14 on Jul 13, 2026 in Fostoria, OH. Featured themes include up big boy 4014 and Food &amp; Drink.</yodel:media_alt_text>
         </item><item>
-            <title><![CDATA[<b>6p | Pioneer Workshop: Candle Making</b> - 07/13/2026 6:00pm EDT to 07/13/2026 7:00pm EDT]]></title><pubDate>Mon, 10 Aug 2026 23:10:00 EST</pubDate>
+            <title><![CDATA[<b>6p | Pioneer Workshop: Candle Making</b> - 07/13/2026 6:00pm EDT to 07/13/2026 7:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:41:00 EST</pubDate>
             <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
 
  null]]></description>
@@ -1155,5 +448,645 @@ Stop in and see us!]]></description>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>6p | Pioneer Workshop: Candle Making on Jul 13, 2026 in Tiffin, OH. Featured themes include community events and pioneer workshop.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Celebrate Recovery Bible Study</b> - 07/13/2026 6:00pm EDT to 07/13/2026 7:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:40:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
+
+ Join us for Celebrate Recovery Bible Study Monday nights at 6pm. A group for everyone, as we deal with the hurts, hang ups, and habits in life. Bring your family, friends, and neighbors. A time of Bible Study, sharing life, and fellowship. No childcare is provided.]]></description>
+            <link>https://www.facebook.com/events/1457710099718028</link>
+            <guid isPermaLink="false">6a42f9aa9b4be7eba8fe79eb</guid>
+            <category><![CDATA[Religious]]></category>
+            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F735377201_2052436655483853_1439546294077077909_n.png" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26867</yodel:organizer_id>
+            <yodel:media_alt_text>Celebrate Recovery Bible Study on Jul 13, 2026 in Fostoria, OH. Featured themes include celebrate recovery and celebrate recovery bible study.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Puzzle Party for Adults and Teens</b> - 07/13/2026 6:30pm EDT to 07/13/2026 7:30pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:39:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Registration required and will open up two weeks prior to the event. Sign up at the library or by calling 419-426-3825]]></description>
+            <link>https://www.facebook.com/events/888764657600202</link>
+            <guid isPermaLink="false">6a36b77832217113d8fa2fde</guid>
+            <category><![CDATA[Arts]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F724500393_1424142313079418_3217799069672076007_n.png" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22991</yodel:organizer_id>
+            <yodel:media_alt_text>Puzzle Party for Adults and Teens on Jul 13, 2026 in Attica, OH. Featured themes include Arts and adults.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>July CNA Session</b> - 07/14/2026 12:00am UTC to 07/14/2026 11:59pm UTC]]></title><pubDate>Tue, 11 Aug 2026 23:38:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 342 Perry St, Fostoria, OH 44830, USA</b> 
+
+ Becoming a Nurse Aide may be for you! Nurse Aides provide a variety of care-related tasks such as dressing, feeding and observing patients. Nurse Aides usually work in long-term care facilities, home health agencies, assisted living facilities and hospitals. After completing this course, students will be prepared to take the State written and competency exam. State exam fees are not included in the cost of this class. State exams are completed through D & S Diversified Technologies. 
+Clinical locations will be announced in class. Before the first day of class, students must read and sign a code of conduct contract. A Terra State Kern Center representative will go over this contract with you when you register. 
+All classes will take place at the Fostoria Learning Center. 
+342 Perry St, Fostoria, OH 44830 
+
+CONTACT(419) 559-2464kern@terra.edu 
+75 hours total 
+
+59 hours in class time 
+16 hours of Clinicals 
+Cost: $950/student, first state test fee included. 
+Max Class Size: 8 
+Before Clinicals each student will need following: 
+TB Test 
+Physical 
+*Scholarships available to eligible learners. For scholarship information, contact via email or phone: eriehle01@terra.edu / 419-559-2255]]></description>
+            <link>https://fostorialearningcenter.org/event/july-cna-session/2026-07-14/</link>
+            <guid isPermaLink="false">6a170f5ac350a4e5ba968035</guid>
+            <category><![CDATA[Health & Fitness]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Fostoria Learning Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fff888179-43b8-48dd-88dc-0627444a93bc.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23001</yodel:organizer_id>
+            <yodel:media_alt_text>July CNA Session on Jul 14, 2026 in Fostoria, OH. This is an all-day event with themes including Classes/Workshops and clinical locations.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>"Colored Pencil Cherry Pie"  Tuesday, July 14, 2026 9am-12pm  #07142601</b> - 07/14/2026 9:00am EDT to 07/14/2026 12:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:37:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ In this class you will use colored pencils to create a 5"x7" drawing of a slice of cherry pie, learning about strokes and blending techniques. All supplies are provided. Preregistration is required by Friday, July 10. Minimum class size is 3 people. The cost is $45 for TAG members & $55 for non-members. Contact Mike Fink (813-695-0506), or TAG (419-443-0478), or tiffinartguild@att.net with questions. You can also stop in at the Gallery, 130 S Washington St, Tiffin between Noon and 4 pm Wednesday thru Saturday.]]></description>
+            <link>https://www.facebook.com/events/4371560199840047</link>
+            <guid isPermaLink="false">6a0d94285096a50ba0a5ba97</guid>
+            <category><![CDATA[Arts]]></category>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Tiffin Art Guild]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F700343010_1619025376896017_6747374987233871612_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22997</yodel:organizer_id>
+            <yodel:media_alt_text>&quot;Colored Pencil Cherry Pie&quot; Tuesday, July 14, 2026 9am-12pm #07142601 on Jul 14, 2026 in Tiffin, OH. Featured themes include Classes/Workshops and art class.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Big Boy 4014 Fostoria, OH | July 14, 2026 Experience</b> - 07/14/2026 9:00am EDT to 07/14/2026 3:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:36:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 3101 N Township Rd 47, Fostoria, OH 44830, USA</b> 
+
+ BIG BOY 4014 IS COMING BACK TO FOSTORIA
+Union Pacific's Big Boy No. 4014 returns to Fostoria on Tuesday, July 14, 2026, for a special public display during its Coast-to-Coast Tour Eastern Leg celebrating America’s 250th anniversary!
+This is your opportunity to get up close to the world’s largest operating steam locomotive as thousands of visitors gather in Fostoria for this historic event and community-wide experience.
+Tuesday, July 14, 2026
+Big Boy No. 4014 is scheduled to be on public display from 9:00 AM to 3:00 PM at the Norfolk Southern Fostoria Automotive Distribution Center. Visitors will have the opportunity to experience the world’s largest operating steam locomotive up close in one of America’s most historic railroad communities.
+This day will be more than a train stop, it will be a community-wide experience throughout Fostoria. Visitors are encouraged to explore local restaurants, shops, attractions, special events, and experiences happening across the city as Fostoria celebrates this once-in-a-lifetime event.
+More information, updates, local offers, and visitor details at: http://BigBoyFostoria.com/
+Experience the Legend, Experience Fostoria.]]></description>
+            <link>https://www.facebook.com/events/1005188655784340</link>
+            <guid isPermaLink="false">6a17e973acb2ba67bf55e6d7</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F708211145_1612307650900691_783513585513768046_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a1ba688b88b817f5e85b2b6</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23135</yodel:organizer_id>
+            <yodel:media_alt_text>Big Boy 4014 Fostoria, OH | July 14, 2026 Experience on Jul 14, 2026 in Fostoria, OH. Featured themes include steam locomotive and visitors.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Big Boy 4014 Fostoria, OH | July 14, 2026 Experience</b> - 07/14/2026 9:00am EDT to 07/14/2026 3:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:35:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 3101 N Township Rd 47, Fostoria, OH 44830, USA</b> 
+
+ BIG BOY 4014 IS COMING BACK TO FOSTORIA
+Union Pacific's Big Boy No. 4014 returns to Fostoria on Tuesday, July 14, 2026, for a special public display during its Coast-to-Coast Tour Eastern Leg celebrating America’s 250th anniversary!
+This is your opportunity to get up close to the world’s largest operating steam locomotive as thousands of visitors gather in Fostoria for this historic event and community-wide experience.
+Tuesday, July 14, 2026
+Big Boy No. 4014 is scheduled to be on public display from 9:00 AM to 3:00 PM at the Norfolk Southern Fostoria Automotive Distribution Center. Visitors will have the opportunity to experience the world’s largest operating steam locomotive up close in one of America’s most historic railroad communities.
+This day will be more than a train stop, it will be a community-wide experience throughout Fostoria. Visitors are encouraged to explore local restaurants, shops, attractions, special events, and experiences happening across the city as Fostoria celebrates this once-in-a-lifetime event.
+More information, updates, local offers, and visitor details at: http://BigBoyFostoria.com/
+Experience the Legend, Experience Fostoria.]]></description>
+            <link>https://www.facebook.com/events/1005188655784340</link>
+            <guid isPermaLink="false">6a1b9ecb35b65589a135fcbc</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-det1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F708211145_1612307650900691_783513585513768046_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a1ba688b88b817f5e85b2b6</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>169475</yodel:organizer_id>
+            <yodel:media_alt_text>Big Boy 4014 Fostoria, OH | July 14, 2026 Experience on Jul 14, 2026 in Fostoria, OH. Featured themes include fostoria and fostoria, ohio.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Big Boy 4014 Fostoria, OH | July 14, 2026 Experience</b> - 07/14/2026 9:00am EDT to 07/14/2026 3:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:34:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 3101 N Township Rd 47, Fostoria, OH 44830, USA</b> 
+
+ Join us on July 14, 2026, as Union Pacific's Big Boy No. 4014 returns to Fostoria, OH, for a special public display during its Coast-to-Coast Tour, commemorating America's 250th anniversary. From 9:00 AM to 3:00 PM at the Norfolk Southern Fostoria Automotive Distribution Center, visitors can get an up-close view of the world’s largest operating steam locomotive. This historic event promises to be more than just a train stop; it will transform Fostoria into a vibrant community experience. Attendees are encouraged to explore local restaurants, shops, attractions, and participate in special events across the city. Don't miss this incredible opportunity to experience the legend of Big Boy while celebrating the rich history of Fostoria. For more information, visit http://BigBoyFostoria.com/.]]></description>
+            <link>https://www.facebook.com/events/1005188655784340</link>
+            <guid isPermaLink="false">6a0526a47e638a4feb9c9a86</guid>
+            <dc:creator><![CDATA[Fostoria Rail Preservation Society]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F708211145_1612307650900691_783513585513768046_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a1ba688b88b817f5e85b2b6</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23024</yodel:organizer_id>
+            <yodel:media_alt_text>Big Boy 4014 Fostoria, OH | July 14, 2026 Experience on Jul 14, 2026 in Fostoria, OH. Featured themes include big boy 4014 and community experience.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Union Pacific's Big Boy No. 4014 Display at Norfolk Southern Fostoria Automotive Distribution Center</b> - 07/14/2026 9:00am EDT to 07/14/2026 3:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:33:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 3101 N Township Rd 47, Fostoria, OH 44830, USA</b> 
+
+ Up-Close Rail Experience! Union Pacific’s Big Boy No. 4014, the world’s largest operating steam locomotive, is coming to town! A public display is planned from 9:00 AM to 3:00 PM on Tuesday, July 14 at the Norfolk Southern Fostoria Automotive Distribution Center. This is officially one of the best opportunities in the region to see this incredible machine up close.]]></description>
+            <link>https://ohiogop.org/events/union-pacifics-big-boy-no-4014-display-at-norfolk-southern-fostoria-automotive-distribution-center/</link>
+            <guid isPermaLink="false">6a49c6fb3eb83bd8631cc615</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <dc:creator><![CDATA[Decatur County Republican Party]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fb77d26c4-a839-4820-94f1-70df740a9cfd.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>18467</yodel:organizer_id>
+            <yodel:media_alt_text>Union Pacific&apos;s Big Boy No. 4014 Display at Norfolk Southern Fostoria Automotive Distribution Center on Jul 14, 2026 in Fostoria, OH. Featured themes include public display and republican party.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>10:30a | Family Storytime</b> - 07/14/2026 10:30am EDT to 07/14/2026 11:30am EDT]]></title><pubDate>Tue, 11 Aug 2026 23:32:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Join the Youth Services Department at the Tiffin-Seneca Public Library for “Family Storytime” on Tuesdays, July 7, 14, and 21 at 10:30 a.m. in the Frost Kalnow Room. This engaging program, part of the 2026 Summer Reading Program “Unearth a Story,” features stories, songs, rhymes, games, and activities suitable for the whole family. All ages are welcome, and no registration is required. For more information, visit the Junior Library, call 419-447-3751, or go to http://www.tiffinsenecalibrary.org/.]]></description>
+            <link>https://tiffin-oh.whofi.com/calendar/embed</link>
+            <guid isPermaLink="false">6a2b5f07390a64d4acfb8580</guid>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fe498d648-b675-4acf-821d-ef18b1cf7a8f.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>10:30a | Family Storytime on Jul 14, 2026 in Tiffin, OH. Featured themes include stories songs rhymes games and summer reading program.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Summer Storytime</b> - 07/14/2026 10:30am EDT to 07/14/2026 11:30am EDT]]></title><pubDate>Tue, 11 Aug 2026 23:31:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Story Time is best suited for almost 3 year-olds through Kindergarten, lasts for 45-60 minutes, and includes stories, songs, extension activities & a craft.]]></description>
+            <link>https://www.facebook.com/events/800683659679285/800683676345950</link>
+            <guid isPermaLink="false">6a35574a39244d1b025b3691</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F726061438_1424122786414704_6165052464980112296_n.png" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22991</yodel:organizer_id>
+            <yodel:media_alt_text>Summer Storytime on Jul 14, 2026 in Attica, OH. Featured themes include extension activities and kindergarten.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Grab And Go Lunches</b> - 07/14/2026 12:00pm EDT to 07/14/2026 1:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:30:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
+
+ Grab And Go Lunches For Kids are each Tuesday in June and July 12pm-1pm, or until they run out, at FNC Hope Community Center.]]></description>
+            <link>https://www.facebook.com/events/1041361584980996</link>
+            <guid isPermaLink="false">6a42f9b8cb4a14693f974dcd</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F734330075_2056883931871664_278738216841212573_n.png" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26867</yodel:organizer_id>
+            <yodel:media_alt_text>Grab And Go Lunches on Jul 14, 2026 in Fostoria, OH. Featured themes include Food &amp; Drink and community center.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Homemade Scent Jars - Seneca Conservation District</b> - 07/14/2026 1:00pm EDT to 07/14/2026 2:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:29:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Join the Seneca Conservation District for the Homemade Scent Jars event. To participate, please call Allen Eiry at 419-448-9774 to sign up.]]></description>
+            <link>https://www.facebook.com/events/2964703690399869</link>
+            <guid isPermaLink="false">6a287233441c7fc43ec0543f</guid>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F719223464_1492564192905610_401928341857219286_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22966</yodel:organizer_id>
+            <yodel:media_alt_text>Homemade Scent Jars - Seneca Conservation District on Jul 14, 2026 in Tiffin, OH. Featured themes include participate and seneca conservation district.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/14/2026 1:00pm EDT to 07/14/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:28:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871407278036</link>
+            <guid isPermaLink="false">6a278218dee30bbd9fa5d7b5</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Parks & Rec]]></category>
+            <dc:creator><![CDATA[Steinmetz Signs & Graphic Ink (SSG Ink - Shortened)]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lax3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a5214835058d8f125b39ed8</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>31330</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 14, 2026 in Tiffin, OH. Featured themes include exploring tiffin and interactive experience.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/14/2026 1:00pm EDT to 07/14/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:27:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871407278036</link>
+            <guid isPermaLink="false">6a4f1b8cc3e2abf39262f312</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a5214835058d8f125b39ed8</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>27898</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 14, 2026 in Tiffin, OH. Featured themes include seasonal and summer fun.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/14/2026 1:00pm EDT to 07/14/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:26:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 47 Clay St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871407278036</link>
+            <guid isPermaLink="false">6a26d6d42e8bf41ad89ed216</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Simply Shop Local]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a5214835058d8f125b39ed8</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>142321</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 14, 2026 in Tiffin, OH. Featured themes include Kids &amp; Family and family friendly.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/14/2026 1:00pm EDT to 07/14/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:25:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871407278036</link>
+            <guid isPermaLink="false">6a26523e641c68dc5a8b126e</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a5214835058d8f125b39ed8</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26442</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 14, 2026 in Tiffin, OH. Featured themes include wild goose chase and Seasonal &amp; Holiday.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Teen Tuesday: Summer Edition!</b> - 07/14/2026 2:00pm EDT to 07/14/2026 3:30pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:24:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ Join us for "Teen Tuesday: Summer Edition!" at the Tiffin-Seneca Public Library, happening on Tuesdays, July 7, 14, and 21 from 2:00 p.m. to 3:30 p.m. in the Frost Kalnow Room. This weekly hangout is open to teens entering grades 6 through 12 and will feature games, snacks, crafts, and more, as part of the 2026 Summer Reading Program "Unearth a Story." For more details, visit http://www.tiffinsenecalibrary.org/ or call the library at 419-447-3751.]]></description>
+            <link>https://www.facebook.com/events/2124376281470170/2124376288136836</link>
+            <guid isPermaLink="false">6a2cf076e2ee31b5fd2835a6</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <category><![CDATA[Kids & Family]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F723144766_1443180984519871_1607726388585591910_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Teen Tuesday: Summer Edition! on Jul 14, 2026 in Tiffin, OH. Featured themes include Kids &amp; Family and games snacks crafts.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>History in the Making | Unofficial World Record Attempt During Big Boy 4014 Fostoria</b> - 07/14/2026 4:00pm EDT to 07/14/2026 5:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:23:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 225 Atha Ave, Fostoria, OH 44830, USA</b> 
+
+ History in the Making | Join Fostoria's Unofficial World Record Attempt!
+Sign up and learn more: http://BigBoyFostoria.com/
+Be part of history in Fostoria!
+Following the public display of Union Pacific Big Boy No. 4014, we're inviting 400 participants to help create the Largest Human Image of a Train during an attempt to set an unofficial world record at the Fostoria Iron Triangle Rail Park.
+Thanks to the generosity of an anonymous local donor, the first 400 registered participants will receive a complimentary commemorative black event t-shirt (2XL only), produced locally by Beyond Laser Creations in Downtown Fostoria.
+Please arrive at the Fostoria Iron Triangle Rail Park by 3:30pm for check in on Tuesday, July 14. Participants will be assigned to designated sections before the record attempt. The official photo and record attempt will begin at approximately 4pm.
+If registrations exceed 400 participants, additional registrations will automatically be placed on a waitlist. We'll notify you if additional spots become available.
+Additional event details, parking information, and check-in instructions will be emailed prior to July 14.]]></description>
+            <link>https://www.facebook.com/events/1039801038597107</link>
+            <guid isPermaLink="false">6a4c357707f0ae2f73e7291e</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F736778659_1679880503226830_9079314551182548967_n.png" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a4c94fb73074d65d2df665e</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23135</yodel:organizer_id>
+            <yodel:media_alt_text>History in the Making | Unofficial World Record Attempt During Big Boy 4014 Fostoria on Jul 14, 2026 in Fostoria, OH. Featured themes include commemorative t-shirt and fostoria.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>History in the Making | Unofficial World Record Attempt During Big Boy 4014 Fostoria</b> - 07/14/2026 4:00pm EDT to 07/14/2026 5:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:22:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 225 Atha Ave, Fostoria, OH 44830, USA</b> 
+
+ History in the Making | Join Fostoria's Unofficial World Record Attempt!
+Sign up and learn more: http://BigBoyFostoria.com/
+Be part of history in Fostoria!
+Following the public display of Union Pacific Big Boy No. 4014, we're inviting 400 participants to help create the Largest Human Image of a Train during an attempt to set an unofficial world record at the Fostoria Iron Triangle Rail Park.
+Thanks to the generosity of an anonymous local donor, the first 400 registered participants will receive a complimentary commemorative black event t-shirt (2XL only), produced locally by Beyond Laser Creations in Downtown Fostoria.
+Please arrive at the Fostoria Iron Triangle Rail Park by 3:30pm for check in on Tuesday, July 14. Participants will be assigned to designated sections before the record attempt. The official photo and record attempt will begin at approximately 4pm.
+If registrations exceed 400 participants, additional registrations will automatically be placed on a waitlist. We'll notify you if additional spots become available.
+Additional event details, parking information, and check-in instructions will be emailed prior to July 14.]]></description>
+            <link>https://www.facebook.com/events/1039801038597107</link>
+            <guid isPermaLink="false">6a4c86c6adca773c342c2abb</guid>
+            <category><![CDATA[History & Museums]]></category>
+            <dc:creator><![CDATA[Destination Seneca County]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F736778659_1679880503226830_9079314551182548967_n.png" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a4c94fb73074d65d2df665e</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>169475</yodel:organizer_id>
+            <yodel:media_alt_text>History in the Making | Unofficial World Record Attempt During Big Boy 4014 Fostoria on Jul 14, 2026 in Fostoria, OH. Featured themes include human image of a train and participants.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Community Dinner</b> - 07/14/2026 6:00pm EDT to 07/14/2026 7:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:21:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
+
+ Free Community Dinner
+2nd & 4th Tuesday Each Month
+July 14th & 28th
+6pm-7pm
+FNC Hope Community Center
+339 Sandusky Street, Fostoria, Ohio]]></description>
+            <link>https://www.facebook.com/events/2463861440757007</link>
+            <guid isPermaLink="false">6a42f9b8edcca6b5ad79939c</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F733195154_1512590250332214_2369830144751851941_n.png" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26867</yodel:organizer_id>
+            <yodel:media_alt_text>Community Dinner on Jul 14, 2026 in Fostoria, OH. Featured themes include community dinner and dinner.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>World of Outlaws Ohio Logistics Brad Doty Classic</b> - 07/14/2026 6:00pm EDT to 07/14/2026 10:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:20:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Attica, OH 44807, USA</b> 
+
+ A huge week of Ohio Sprint Car racing continues as the Brad Doty Classic brings the World of Outlaws NOS Energy Drink Sprint Cars to Attica Raceway Park for the second and final time in 2026!]]></description>
+            <link>https://www.facebook.com/events/869808396225088</link>
+            <guid isPermaLink="false">696047a2555bc5e29af1e84d</guid>
+            <category><![CDATA[Sports, Adult]]></category>
+            <dc:creator><![CDATA[Attica Raceway]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-yyz1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F612306982_1303738861794356_9122269571772762693_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6971172df7a281507c4d4abb</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23133</yodel:organizer_id>
+            <yodel:media_alt_text>World of Outlaws Ohio Logistics Brad Doty Classic on Jul 14, 2026 in Attica, OH. Featured themes include sprint cars and world of outlaws.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>World of Outlaws Ohio Logistics Brad Doty Classic</b> - 07/14/2026 6:00pm EDT to 07/14/2026 10:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:19:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Attica, OH 44807, USA</b> 
+
+ A huge week of Ohio Sprint Car racing continues as the Brad Doty Classic brings the World of Outlaws NOS Energy Drink Sprint Cars to Attica Raceway Park for the second and final time in 2026!]]></description>
+            <link>https://www.facebook.com/events/869808396225088</link>
+            <guid isPermaLink="false">697116fcba1c8bafc41dbb67</guid>
+            <category><![CDATA[Sports, Adult]]></category>
+            <category><![CDATA[Outdoors]]></category>
+            <dc:creator><![CDATA[World of Outlaws Sprint Car Series]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F612306982_1303738861794356_9122269571772762693_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6971172df7a281507c4d4abb</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>73278</yodel:organizer_id>
+            <yodel:media_alt_text>World of Outlaws Ohio Logistics Brad Doty Classic on Jul 14, 2026 in Attica, OH. Featured themes include Sports, Adult and Outdoors.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>World of Outlaws Ohio Logistics Brad Doty Classic</b> - 07/14/2026 6:00pm EDT to 07/14/2026 10:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:18:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Attica, OH 44807, USA</b> 
+
+ A huge week of Ohio Sprint Car racing continues as the Brad Doty Classic brings the World of Outlaws NOS Energy Drink Sprint Cars to Attica Raceway Park for the second and final time in 2026!]]></description>
+            <link>https://www.facebook.com/events/869808396225088</link>
+            <guid isPermaLink="false">69b5250e987fd7195dc61c14</guid>
+            <category><![CDATA[Sports, Adult]]></category>
+            <dc:creator><![CDATA[Attica Raceway Park]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F612306982_1303738861794356_9122269571772762693_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6971172df7a281507c4d4abb</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>133815</yodel:organizer_id>
+            <yodel:media_alt_text>World of Outlaws Ohio Logistics Brad Doty Classic on Jul 14, 2026 in Attica, OH. Featured themes include brad doty classic and ohio sprint car racing.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Adult Program- Dig Into Charcuterie with Deb</b> - 07/14/2026 6:30pm EDT to 07/14/2026 7:30pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:17:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
+
+ Registration is required. Registration will open up two weeks before the date of the program. Sign up at the library or by calling 419-426-3825.]]></description>
+            <link>https://www.facebook.com/events/2243890973046260</link>
+            <guid isPermaLink="false">6a36b77d32217113d8fa2fe6</guid>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F726373210_1424135529746763_2476124712648980487_n.png" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22991</yodel:organizer_id>
+            <yodel:media_alt_text>Adult Program- Dig Into Charcuterie with Deb on Jul 14, 2026 in Attica, OH. Featured themes include registration required and seneca east public library.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>July CNA Session</b> - 07/15/2026 12:00am UTC to 07/15/2026 11:59pm UTC]]></title><pubDate>Tue, 11 Aug 2026 23:16:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 342 Perry St, Fostoria, OH 44830, USA</b> 
+
+ Becoming a Nurse Aide may be for you! Nurse Aides provide a variety of care-related tasks such as dressing, feeding and observing patients. Nurse Aides usually work in long-term care facilities, home health agencies, assisted living facilities and hospitals. After completing this course, students will be prepared to take the State written and competency exam. State exam fees are not included in the cost of this class. State exams are completed through D & S Diversified Technologies. 
+Clinical locations will be announced in class. Before the first day of class, students must read and sign a code of conduct contract. A Terra State Kern Center representative will go over this contract with you when you register. 
+All classes will take place at the Fostoria Learning Center. 
+342 Perry St, Fostoria, OH 44830 
+
+CONTACT(419) 559-2464kern@terra.edu 
+75 hours total 
+
+59 hours in class time 
+16 hours of Clinicals 
+Cost: $950/student, first state test fee included. 
+Max Class Size: 8 
+Before Clinicals each student will need following: 
+TB Test 
+Physical 
+*Scholarships available to eligible learners. For scholarship information, contact via email or phone: eriehle01@terra.edu / 419-559-2255]]></description>
+            <link>https://fostorialearningcenter.org/event/july-cna-session/2026-07-15/</link>
+            <guid isPermaLink="false">6a170f6138242b66a543d141</guid>
+            <category><![CDATA[Classes/Workshops]]></category>
+            <dc:creator><![CDATA[Fostoria Learning Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fyodelimageprod.blob.core.windows.net%2Fgroupimage%2Fff888179-43b8-48dd-88dc-0627444a93bc.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>23001</yodel:organizer_id>
+            <yodel:media_alt_text>July CNA Session on Jul 15, 2026 in Fostoria, OH. This is an all-day event with themes including clinical hours and long-term care.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Bloomville Lions Club Fundraiser Dinner</b> - 07/15/2026 4:30am EDT to 07/15/2026 5:30pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:15:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 28 Hopewell Ave, Tiffin, OH 44883, USA</b> 
+
+ Meal Includes: 2 Sandwiches - choise of Pulled Pork or Shredded Chicken (two of the same) Baked Beans, Coleslaw, Dessert.
+Enjoy a delicius meal while supporting a great cause!]]></description>
+            <link>https://www.facebook.com/events/866453293164442</link>
+            <guid isPermaLink="false">6a0c7119e1186618dda396b2</guid>
+            <category><![CDATA[Clubs]]></category>
+            <category><![CDATA[Food & Drink]]></category>
+            <dc:creator><![CDATA[Allen Eiry Center]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F700740197_1470742208421142_570280483443309800_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22966</yodel:organizer_id>
+            <yodel:media_alt_text>Bloomville Lions Club Fundraiser Dinner on Jul 15, 2026 in Tiffin, OH. Featured themes include pulled pork and shredded chicken.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>High School Robotics Summer Camp</b> - 07/15/2026 8:00am EDT to 07/15/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:14:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 155 Miami St, Tiffin, OH 44883, USA</b> 
+
+ Get ready for an exciting day of robotics at Tiffin University! You’ll learn the basics, write simple code and work with a team to complete fun robot missions in a real university lab. No experience needed – just bring your curiosity.
+• Explore how robots move, respond to code and are controlled through programming.
+• Complete navigation, obstacle courses, accuracy tasks and timed problem-solving activities in teams.
+• Use hands-on robotic programming including Sphero BOLT and Dobot Magician Lite, plus see live demos of the NAO humanoid robot and Spot the robot dog.
+• Gain coding experience, teamwork skills, STEM exposure and celebrate the day with a mini showcase.
+• Open to high school students grades 9-12.]]></description>
+            <link>https://www.facebook.com/events/799546343021972</link>
+            <guid isPermaLink="false">6a0204cffe0f561f0250ab70</guid>
+            <category><![CDATA[School]]></category>
+            <dc:creator><![CDATA[Tiffin University]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F689482329_1431908142317109_6253904381122674703_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>36602</yodel:organizer_id>
+            <yodel:media_alt_text>High School Robotics Summer Camp on Jul 15, 2026 in Tiffin, OH. Featured themes include teamwork skills and high school robotics summer camp.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Rubber Ducky Wednesday</b> - 07/15/2026 11:00am EDT to 07/15/2026 12:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:13:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 77 Jefferson St, Tiffin, OH 44883, USA</b> 
+
+ The Youth Services Department at the Tiffin-Seneca Public Library will host “Rubber Ducky Wednesday” on Wednesdays, July 1, 8, 15, and 22 at 11:00 a.m. in the Frost Kalnow Room.
+Babies age birth to 35 months and their caregivers are invited to a story time on July 1, July 8, and July 15 with books, songs and lap bounces. On July 22, join the Library for a play date with toys and books for the babies to enjoy together. This program is part of the 2026 Summer Reading Program, “Unearth a Story.”
+For more information, stop by the Junior Library, call 419-447-3751, or log on to http://www.tiffinsenecalibrary.org/]]></description>
+            <link>https://www.facebook.com/events/985513964192501/985513980859166</link>
+            <guid isPermaLink="false">6a28f311224643dc97e5f602</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Tiffin-Seneca Public Library ]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-bos5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F718073624_1441002728071030_1770903362066541031_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>22999</yodel:organizer_id>
+            <yodel:media_alt_text>Rubber Ducky Wednesday on Jul 15, 2026 in Tiffin, OH. Featured themes include seasonal and story time.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Collaborative Luncheon | July</b> - 07/15/2026 11:30am EDT to 07/15/2026 1:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:12:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 168 Miami St, Tiffin, OH 44883, USA</b> 
+
+ Welcome to the Seneca County Collaborative Luncheon series, where you have a seat at the table for a gathering filled with networking, education, promotion, and impact.
+On the menu…
+Date & Time: Wednesday, July 15, 2026
+11:30 AM: Doors Open
+11:30 AM - 12 PM: Networking
+12 PM - 1 PM: Program
+Location: Tiffin University’s Osceola Theatre
+Featured Speaker: LeSean Shaw, CEO Actual Reality Technologies
+Topic: Beyond ChatGPT: Building an AI Toolkit for Everyday Success
+Registration: $25 for members and non-members
+Our luncheon series is designed to provide a comprehensive experience that embodies the mission of the Collaborative and allows our organization to best serve you.
+Reserve your seat today at: https://senecaregionalchamberofcommerceoh.growthzoneapp.com/ap/Events/Register/52FavZVtbCWCq
+Experience the Collaborative one bite at a time. See you at the luncheon!]]></description>
+            <link>https://www.facebook.com/events/1638735237233283</link>
+            <guid isPermaLink="false">6a1bda7843f8bd80d0c10c35</guid>
+            <category><![CDATA[Business]]></category>
+            <dc:creator><![CDATA[Seneca Regional Chamber & Development]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F708451552_1390710016425679_5422397913055039588_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>33792</yodel:organizer_id>
+            <yodel:media_alt_text>Collaborative Luncheon | July on Jul 15, 2026 in Tiffin, OH. Featured themes include networking and tiffin, ohio.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/15/2026 1:00pm EDT to 07/15/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:11:00 EST</pubDate>
+            <description><![CDATA[<b>Location : 92 S Washington St, Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871353944708</link>
+            <guid isPermaLink="false">6a4f1b8b28b86643e6a56d96</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[The Social Cigar]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a5214825058d8f125b39ed5</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>27898</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 15, 2026 in Tiffin, OH. Featured themes include summer fun and tiffin wild goose chase.</yodel:media_alt_text>
+        </item><item>
+            <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/15/2026 1:00pm EDT to 07/15/2026 4:00pm EDT]]></title><pubDate>Tue, 11 Aug 2026 23:10:00 EST</pubDate>
+            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
+
+ Tiffin’s Wild Goose Chase
+All Summer Long MEMORIAL DAY THRU LABOR DAY
+Location: The City of Tiffin
+Get ready for a summer full of fun with Tiffin’s Wild Goose Chase, brought to you by Simply Shop Local!
+Spend the summer exploring Tiffin as you search for porch geese at participating local businesses throughout the city. Each stop is a chance to discover new places, support local, and enjoy a unique, interactive experience with friends and family.
+How It Works:
+1. Pick up a paper passport at any participating business OR
+2. Get your online pass here https://www.simplyshoplocal.org/blank/summer-1
+• Visit participating businesses around Tiffin
+• Find the porch goose at each location
+• Locate & record the 4 digit code for each goose.
+• Explore, shop, and enjoy the journey all summer long
+Whether you’re competing to find them all or just enjoying the adventure, the Wild Goose Chase is the perfect way to experience everything Tiffin has to offer.]]></description>
+            <link>https://www.facebook.com/events/2531871347278042/2531871353944708</link>
+            <guid isPermaLink="false">6a26523e641c68dc5a8b126b</guid>
+            <category><![CDATA[Seasonal & Holiday]]></category>
+            <dc:creator><![CDATA[Shop Tiffin Ohio]]></dc:creator>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710827499_122203117238439962_1187983022980279243_n.jpg" length="0" type="image/jpeg"/>
+            <yodel:duplicate_id>6a5214825058d8f125b39ed5</yodel:duplicate_id>
+            <yodel:featured>false</yodel:featured>
+            <yodel:paid_boost>false</yodel:paid_boost>
+            <yodel:is_sponsored>false</yodel:is_sponsored>
+            <yodel:organizer_id>26442</yodel:organizer_id>
+            <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 15, 2026 in Tiffin, OH. Featured themes include summer activities and support local.</yodel:media_alt_text>
         </item></channel>
 </rss>
