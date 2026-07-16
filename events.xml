@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - Seneca Starvue - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 21:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 23:15:03 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
@@ -86,22 +86,6 @@ Physical
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22992</yodel:organizer_id>
             <yodel:media_alt_text>Young Adventurers—River Exploration on Jul 16, 2026 in Bloomville, OH. Featured themes include linda rose and river exploration.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Brick Builders Club</b> - 07/16/2026 4:30pm EDT to 07/16/2026 5:30pm EDT]]></title>
-            <description><![CDATA[<b>Location : 14 N Main St, Attica, OH 44807, USA</b> 
-
- null]]></description>
-            <link>https://seneca-oh.whofi.com/calendar/event/179509/?method=embed</link>
-            <guid isPermaLink="false">6a0214592e137ee82e4a7567</guid>
-            <category><![CDATA[Clubs]]></category>
-            <dc:creator><![CDATA[Seneca East Public Library]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fseneca-oh.whofi.com%2Fpublic%2Fassets%2Fmedia%2FProgram-Icon-small.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>22991</yodel:organizer_id>
-            <yodel:media_alt_text>Brick Builders Club on Jul 16, 2026 in Attica, OH. Featured themes include Clubs and brick builders.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Party in the Parking Lot</b> - 07/16/2026 5:00pm EDT to 07/16/2026 10:00pm EDT]]></title>
