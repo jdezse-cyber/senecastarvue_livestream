@@ -4,7 +4,7 @@
         <description><![CDATA[RSS Feed - Seneca Starvue - Livestream]]></description>
         <link>https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 11:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 14:08:39 GMT</lastBuildDate>
         <atom:link href="https://my.yodel.today/api/v3/widget/rss_v1/69cfb77d6ce5bf548f6120e8" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[<b>ServSafe Manager Class</b> - 07/10/2026 10:00am EDT to 07/17/2026 2:00pm EDT]]></title>
@@ -218,26 +218,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>23049</yodel:organizer_id>
             <yodel:media_alt_text>Corner T Fun on Jul 17, 2026 in New Riegel, OH. This is a recurring event with themes including Food &amp; Drink and cafe.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Men's & Women's Bible Studies</b> - 07/17/2026 6:00pm EDT to 07/17/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Men's Bible Study
-Women's Bible Study
-Friday at 6pm
-July 17th & 24th
-No childcare provided]]></description>
-            <link>https://www.facebook.com/events/3115099742214554</link>
-            <guid isPermaLink="false">6a4913099849e7bb63e079ff</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F734355486_27315533134724633_8032035874116673416_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>Men&apos;s &amp; Women&apos;s Bible Studies on Jul 17, 2026 in Fostoria, OH. Featured themes include men&apos;s bible study and no childcare.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Something Rotten!</b> - 07/17/2026 7:30pm EDT to 07/17/2026 8:30pm EDT]]></title>
@@ -808,61 +788,6 @@ Physical
             <yodel:media_alt_text>July CNA Session on Jul 19, 2026 in Fostoria, OH. This is an all-day event with themes including long term care and nurse aide.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Daybreak Service</b> - 07/19/2026 8:30am EDT to 07/19/2026 9:00am EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us for Daybreak Service at Trinity United Church of Christ — a peaceful 30-minute morning gathering to start your day with reflection and community.
-When: March 1, 2026, 8:30 AM.
-Where: 131 E Perry St, Tiffin, OH.
-All are welcome.
-#DaybreakService #TrinityUCC #TiffinOH #MorningWorship #Community]]></description>
-            <link>https://www.facebook.com/events/1000875442440041/1000875472440038</link>
-            <guid isPermaLink="false">6a1cd8769c548b44391439a0</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F706990822_1399825698843913_25659486259840404_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27449</yodel:organizer_id>
-            <yodel:media_alt_text>Daybreak Service on Jul 19, 2026 in Tiffin, OH. Featured themes include community and daybreak service.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Sunday School and Church Service</b> - 07/19/2026 9:30am EDT to 07/19/2026 10:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- 9:30am-10:30am Sunday School
-Classes for Toddlers, Kids, Youth, and Adults on Sunday mornings that study the Bible and talk about applying it to our lives.
-10:30am Worship followed by Sunday Service. 10:50am Online, worship at home and join us on Facebook or YouTube at 10:50am live, or watch later at your convenience.]]></description>
-            <link>https://www.facebook.com/events/1060972713073714</link>
-            <guid isPermaLink="false">6a42f9b89b4be7eba8fe79f9</guid>
-            <category><![CDATA[Religious]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F734644854_1035658609422625_4542599787240877683_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>Sunday School and Church Service on Jul 19, 2026 in Fostoria, OH. Featured themes include fostoria, ohio and kids.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Service of the Word</b> - 07/19/2026 10:00am EDT to 07/19/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us for worship, Sunday mornings at 10:00 am. In person or online via Facebook and Youtube. (search: Trinity UCC Tiffin)]]></description>
-            <link>https://www.facebook.com/events/851819797448002/851820504114598</link>
-            <guid isPermaLink="false">6a1cd85b9714040ea6862fcf</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-atl3-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713805076_1406093188217164_3166402453979638270_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27449</yodel:organizer_id>
-            <yodel:media_alt_text>Service of the Word on Jul 19, 2026 in Tiffin, OH. Featured themes include online and online service.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>JAM’s Growing together Kids Class series July Lizard Lessons and Creative Adventures</b> - 07/19/2026 12:00pm EDT to 07/19/2026 1:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 144 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -1330,22 +1255,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>23110</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 20, 2026 in Tiffin, OH. Featured themes include Lifestyle and family activity.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Celebrate Recovery Bible Study</b> - 07/20/2026 6:00pm EDT to 07/20/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Join us for Celebrate Recovery Bible Study Monday nights at 6pm. A group for everyone, as we deal with the hurts, hang ups, and habits in life. Bring your family, friends, and neighbors. A time of Bible Study, sharing life, and fellowship. No childcare is provided.]]></description>
-            <link>https://www.facebook.com/events/1509101326891006</link>
-            <guid isPermaLink="false">6a42f9b811ecce50be54bc24</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F736218058_997338739579544_5984033149537936612_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>Celebrate Recovery Bible Study on Jul 20, 2026 in Fostoria, OH. Featured themes include celebrate recovery bible study and family friends neighbors.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>July CNA Session</b> - 07/21/2026 12:00am UTC to 07/21/2026 11:59pm UTC]]></title>
@@ -2091,22 +2000,6 @@ We have a few exciting updates to share and upcoming plans to map out, so your v
             <yodel:media_alt_text>Redmen Club Meeting on Jul 22, 2026 in Fostoria, OH. Featured themes include ideas and monthly meeting.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Wednesday Night Bible Study</b> - 07/22/2026 6:00pm EDT to 07/22/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Join us at 6pm Wednesday Nights for Bible Study through the book of Acts. Everyone is welcome. Childcare is not provided. Contact us with any questions.]]></description>
-            <link>https://www.facebook.com/events/4025278477770164</link>
-            <guid isPermaLink="false">6a42f9b96cc95a281baa2181</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F732961843_1013356271627240_9004074512993322527_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>Wednesday Night Bible Study on Jul 22, 2026 in Fostoria, OH. Featured themes include childcare not provided and fostoria church.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>"Beginning Needle Felting"  Wednesday, July 22, 2026 6pm-9pm  #07222601</b> - 07/22/2026 6:00pm EDT to 07/22/2026 9:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 130 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -2803,26 +2696,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:media_alt_text>Christmas in July on Jul 24, 2026 in Tiffin, OH. Featured themes include live entertainment and new riegel, ohio.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Men's and Women's Bible Studies</b> - 07/24/2026 6:00pm EDT to 07/24/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Men's Bible Study
-Women's Bible Study
-Friday at 6pm
-July 17th & 24th
-No childcare provided]]></description>
-            <link>https://www.facebook.com/events/2010817330308682</link>
-            <guid isPermaLink="false">6a4912e19849e7bb63e079ef</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F734522053_1575711847376011_2225579026051277398_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>Men&apos;s and Women&apos;s Bible Studies on Jul 24, 2026 in Fostoria, OH. Featured themes include men&apos;s and women&apos;s bible studies and Religious.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Dance for Seniors in the Community</b> - 07/24/2026 6:30pm EDT to 07/24/2026 8:30pm EDT]]></title>
             <description><![CDATA[<b>Location : 54 S Washington St, Tiffin, OH 44883, USA</b> 
 
@@ -2987,22 +2860,6 @@ Tiffin Ohio 44883]]></description>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>147339</yodel:organizer_id>
             <yodel:media_alt_text>Farmers Market on Jul 25, 2026 in Tiffin, OH. Featured themes include Markets and Food &amp; Drink.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Tiffin Farmer's Market</b> - 07/25/2026 9:00am EDT to 07/25/2026 1:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 895 E Township Rd 122, Tiffin, OH 44883, USA</b> 
-
- null]]></description>
-            <link>https://www.facebook.com/events/1479281737220209/1479281747220208</link>
-            <guid isPermaLink="false">6a3f883f18875a334e1707a0</guid>
-            <category><![CDATA[Markets]]></category>
-            <dc:creator><![CDATA[Homestead 6:33]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F721626427_2252768822184568_5972254856920877938_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>193973</yodel:organizer_id>
-            <yodel:media_alt_text>Tiffin Farmer&apos;s Market on Jul 25, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and Markets.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>20-HR OPOTA Security Firearm Certification (10 hr classroom & 10 hr range)</b> - 07/25/2026 9:00am EDT to 07/25/2026 8:30pm EDT]]></title>
@@ -3464,61 +3321,6 @@ Physical
             <yodel:media_alt_text>July CNA Session on Jul 26, 2026 in Fostoria, OH. This is an all-day event with themes including long-term care facilities and nurse aide.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Daybreak Service</b> - 07/26/2026 8:30am EDT to 07/26/2026 9:00am EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us for Daybreak Service at Trinity United Church of Christ — a peaceful 30-minute morning gathering to start your day with reflection and community.
-When: March 1, 2026, 8:30 AM.
-Where: 131 E Perry St, Tiffin, OH.
-All are welcome.
-#DaybreakService #TrinityUCC #TiffinOH #MorningWorship #Community]]></description>
-            <link>https://www.facebook.com/events/1000875442440041/1000875462440039</link>
-            <guid isPermaLink="false">6a1cd8779c548b44391439a1</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-3.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F706990822_1399825698843913_25659486259840404_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27449</yodel:organizer_id>
-            <yodel:media_alt_text>Daybreak Service on Jul 26, 2026 in Tiffin, OH. Featured themes include reflection and tiffin, ohio.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Sunday School and Church Service</b> - 07/26/2026 9:30am EDT to 07/26/2026 10:30am EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- 9:30am-10:30am Sunday School
-Classes for Toddlers, Kids, Youth, and Adults on Sunday mornings that study the Bible and talk about applying it to our lives.
-10:30am Worship followed by Sunday Service. 10:50am Online, worship at home and join us on Facebook or YouTube at 10:50am live, or watch later at your convenience.]]></description>
-            <link>https://www.facebook.com/events/1678559247613707</link>
-            <guid isPermaLink="false">6a42f9b911ecce50be54bc26</guid>
-            <category><![CDATA[Religious]]></category>
-            <category><![CDATA[Kids & Family]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F734178628_911660538606546_1762969378030144521_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>Sunday School and Church Service on Jul 26, 2026 in Fostoria, OH. Featured themes include kids and sunday school.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Service of the Word</b> - 07/26/2026 10:00am EDT to 07/26/2026 11:00am EDT]]></title>
-            <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
-
- Join us for worship, Sunday mornings at 10:00 am. In person or online via Facebook and Youtube. (search: Trinity UCC Tiffin)]]></description>
-            <link>https://www.facebook.com/events/851819797448002/851820497447932</link>
-            <guid isPermaLink="false">6a1cd85b9714040ea6862fce</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Trinity United Church of Christ Tiffin ]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F713805076_1406093188217164_3166402453979638270_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>27449</yodel:organizer_id>
-            <yodel:media_alt_text>Service of the Word on Jul 26, 2026 in Tiffin, OH. Featured themes include service of the word and spirituality.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/26/2026 1:00pm EDT to 07/26/2026 4:00pm EDT]]></title>
             <description><![CDATA[<b>Location : Tiffin, OH 44883, USA</b> 
 
@@ -3824,22 +3626,6 @@ Drop-In Rate: $40 per class Available on a first-come, first-served basis as spa
             <yodel:media_alt_text>Milkshakes for Members on Jul 27, 2026 in Tiffin, OH. Featured themes include Food &amp; Drink and members.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>Milkshakes for Members</b> - 07/27/2026 11:00am EDT to 07/27/2026 3:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 100 Hopewell Ave, Tiffin, OH 44883, USA</b> 
-
- We value your membership and want to give back by supporting the junior fair! Milkshakes are for Seneca County Farm Bureau members only.]]></description>
-            <link>https://ofbf.org/community/events/milkshakes-for-members/</link>
-            <guid isPermaLink="false">6a3b3e2dc06f5ba45b502da3</guid>
-            <category><![CDATA[Causes]]></category>
-            <dc:creator><![CDATA[Highland County Farm Bureau]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fofbf.org%2Fapp%2Fuploads%2F2026%2F06%2Fmilkshake-stock-image-pexels.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>100742</yodel:organizer_id>
-            <yodel:media_alt_text>Milkshakes for Members on Jul 27, 2026 in Tiffin, OH. Featured themes include Causes and highland county farm bureau.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Tiffin's Wild Goose Chase</b> - 07/27/2026 1:00pm EDT to 07/27/2026 4:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 107 E Perry St, Tiffin, OH 44883, USA</b> 
 
@@ -4047,22 +3833,6 @@ Whether you’re competing to find them all or just enjoying the adventure, the 
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>27898</yodel:organizer_id>
             <yodel:media_alt_text>Tiffin&apos;s Wild Goose Chase on Jul 27, 2026 in Tiffin, OH. Featured themes include summer fun and tiffin wild goose chase.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Celebrate Recovery Bible Study</b> - 07/27/2026 6:00pm EDT to 07/27/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Join us for Celebrate Recovery Bible Study Monday nights at 6pm. A group for everyone, as we deal with the hurts, hang ups, and habits in life. Bring your family, friends, and neighbors. A time of Bible Study, sharing life, and fellowship. No childcare is provided.]]></description>
-            <link>https://www.facebook.com/events/1793576971441272</link>
-            <guid isPermaLink="false">6a42f9aa11ecce50be54bc18</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F734384551_1929999267709514_3887791251393429432_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>Celebrate Recovery Bible Study on Jul 27, 2026 in Fostoria, OH. Featured themes include celebrate recovery bible study and family friends neighbors.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Prayer Day</b> - 07/28/2026 9:00am EDT to 07/28/2026 8:30pm EDT]]></title>
@@ -4426,22 +4196,6 @@ FNC Hope Community Center
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>22999</yodel:organizer_id>
             <yodel:media_alt_text>Rubber Ducky Sensory Fun on Jul 29, 2026 in Tiffin, OH. Featured themes include Seasonal &amp; Holiday and babies.</yodel:media_alt_text>
-        </item>
-        <item>
-            <title><![CDATA[<b>Wednesday Night Bible Study</b> - 07/29/2026 6:00pm EDT to 07/29/2026 7:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 339 Sandusky St, Fostoria, OH 44830, USA</b> 
-
- Join us at 6pm Wednesday Nights for Bible Study through the book of Acts. Everyone is welcome. Childcare is not provided. Contact us with any questions.]]></description>
-            <link>https://www.facebook.com/events/1038924058607122</link>
-            <guid isPermaLink="false">6a42f9b103648514502fe8ab</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Fostoria Church of the Nazarene]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-sjc6-1.xx.fbcdn.net%2Fv%2Ft39.99422-6%2F735010003_998902763026586_5064720797058631160_n.png" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>26867</yodel:organizer_id>
-            <yodel:media_alt_text>Wednesday Night Bible Study on Jul 29, 2026 in Fostoria, OH. Featured themes include wednesday night bible study and Religious.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>Anne Wilson with Special guest Band Reeves</b> - 07/29/2026 6:00pm EDT to 07/29/2026 10:30pm EDT]]></title>
@@ -6297,24 +6051,6 @@ No registration required but you must bring supply list from the school for pick
             <yodel:media_alt_text>WEW- Sewing with Erin on Aug 12, 2026 in Tiffin, OH. Featured themes include tiffin, ohio and women empowering women.</yodel:media_alt_text>
         </item>
         <item>
-            <title><![CDATA[<b>BUCC's Beer, Burgers & Bibles (Monthly Bible Study)</b> - 08/12/2026 6:00pm EDT to 08/12/2026 8:00pm EDT]]></title>
-            <description><![CDATA[<b>Location : 33 N Marion St, Bloomville, OH 44818, USA</b> 
-
- Join us as we take a deep dive on small sections of the bible for our monthly bible study. Location and menu vary month to month.
-Call or text Audrey at 419-561-0244 if you'd like to join us!
-We have a very casual, fun, "no stupid questions" atmosphere. It's not hard to jump in - you don't need to have joined a previously. Come and go as you please!]]></description>
-            <link>https://www.facebook.com/events/865090319343004/865090349343001</link>
-            <guid isPermaLink="false">6936195e7795e045ce121f35</guid>
-            <category><![CDATA[Religious]]></category>
-            <dc:creator><![CDATA[Bloomville UCC]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-lga3-2.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F596470058_1313793204114932_6423188228468428714_n.jpg" length="0" type="image/jpeg"/>
-            <yodel:featured>false</yodel:featured>
-            <yodel:paid_boost>false</yodel:paid_boost>
-            <yodel:is_sponsored>false</yodel:is_sponsored>
-            <yodel:organizer_id>25226</yodel:organizer_id>
-            <yodel:media_alt_text>BUCC&apos;s Beer, Burgers &amp; Bibles (Monthly Bible Study) on Aug 12, 2026 in Bloomville, OH. Featured themes include monthly event and no stupid questions.</yodel:media_alt_text>
-        </item>
-        <item>
             <title><![CDATA[<b>Ice Cream Social | Benefiting the Fostoria Area Historical Society</b> - 08/12/2026 6:00pm EDT to 08/12/2026 8:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 105 E Tiffin St, Fostoria, OH 44830, USA</b> 
 
@@ -6796,7 +6532,7 @@ $10 entry fee per vehicle registered
             <title><![CDATA[<b>19th Annual Summer Harvest Gourmet Gala</b> - 08/15/2026 6:00pm EDT to 08/15/2026 9:00pm EDT]]></title>
             <description><![CDATA[<b>Location : 200 St Francis Ave, Tiffin, OH 44883, USA</b> 
 
- Saturday, August 15 (6:00-9:00pm) 19th Annual Summer Harvest Gourmet Gala benefitting the Franciscan Earth Literacy Center & Seeds of Hope Farm will be held on the St. Francis Campus, 200 St. Francis Ave., Tiffin.
+ Saturday, August 15 (6:00-9:00pm) 19th Annual Summer Harvest Gourmet Gala benefitting the Franciscan Earth Literacy Center & Seeds of Hope Farm. The event will be held on the St. Francis Campus, 200 St. Francis Ave., Tiffin.
 Cost $50/person. Includes: Heavy appetizers made with chemical-free farm produce grown on the Seeds of Hope Farm provided by local restaurants and universities and assorted desserts, live cooking demonstrations and wine & brews from local wineries and breweries, and live music by Mimi Johnston. Ticket holders will also receive 1 general raffle entry, 1 Gift Card Tree (worth $250) entry and a Chance to Win $500 entry. Additional tickets may be purchased. There will also be a 50/50, Live/Silent and Online Auction Items, Wine Grab and more.
 Enter into as special "Florida Getaway" raffle donated by Tony and Robin Gorrell. This Waterfront House on the Isle of Palms Island, located in Treasure Island, Florida (north of St. Petersburg Beach) with a private pool and two full baths for up to 6 guests for one week (available September - December 2025 or April - December 15, 2026). Value: $2200. Tickets are $30 ea. or 4 for $100 and you do not need to be present to win. Don’t forget to bid on online auction items between Aug 7th – 14th at https://www.32auctions.com/FELCGala2026.
 Be entered into an Early Bird Drawing if ticket is purchased before July 1st https://dsnp.co/3JHZ7o. Winners of all raffle drawings will be announced at the event, posted on Facebook and contacted by phone. Deadline to purchase tickets: August 5th. For more information or for tickets, call Mission Advancement Office at 419-447-0435 or visit http://www.felctiffin.org/]]></description>
@@ -6805,12 +6541,12 @@ Be entered into an Early Bird Drawing if ticket is purchased before July 1st htt
             <category><![CDATA[Food & Drink]]></category>
             <category><![CDATA[Seasonal & Holiday]]></category>
             <dc:creator><![CDATA[Franciscan Earth Literacy Center]]></dc:creator>
-            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-xxc1-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710613573_1411340051033063_6564376539894598494_n.jpg" length="0" type="image/jpeg"/>
+            <enclosure url="https://my.yodel.today/api/v3/media/image?type=web&amp;url=https%3A%2F%2Fscontent-ord5-1.xx.fbcdn.net%2Fv%2Ft39.30808-6%2F710613573_1411340051033063_6564376539894598494_n.jpg" length="0" type="image/jpeg"/>
             <yodel:featured>false</yodel:featured>
             <yodel:paid_boost>false</yodel:paid_boost>
             <yodel:is_sponsored>false</yodel:is_sponsored>
             <yodel:organizer_id>23025</yodel:organizer_id>
-            <yodel:media_alt_text>19th Annual Summer Harvest Gourmet Gala on Aug 15, 2026 in Tiffin, OH. Featured themes include franciscan earth literacy center and live music.</yodel:media_alt_text>
+            <yodel:media_alt_text>19th Annual Summer Harvest Gourmet Gala on Aug 15, 2026 in Tiffin, OH. Featured themes include local restaurants and raffle entries.</yodel:media_alt_text>
         </item>
         <item>
             <title><![CDATA[<b>2026 Tiffin Flea Market</b> - 08/16/2026 9:00am EDT to 08/16/2026 3:00pm EDT]]></title>
